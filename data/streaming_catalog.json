@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-05-18T19:21:58Z",
+  "generated_at": "2026-05-18T19:32:30Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -115,7 +115,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -124,7 +124,7 @@
             },
             {
               "rank": 3,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -454,7 +454,7 @@
           "top_shows": [
             {
               "rank": 1,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -463,7 +463,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -820,7 +820,7 @@
             },
             {
               "rank": 3,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -856,7 +856,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -1159,7 +1159,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -1186,7 +1186,7 @@
             },
             {
               "rank": 5,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -1507,7 +1507,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -1525,7 +1525,7 @@
             },
             {
               "rank": 4,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -1864,7 +1864,7 @@
             },
             {
               "rank": 3,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -1891,7 +1891,7 @@
             },
             {
               "rank": 6,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -2248,7 +2248,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -2522,7 +2522,7 @@
             },
             {
               "rank": 9,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Undercover",
               "tmdb_id": 86942,
               "source_title": "Undercover",
@@ -2560,7 +2560,7 @@
             },
             {
               "rank": 3,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -2953,7 +2953,7 @@
             },
             {
               "rank": 8,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -3649,7 +3649,7 @@
             },
             {
               "rank": 8,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -3658,7 +3658,7 @@
             },
             {
               "rank": 9,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -3970,7 +3970,7 @@
             },
             {
               "rank": 5,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -3988,7 +3988,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -4318,7 +4318,7 @@
             },
             {
               "rank": 5,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -4327,7 +4327,7 @@
             },
             {
               "rank": 6,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -4675,7 +4675,7 @@
             },
             {
               "rank": 6,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -4684,7 +4684,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -5014,7 +5014,7 @@
             },
             {
               "rank": 5,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -5032,7 +5032,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Roast of Kevin Hart",
               "tmdb_id": 1658982,
               "source_title": "The Roast of Kevin Hart",
@@ -5380,7 +5380,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -5719,7 +5719,7 @@
             },
             {
               "rank": 6,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Ronda Rousey vs. Gina Carano",
               "tmdb_id": 1638300,
               "source_title": "Ronda Rousey vs. Gina Carano",
@@ -6022,7 +6022,7 @@
           "top_shows": [
             {
               "rank": 1,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Straight to Hell",
               "tmdb_id": 9698,
               "source_title": "Straight to Hell",
@@ -6736,7 +6736,7 @@
             },
             {
               "rank": 3,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Glory",
               "tmdb_id": 9665,
               "source_title": "Glory",
@@ -7447,7 +7447,7 @@
             },
             {
               "rank": 4,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Glass House",
               "tmdb_id": 2176,
               "source_title": "The Glass House",
@@ -10642,7 +10642,7 @@
             },
             {
               "rank": 2,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "A Girl & Her Guard Dog",
               "tmdb_id": 212053,
               "source_title": "A Girl & Her Guard Dog",
@@ -11082,7 +11082,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Exam",
               "tmdb_id": 29917,
               "source_title": "EXAM",
@@ -11183,7 +11183,7 @@
             },
             {
               "rank": 2,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -11275,7 +11275,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Mystery of Richard Simmons: A Diane Sawyer Special",
               "tmdb_id": 1689198,
               "source_title": "The Mystery of Richard Simmons: A Diane Sawyer Special",
@@ -11540,7 +11540,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -11897,7 +11897,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -12245,7 +12245,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -12593,7 +12593,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -12941,7 +12941,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -13280,7 +13280,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -13637,7 +13637,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -14003,7 +14003,7 @@
             },
             {
               "rank": 6,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -14333,7 +14333,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -14681,7 +14681,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -15020,7 +15020,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -15368,7 +15368,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -15716,7 +15716,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -16064,7 +16064,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -16421,7 +16421,7 @@
             },
             {
               "rank": 4,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -16495,7 +16495,7 @@
             },
             {
               "rank": 2,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Impuros",
               "tmdb_id": 890506,
               "source_title": "Impuros",
@@ -16769,7 +16769,7 @@
             },
             {
               "rank": 5,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -17099,7 +17099,7 @@
             },
             {
               "rank": 3,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -17474,7 +17474,7 @@
             },
             {
               "rank": 6,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
               "tmdb_id": 321564,
               "source_title": "Star Wars: The Mandalorian and Grogu | A Special Look",
@@ -17510,7 +17510,7 @@
             },
             {
               "rank": 10,
-              "media_type": "movie",
+              "media_type": "tvshow",
               "title": "Boss",
               "tmdb_id": 38922,
               "source_title": "Boss",
@@ -17575,7 +17575,7 @@
             },
             {
               "rank": 7,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "Climax",
               "tmdb_id": 507076,
               "source_title": "Climax",
@@ -17907,7 +17907,7 @@
             },
             {
               "rank": 4,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "The Mystery of Richard Simmons: A Diane Sawyer Special",
               "tmdb_id": 1689198,
               "source_title": "The Mystery of Richard Simmons: A Diane Sawyer Special",
@@ -21268,7 +21268,7 @@
             },
             {
               "rank": 8,
-              "media_type": "tvshow",
+              "media_type": "movie",
               "title": "UFC Fight Night 266: Bautista vs. Oliveira",
               "tmdb_id": 1604737,
               "source_title": "UFC Fight Night",

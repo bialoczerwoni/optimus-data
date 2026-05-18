@@ -161,9 +161,10 @@ class CatalogBuilder:
         for rank, entry in enumerate(entries[:10], start=1):
             title = entry["title"]
             tmdb_item = self._tmdb_item_for_title(media_type, title)
+            item_media_type = tmdb_item.get("media_type") if tmdb_item else media_type
             results.append({
                 "rank": rank,
-                "media_type": media_type,
+                "media_type": item_media_type,
                 "title": tmdb_item.get("title") if tmdb_item else title,
                 "tmdb_id": tmdb_item.get("tmdb_id") if tmdb_item else None,
                 "source_title": title,
@@ -426,4 +427,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

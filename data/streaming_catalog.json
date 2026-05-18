@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "generated_at": "2026-05-18T19:08:03Z",
+  "source": {
+    "top10": "flixpatrol",
+    "recently_added": "tmdb_discover"
+  },
+  "services": {
+    "netflix": {
+      "name": "Netflix",
+      "provider_id": "8",
+      "regions": {
+        "CA": {
+          "top_movies": [
+            {
+              "rank": 1,
+              "media_type": "movie",
+              "title": "The Crash",
+              "tmdb_id": null,
+              "source_title": "The Crash",
+              "source_slug": "the-crash",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 2,
+              "media_type": "movie",
+              "title": "Twisters",
+              "tmdb_id": null,
+              "source_title": "Twisters",
+              "source_slug": "twisters",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 3,
+              "media_type": "movie",
+              "title": "Remarkably Bright Creatures",
+              "tmdb_id": null,
+              "source_title": "Remarkably Bright Creatures",
+              "source_slug": "remarkably-bright-creatures",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 4,
+              "media_type": "movie",
+              "title": "Swapped",
+              "tmdb_id": null,
+              "source_title": "Swapped",
+              "source_slug": "swapped-2026",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 5,
+              "media_type": "movie",
+              "title": "Novocaine",
+              "tmdb_id": null,
+              "source_title": "Novocaine",
+              "source_slug": "novocaine-2025",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 6,
+              "media_type": "movie",
+              "title": "Apex",
+              "tmdb_id": null,
+              "source_title": "Apex",
+              "source_slug": "apex-2026",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 7,
+              "media_type": "movie",
+              "title": "Marty, Life Is Short",
+              "tmdb_id": null,
+              "source_title": "Marty, Life Is Short",
+              "source_slug": "marty-life-is-short",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 8,
+              "media_type": "movie",
+              "title": "Despicable Me 4",
+              "tmdb_id": null,
+              "source_title": "Despicable Me 4",
+              "source_slug": "despicable-me-4",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 9,
+              "media_type": "movie",
+              "title": "Dhurandhar: The Revenge",
+              "tmdb_id": null,
+              "source_title": "Dhurandhar: The Revenge",
+              "source_slug": "dhurandhar-the-revenge",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 10,
+              "media_type": "movie",
+              "title": "Kartavya",
+              "tmdb_id": null,
+              "source_title": "Kartavya",
+              "source_slug": "kartavya",
+              "source_date": "2026-05-18"
+            }
+          ],
+          "top_shows": [
+            {
+              "rank": 1,
+              "media_type": "tvshow",
+              "title": "The Roast of Kevin Hart",
+              "tmdb_id": null,
+              "source_title": "The Roast of Kevin Hart",
+              "source_slug": "the-roast-of-kevin-hart",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 2,
+              "media_type": "tvshow",
+              "title": "Ronda Rousey vs. Gina Carano",
+              "tmdb_id": null,
+              "source_title": "Ronda Rousey vs. Gina Carano",
+              "source_slug": "ronda-rousey-vs-gina-carano",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 3,
+              "media_type": "tvshow",
+              "title": "Nemesis",
+              "tmdb_id": null,
+              "source_title": "Nemesis",
+              "source_slug": "nemesis-2026",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 4,
+              "media_type": "tvshow",
+              "title": "Perfect Match",
+              "tmdb_id": null,
+              "source_title": "Perfect Match",
+              "source_slug": "perfect-match-2023",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 5,
+              "media_type": "tvshow",
+              "title": "Worst Ex Ever",
+              "tmdb_id": null,
+              "source_title": "Worst Ex Ever",
+              "source_slug": "worst-ex-ever",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 6,
+              "media_type": "tvshow",
+              "title": "Berlin and the Lady with an Ermine",
+              "tmdb_id": null,
+              "source_title": "Berlin and the Lady with an Ermine",
+              "source_slug": "berlin-and-the-lady-with-an-ermine",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 7,
+              "media_type": "tvshow",
+              "title": "Legends",
+              "tmdb_id": null,
+              "source_title": "Legends",
+              "source_slug": "legends-2026",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 8,
+              "media_type": "tvshow",
+              "title": "Man on Fire",
+              "tmdb_id": null,
+              "source_title": "Man on Fire",
+              "source_slug": "man-on-fire-2026",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 9,
+              "media_type": "tvshow",
+              "title": "Devil May Cry",
+              "tmdb_id": null,
+              "source_title": "Devil May Cry",
+              "source_slug": "devil-may-cry",
+              "source_date": "2026-05-18"
+            },
+            {
+              "rank": 10,
+              "media_type": "tvshow",
+              "title": "Running Point",
+              "tmdb_id": null,
+              "source_title": "Running Point",
+              "source_slug": "running-point",
+              "source_date": "2026-05-18"
+            }
+          ],
+          "recently_added": []
+        }
+      }
+    }
+  }
+}

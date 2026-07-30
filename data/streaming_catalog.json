@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-07-29T12:20:18Z",
+  "generated_at": "2026-07-30T12:03:54Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,11 +16,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1736916,
-              "title": "Instadocs: The Prediction Games",
-              "release_date": "2026-07-26",
-              "poster_path": "/xeTCcALCqpT8IvJuakrjk5clzXL.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1723570,
+              "title": "Mary Beth Barone: Galaxy Brain",
+              "release_date": "2026-07-28",
+              "poster_path": "/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+              "backdrop_path": "/ylMmsuM6Dwb3Jh7fwzZbRgQO4jT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -32,11 +32,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1736916,
+              "title": "Instadocs: The Prediction Games",
+              "release_date": "2026-07-26",
+              "poster_path": "/xeTCcALCqpT8IvJuakrjk5clzXL.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -48,11 +48,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1620682,
-              "title": "Love in Slow Motion",
-              "release_date": "2026-07-23",
-              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-              "backdrop_path": "/rivKhEJWZirF7UtnCnaN44YaJ69.jpg"
+              "tmdb_id": 1659155,
+              "title": "The Truthers",
+              "release_date": "2026-07-24",
+              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -64,11 +64,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1723460,
-              "title": "A Toxic Love Story",
-              "release_date": "2026-07-22",
-              "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
-              "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg"
+              "tmdb_id": 1620682,
+              "title": "Love in Slow Motion",
+              "release_date": "2026-07-23",
+              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+              "backdrop_path": "/rivKhEJWZirF7UtnCnaN44YaJ69.jpg"
             },
             {
               "media_type": "tvshow",
@@ -80,11 +80,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
+              "tmdb_id": 1723460,
+              "title": "A Toxic Love Story",
               "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
+              "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+              "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg"
             },
             {
               "media_type": "tvshow",
@@ -96,11 +96,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1630409,
-              "title": "The Debt Collector",
-              "release_date": "2026-07-23",
-              "poster_path": "/rrQBWCAgjosDn0HJpZNi7XhBcpN.jpg",
-              "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
+              "tmdb_id": 1487861,
+              "title": "Elize: Shadows of a Woman",
+              "release_date": "2026-07-22",
+              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -112,11 +112,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-20",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1630409,
+              "title": "The Debt Collector",
+              "release_date": "2026-07-23",
+              "poster_path": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
+              "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -128,11 +128,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+              "tmdb_id": 949838,
+              "title": "72 HOURS",
+              "release_date": "2026-07-20",
+              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -144,11 +144,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616674,
-              "title": "Me Before Me",
-              "release_date": "2026-07-16",
-              "poster_path": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-              "backdrop_path": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg"
+              "tmdb_id": 1468683,
+              "title": "Heartstopper Forever",
+              "release_date": "2026-07-17",
+              "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -160,11 +160,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1722713,
-              "title": "Miguel \u00c1ngel Blanco: The 48 Hours That Changed Spain",
-              "release_date": "2026-07-10",
-              "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
-              "backdrop_path": "/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg"
+              "tmdb_id": 1616674,
+              "title": "Me Before Me",
+              "release_date": "2026-07-16",
+              "poster_path": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+              "backdrop_path": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -265,7 +265,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -597,7 +597,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -704,11 +704,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 281281,
-              "title": "Elite Force",
-              "release_date": "2026-07-22",
-              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
+              "tmdb_id": 312573,
+              "title": "Class Crush Crisis",
+              "release_date": "2026-07-24",
+              "poster_path": "/c0GONDHxQjDYEy46Km333QKiub9.jpg",
+              "backdrop_path": "/r8HQOxPBy9fwByVCRYov3xMeOBS.jpg"
             },
             {
               "media_type": "movie",
@@ -720,11 +720,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325022,
-              "title": "GTO (2026)",
-              "release_date": "2026-07-20",
-              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
-              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
+              "tmdb_id": 281281,
+              "title": "Elite Force",
+              "release_date": "2026-07-22",
+              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
             },
             {
               "media_type": "movie",
@@ -736,11 +736,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298610,
-              "title": "Spooky in Love",
-              "release_date": "2026-07-18",
-              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+              "tmdb_id": 325022,
+              "title": "GTO (2026)",
+              "release_date": "2026-07-20",
+              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
             },
             {
               "media_type": "movie",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 288671,
-              "title": "The Map of Longing",
-              "release_date": "2026-07-17",
-              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
-              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
+              "tmdb_id": 298610,
+              "title": "Spooky in Love",
+              "release_date": "2026-07-18",
+              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 279323,
-              "title": "The East Palace",
+              "tmdb_id": 288671,
+              "title": "The Map of Longing",
               "release_date": "2026-07-17",
-              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
+              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 254528,
-              "title": "The Hawk",
-              "release_date": "2026-07-16",
-              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
-              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
+              "tmdb_id": 279323,
+              "title": "The East Palace",
+              "release_date": "2026-07-17",
+              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326194,
-              "title": "Hot Ones: Extra Heat",
-              "release_date": "2026-07-13",
-              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
-              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
+              "tmdb_id": 254528,
+              "title": "The Hawk",
+              "release_date": "2026-07-16",
+              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326063,
-              "title": "25 Years of You",
-              "release_date": "2026-07-11",
-              "poster_path": "/aDUl4kdFJgsks4DNb4ZlzXGOs8X.jpg",
-              "backdrop_path": "/o3koT0phJ4zIvSoOXpPfBS1WlkK.jpg"
+              "tmdb_id": 326194,
+              "title": "Hot Ones: Extra Heat",
+              "release_date": "2026-07-13",
+              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
+              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300727,
-              "title": "The Apartment Job",
+              "tmdb_id": 326063,
+              "title": "25 Years of You",
               "release_date": "2026-07-11",
-              "poster_path": "/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
-              "backdrop_path": "/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg"
+              "poster_path": "/aDUl4kdFJgsks4DNb4ZlzXGOs8X.jpg",
+              "backdrop_path": "/o3koT0phJ4zIvSoOXpPfBS1WlkK.jpg"
             }
           ]
         },
@@ -913,7 +913,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-06-26",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -1079,7 +1079,7 @@
               "tmdb_id": 1630409,
               "title": "The Debt Collector",
               "release_date": "2026-07-23",
-              "poster_path": "/rrQBWCAgjosDn0HJpZNi7XhBcpN.jpg",
+              "poster_path": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
               "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
             },
             {
@@ -1395,7 +1395,7 @@
               "tmdb_id": 1630409,
               "title": "The Debt Collector",
               "release_date": "2026-07-23",
-              "poster_path": "/rrQBWCAgjosDn0HJpZNi7XhBcpN.jpg",
+              "poster_path": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
               "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
             },
             {
@@ -1545,7 +1545,7 @@
               "tmdb_id": 1630409,
               "title": "The Debt Collector",
               "release_date": "2026-07-23",
-              "poster_path": "/rrQBWCAgjosDn0HJpZNi7XhBcpN.jpg",
+              "poster_path": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
               "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
             },
             {
@@ -1657,7 +1657,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -1759,7 +1759,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -1925,7 +1925,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298610,
-              "title": "Spooky in Love",
-              "release_date": "2026-07-18",
-              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+              "tmdb_id": 288671,
+              "title": "The Map of Longing",
+              "release_date": "2026-07-17",
+              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 288671,
-              "title": "The Map of Longing",
+              "tmdb_id": 279323,
+              "title": "The East Palace",
               "release_date": "2026-07-17",
-              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
-              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
+              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 279323,
-              "title": "The East Palace",
-              "release_date": "2026-07-17",
-              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
+              "tmdb_id": 254528,
+              "title": "The Hawk",
+              "release_date": "2026-07-16",
+              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 254528,
-              "title": "The Hawk",
-              "release_date": "2026-07-16",
-              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
-              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
+              "tmdb_id": 326194,
+              "title": "Hot Ones: Extra Heat",
+              "release_date": "2026-07-13",
+              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
+              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
             },
             {
               "media_type": "movie",
@@ -2637,7 +2637,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -2878,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 281281,
-              "title": "Elite Force",
-              "release_date": "2026-07-22",
-              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
+              "tmdb_id": 323579,
+              "title": "GATE24: The Border",
+              "release_date": "2026-07-23",
+              "poster_path": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+              "backdrop_path": "/6F5T8TPvHhD0cYlkaKNb3zd7wus.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325022,
-              "title": "GTO (2026)",
-              "release_date": "2026-07-20",
-              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
-              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
+              "tmdb_id": 281281,
+              "title": "Elite Force",
+              "release_date": "2026-07-22",
+              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298610,
-              "title": "Spooky in Love",
-              "release_date": "2026-07-18",
-              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+              "tmdb_id": 325022,
+              "title": "GTO (2026)",
+              "release_date": "2026-07-20",
+              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,27 +2926,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 288671,
-              "title": "The Map of Longing",
-              "release_date": "2026-07-17",
-              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
-              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
+              "tmdb_id": 298610,
+              "title": "Spooky in Love",
+              "release_date": "2026-07-18",
+              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-07-24",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 279323,
-              "title": "The East Palace",
+              "tmdb_id": 288671,
+              "title": "The Map of Longing",
               "release_date": "2026-07-17",
-              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
+              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 254528,
-              "title": "The Hawk",
-              "release_date": "2026-07-16",
-              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
-              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
+              "tmdb_id": 279323,
+              "title": "The East Palace",
+              "release_date": "2026-07-17",
+              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326194,
-              "title": "Hot Ones: Extra Heat",
-              "release_date": "2026-07-13",
-              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
-              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
+              "tmdb_id": 254528,
+              "title": "The Hawk",
+              "release_date": "2026-07-16",
+              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
             },
             {
               "media_type": "movie",
@@ -2990,11 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286345,
-              "title": "Though I Am an Inept Villainess",
-              "release_date": "2026-07-12",
-              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
-              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
+              "tmdb_id": 326194,
+              "title": "Hot Ones: Extra Heat",
+              "release_date": "2026-07-13",
+              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
+              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
             }
           ]
         },
@@ -3028,11 +3028,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 281281,
-              "title": "Elite Force",
-              "release_date": "2026-07-22",
-              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
-              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
+              "tmdb_id": 312573,
+              "title": "Class Crush Crisis",
+              "release_date": "2026-07-24",
+              "poster_path": "/c0GONDHxQjDYEy46Km333QKiub9.jpg",
+              "backdrop_path": "/r8HQOxPBy9fwByVCRYov3xMeOBS.jpg"
             },
             {
               "media_type": "movie",
@@ -3044,11 +3044,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325022,
-              "title": "GTO (2026)",
-              "release_date": "2026-07-20",
-              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
-              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
+              "tmdb_id": 281281,
+              "title": "Elite Force",
+              "release_date": "2026-07-22",
+              "poster_path": "/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+              "backdrop_path": "/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298610,
-              "title": "Spooky in Love",
-              "release_date": "2026-07-18",
-              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+              "tmdb_id": 325022,
+              "title": "GTO (2026)",
+              "release_date": "2026-07-20",
+              "poster_path": "/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+              "backdrop_path": "/dEflfPsFHsoA1Ds0bgieakzAKSZ.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 288671,
-              "title": "The Map of Longing",
-              "release_date": "2026-07-17",
-              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
-              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
+              "tmdb_id": 298610,
+              "title": "Spooky in Love",
+              "release_date": "2026-07-18",
+              "poster_path": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+              "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 279323,
-              "title": "The East Palace",
+              "tmdb_id": 288671,
+              "title": "The Map of Longing",
               "release_date": "2026-07-17",
-              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
+              "poster_path": "/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+              "backdrop_path": "/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 254528,
-              "title": "The Hawk",
-              "release_date": "2026-07-16",
-              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
-              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
+              "tmdb_id": 279323,
+              "title": "The East Palace",
+              "release_date": "2026-07-17",
+              "poster_path": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+              "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326194,
-              "title": "Hot Ones: Extra Heat",
-              "release_date": "2026-07-13",
-              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
-              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
+              "tmdb_id": 254528,
+              "title": "The Hawk",
+              "release_date": "2026-07-16",
+              "poster_path": "/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+              "backdrop_path": "/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325859,
-              "title": "The Psychopath I Met",
-              "release_date": "2026-07-12",
-              "poster_path": "/jdvNgCU4otRuiXTFgF3x8sqZpEg.jpg",
-              "backdrop_path": "/bt0da8ljPyjcMO1IAGoXlrdk9Do.jpg"
+              "tmdb_id": 326194,
+              "title": "Hot Ones: Extra Heat",
+              "release_date": "2026-07-13",
+              "poster_path": "/555dy45fvkxez6I8D981RYdM9yX.jpg",
+              "backdrop_path": "/gQB1HiIyJXVRQ57ln1icbzuTJIQ.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286345,
-              "title": "Though I Am an Inept Villainess",
+              "tmdb_id": 325859,
+              "title": "The Psychopath I Met",
               "release_date": "2026-07-12",
-              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
-              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
+              "poster_path": "/jdvNgCU4otRuiXTFgF3x8sqZpEg.jpg",
+              "backdrop_path": "/bt0da8ljPyjcMO1IAGoXlrdk9Do.jpg"
             }
           ]
         },
@@ -3253,7 +3253,7 @@
               "tmdb_id": 1596008,
               "title": "Con City",
               "release_date": "2026-06-26",
-              "poster_path": "/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
               "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
@@ -3529,11 +3529,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1442396,
-              "title": "Nagabandham: The Secret Treasure",
-              "release_date": "2026-07-02",
-              "poster_path": "/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-              "backdrop_path": "/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg"
+              "tmdb_id": 1703103,
+              "title": "Addicted to Change",
+              "release_date": "2026-07-30",
+              "poster_path": "/7Eewbbdv7MRsV87jlRWvwp1EFFE.jpg",
+              "backdrop_path": "/ts3Q7z59RdDZpqsE7dvtgWszKkj.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3545,11 +3545,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1646116,
-              "title": "Raptor Attack",
-              "release_date": "2026-06-28",
-              "poster_path": "/wYxrTKQxC1Cjjgy2xHLImbqh2HD.jpg",
-              "backdrop_path": "/dVAgM0hMZxdm2O8sllmjpxRsmme.jpg"
+              "tmdb_id": 1442396,
+              "title": "Nagabandham: The Secret Treasure",
+              "release_date": "2026-07-02",
+              "poster_path": "/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+              "backdrop_path": "/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3561,11 +3561,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1477317,
-              "title": "Your Fault: London",
-              "release_date": "2026-06-17",
-              "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-              "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
+              "tmdb_id": 1646116,
+              "title": "Raptor Attack",
+              "release_date": "2026-06-28",
+              "poster_path": "/wYxrTKQxC1Cjjgy2xHLImbqh2HD.jpg",
+              "backdrop_path": "/dVAgM0hMZxdm2O8sllmjpxRsmme.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3577,11 +3577,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1711295,
-              "title": "Away with Words",
-              "release_date": "2026-06-07",
-              "poster_path": "/mVyOssJid6690C11I8ItjQsSiqG.jpg",
-              "backdrop_path": "/vZvwBIjemaaf0sonJcnzNB3WuoB.jpg"
+              "tmdb_id": 1477317,
+              "title": "Your Fault: London",
+              "release_date": "2026-06-17",
+              "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+              "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3593,11 +3593,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 454639,
-              "title": "Masters of the Universe",
-              "release_date": "2026-06-03",
-              "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-              "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg"
+              "tmdb_id": 1711295,
+              "title": "Away with Words",
+              "release_date": "2026-06-07",
+              "poster_path": "/mVyOssJid6690C11I8ItjQsSiqG.jpg",
+              "backdrop_path": "/vZvwBIjemaaf0sonJcnzNB3WuoB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3609,11 +3609,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1464773,
-              "title": "Borley Rectory: The Awakening",
-              "release_date": "2026-02-21",
-              "poster_path": "/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
-              "backdrop_path": "/9wdVfCzmikQ5rukTVZQPtbSUOhi.jpg"
+              "tmdb_id": 454639,
+              "title": "Masters of the Universe",
+              "release_date": "2026-06-03",
+              "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+              "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3625,11 +3625,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1431071,
-              "title": "System",
-              "release_date": "2026-05-22",
-              "poster_path": "/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
-              "backdrop_path": "/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg"
+              "tmdb_id": 1464773,
+              "title": "Borley Rectory: The Awakening",
+              "release_date": "2026-02-21",
+              "poster_path": "/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
+              "backdrop_path": "/9wdVfCzmikQ5rukTVZQPtbSUOhi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3641,11 +3641,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1380291,
-              "title": "Tom Clancy's Jack Ryan: Ghost War",
-              "release_date": "2026-05-20",
-              "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-              "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg"
+              "tmdb_id": 1431071,
+              "title": "System",
+              "release_date": "2026-05-22",
+              "poster_path": "/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
+              "backdrop_path": "/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3657,11 +3657,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1701692,
-              "title": "Killer Curve",
-              "release_date": "2026-05-19",
-              "poster_path": "/ptWSogzNGNXOUHW9du3F9eyvIvw.jpg",
-              "backdrop_path": "/m0ZuwNbchDYUzeBW7jRWvURNcNx.jpg"
+              "tmdb_id": 1380291,
+              "title": "Tom Clancy's Jack Ryan: Ghost War",
+              "release_date": "2026-05-20",
+              "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+              "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7148,7 +7148,7 @@
             {
               "media_type": "tvshow",
               "tmdb_id": 315007,
-              "title": "Love In Sync",
+              "title": "Love in Sync",
               "release_date": "2026-07-04",
               "poster_path": "/iLf17aFCx2ESajFp1oyb03fmzNp.jpg",
               "backdrop_path": "/2p8SssGsphxOELypa5GREVTblwj.jpg"
@@ -7303,7 +7303,7 @@
               "tmdb_id": 1227241,
               "title": "Maa Inti Bangaram",
               "release_date": "2026-06-18",
-              "poster_path": "/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+              "poster_path": "/4JO2WYPwBL6qWsKIM4v7loHrNCX.jpg",
               "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg"
             },
             {
@@ -7643,11 +7643,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327688,
-              "title": "One Mile: Chapter One",
-              "release_date": "2026-03-09",
-              "poster_path": "/j7APL8QvNJH4oXdwIaMcGqRQlbM.jpg",
-              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-27",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7659,11 +7659,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2026-02-09",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/6OiMFTddtGe8dRr98gYWMgQjcSZ.jpg"
+              "tmdb_id": 1327688,
+              "title": "One Mile: Chapter One",
+              "release_date": "2026-03-09",
+              "poster_path": "/j7APL8QvNJH4oXdwIaMcGqRQlbM.jpg",
+              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7675,11 +7675,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1584215,
-              "title": "The Internship",
-              "release_date": "2026-02-02",
-              "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
-              "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg"
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-02-09",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/6OiMFTddtGe8dRr98gYWMgQjcSZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7691,11 +7691,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
-              "release_date": "2026-01-30",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
+              "tmdb_id": 1584215,
+              "title": "The Internship",
+              "release_date": "2026-02-02",
+              "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+              "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7707,11 +7707,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-20",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-30",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7723,11 +7723,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1287814,
-              "title": "Stone Cold Fox",
-              "release_date": "2025-12-01",
-              "poster_path": "/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg",
-              "backdrop_path": "/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-20",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7739,11 +7739,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1211776,
-              "title": "Violent Ends",
-              "release_date": "2026-02-23",
-              "poster_path": "/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg",
-              "backdrop_path": "/eqzCnwSw6PZjLCUIZIEGjikw6tB.jpg"
+              "tmdb_id": 1287814,
+              "title": "Stone Cold Fox",
+              "release_date": "2025-12-01",
+              "poster_path": "/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg",
+              "backdrop_path": "/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8473,11 +8473,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2026-01-01",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-29",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8489,11 +8489,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1575567,
-              "title": "Laghat - Un sogno impossibile",
-              "release_date": "2025-11-26",
-              "poster_path": "/og0V25iiWcfBidMbUcrJXxqcKnY.jpg",
-              "backdrop_path": "/8WzZgkZakh1k0WVbSYJrDMlomWq.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2026-01-01",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8505,11 +8505,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 1575567,
+              "title": "Laghat - Un sogno impossibile",
+              "release_date": "2025-11-26",
+              "poster_path": "/og0V25iiWcfBidMbUcrJXxqcKnY.jpg",
+              "backdrop_path": "/8WzZgkZakh1k0WVbSYJrDMlomWq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8521,11 +8521,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
-              "release_date": "2025-11-15",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "tmdb_id": 798645,
+              "title": "The Running Man",
+              "release_date": "2025-11-13",
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8537,11 +8537,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327862,
-              "title": "Regretting You",
-              "release_date": "2025-12-04",
-              "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
-              "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg"
+              "tmdb_id": 1507275,
+              "title": "A Paw Patrol Christmas",
+              "release_date": "2025-11-15",
+              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8553,11 +8553,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1327862,
+              "title": "Regretting You",
+              "release_date": "2025-12-04",
+              "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+              "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8569,11 +8569,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1251717,
-              "title": "Vicious",
-              "release_date": "2025-08-07",
-              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+              "tmdb_id": 1508191,
+              "title": "Ozzy: No Escape from Now",
+              "release_date": "2025-10-07",
+              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
             },
             {
               "media_type": "tvshow",

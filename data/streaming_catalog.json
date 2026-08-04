@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-03T13:19:49Z",
+  "generated_at": "2026-08-04T12:18:38Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -594,11 +594,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
+              "tmdb_id": 1443961,
+              "title": "Rao Bahadur",
+              "release_date": "2026-07-31",
+              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -610,11 +610,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1596008,
-              "title": "Con City",
-              "release_date": "2026-07-24",
-              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
-              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
+              "tmdb_id": 1202033,
+              "title": "Enola Holmes 3",
+              "release_date": "2026-07-01",
+              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -626,11 +626,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716365,
-              "title": "Ryan Hamilton: This Just Hit Me",
-              "release_date": "2026-06-23",
-              "poster_path": "/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
-              "backdrop_path": "/dlZyjbzShd6P5nRTvezdqW34CsL.jpg"
+              "tmdb_id": 1596008,
+              "title": "Con City",
+              "release_date": "2026-07-24",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -642,11 +642,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 614945,
-              "title": "Voicemails for Isabelle",
-              "release_date": "2026-06-19",
-              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+              "tmdb_id": 1716365,
+              "title": "Ryan Hamilton: This Just Hit Me",
+              "release_date": "2026-06-23",
+              "poster_path": "/e69aIyhBLJE1RcYT61K3cHv6UKt.jpg",
+              "backdrop_path": "/dlZyjbzShd6P5nRTvezdqW34CsL.jpg"
             },
             {
               "media_type": "tvshow",
@@ -658,11 +658,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1397385,
-              "title": "Little Brother",
-              "release_date": "2026-06-26",
-              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+              "tmdb_id": 614945,
+              "title": "Voicemails for Isabelle",
+              "release_date": "2026-06-19",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -910,11 +910,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
+              "tmdb_id": 1443961,
+              "title": "Rao Bahadur",
+              "release_date": "2026-07-02",
+              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -926,11 +926,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1596008,
-              "title": "Con City",
-              "release_date": "2026-06-26",
-              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
-              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
+              "tmdb_id": 1202033,
+              "title": "Enola Holmes 3",
+              "release_date": "2026-07-01",
+              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -942,11 +942,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 614945,
-              "title": "Voicemails for Isabelle",
-              "release_date": "2026-06-19",
-              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+              "tmdb_id": 1596008,
+              "title": "Con City",
+              "release_date": "2026-06-26",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -958,11 +958,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1397385,
-              "title": "Little Brother",
-              "release_date": "2026-06-26",
-              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+              "tmdb_id": 614945,
+              "title": "Voicemails for Isabelle",
+              "release_date": "2026-06-19",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -974,11 +974,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1451344,
-              "title": "Husbands in Action",
-              "release_date": "2026-06-19",
-              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
+              "tmdb_id": 1397385,
+              "title": "Little Brother",
+              "release_date": "2026-06-26",
+              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -990,11 +990,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1020047,
-              "title": "In the Hand of Dante",
-              "release_date": "2026-06-24",
-              "poster_path": "/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-              "backdrop_path": "/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg"
+              "tmdb_id": 1451344,
+              "title": "Husbands in Action",
+              "release_date": "2026-06-19",
+              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1258,11 +1258,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
+              "tmdb_id": 1443961,
+              "title": "Rao Bahadur",
+              "release_date": "2026-07-31",
+              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1274,11 +1274,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 614945,
-              "title": "Voicemails for Isabelle",
-              "release_date": "2026-06-19",
-              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+              "tmdb_id": 1202033,
+              "title": "Enola Holmes 3",
+              "release_date": "2026-07-01",
+              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1290,11 +1290,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1397385,
-              "title": "Little Brother",
-              "release_date": "2026-06-26",
-              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+              "tmdb_id": 614945,
+              "title": "Voicemails for Isabelle",
+              "release_date": "2026-06-19",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1306,11 +1306,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1451344,
-              "title": "Husbands in Action",
-              "release_date": "2026-06-19",
-              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
+              "tmdb_id": 1397385,
+              "title": "Little Brother",
+              "release_date": "2026-06-26",
+              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1322,11 +1322,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1699155,
-              "title": "Maternal Instinct",
-              "release_date": "2026-06-12",
-              "poster_path": "/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
-              "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg"
+              "tmdb_id": 1451344,
+              "title": "Husbands in Action",
+              "release_date": "2026-06-19",
+              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2688,11 +2688,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-25",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1487861,
+              "title": "Elize: Shadows of a Woman",
+              "release_date": "2026-07-22",
+              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2704,11 +2704,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+              "tmdb_id": 949838,
+              "title": "72 HOURS",
+              "release_date": "2026-07-25",
+              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2720,11 +2720,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1722713,
-              "title": "Miguel \u00c1ngel Blanco: The 48 Hours That Changed Spain",
-              "release_date": "2026-07-10",
-              "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
-              "backdrop_path": "/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg"
+              "tmdb_id": 1468683,
+              "title": "Heartstopper Forever",
+              "release_date": "2026-07-17",
+              "poster_path": "/ch28kJu4pG2x07sN22valXvV3JY.jpg",
+              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2736,11 +2736,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1715492,
-              "title": "Shipwrecked: Nightmare at Sea",
+              "tmdb_id": 1722713,
+              "title": "Miguel \u00c1ngel Blanco: The 48 Hours That Changed Spain",
               "release_date": "2026-07-10",
-              "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
-              "backdrop_path": "/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg"
+              "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
+              "backdrop_path": "/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2752,11 +2752,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1484913,
-              "title": "Ikka",
-              "release_date": "2026-07-11",
-              "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-              "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg"
+              "tmdb_id": 1715492,
+              "title": "Shipwrecked: Nightmare at Sea",
+              "release_date": "2026-07-10",
+              "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+              "backdrop_path": "/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2768,11 +2768,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1710008,
-              "title": "Nothing to Lose",
-              "release_date": "2026-07-09",
-              "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-              "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg"
+              "tmdb_id": 1484913,
+              "title": "Ikka",
+              "release_date": "2026-07-11",
+              "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+              "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2784,11 +2784,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659389,
-              "title": "One Piece Heroines",
-              "release_date": "2026-07-11",
-              "poster_path": "/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
-              "backdrop_path": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg"
+              "tmdb_id": 1710008,
+              "title": "Nothing to Lose",
+              "release_date": "2026-07-09",
+              "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+              "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2800,11 +2800,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1509599,
-              "title": "Gatta Kusthi 2",
-              "release_date": "2026-07-31",
-              "poster_path": "/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-              "backdrop_path": "/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg"
+              "tmdb_id": 1659389,
+              "title": "One Piece Heroines",
+              "release_date": "2026-07-11",
+              "poster_path": "/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+              "backdrop_path": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2816,11 +2816,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1656220,
-              "title": "23 000 Lives",
-              "release_date": "2026-07-17",
-              "poster_path": "/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-              "backdrop_path": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg"
+              "tmdb_id": 1509599,
+              "title": "Gatta Kusthi 2",
+              "release_date": "2026-07-31",
+              "poster_path": "/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+              "backdrop_path": "/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3250,11 +3250,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
+              "tmdb_id": 1443961,
+              "title": "Rao Bahadur",
+              "release_date": "2026-07-03",
+              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3266,11 +3266,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1596008,
-              "title": "Con City",
-              "release_date": "2026-06-26",
-              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
-              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
+              "tmdb_id": 1202033,
+              "title": "Enola Holmes 3",
+              "release_date": "2026-07-01",
+              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+              "backdrop_path": "/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3282,11 +3282,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 614945,
-              "title": "Voicemails for Isabelle",
-              "release_date": "2026-06-19",
-              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+              "tmdb_id": 1596008,
+              "title": "Con City",
+              "release_date": "2026-06-26",
+              "poster_path": "/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+              "backdrop_path": "/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3298,11 +3298,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1397385,
-              "title": "Little Brother",
-              "release_date": "2026-06-26",
-              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+              "tmdb_id": 614945,
+              "title": "Voicemails for Isabelle",
+              "release_date": "2026-06-19",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3314,11 +3314,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1451344,
-              "title": "Husbands in Action",
-              "release_date": "2026-06-19",
-              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
+              "tmdb_id": 1397385,
+              "title": "Little Brother",
+              "release_date": "2026-06-26",
+              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3346,7 +3346,7 @@
               "title": "The Devil's Mouth",
               "release_date": "2026-07-29",
               "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+              "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3458,7 +3458,7 @@
               "title": "Masters of the Universe",
               "release_date": "2026-06-05",
               "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-              "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg"
+              "backdrop_path": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3565,7 +3565,7 @@
               "title": "The Devil's Mouth",
               "release_date": "2026-07-29",
               "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+              "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3645,7 +3645,7 @@
               "title": "Masters of the Universe",
               "release_date": "2026-06-03",
               "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-              "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg"
+              "backdrop_path": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3714,7 +3714,7 @@
               "title": "The Devil's Mouth",
               "release_date": "2026-07-29",
               "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+              "backdrop_path": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3762,7 +3762,7 @@
               "title": "Masters of the Universe",
               "release_date": "2026-06-04",
               "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-              "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg"
+              "backdrop_path": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4091,7 +4091,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-16",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4194,7 +4194,7 @@
               "tmdb_id": 328241,
               "title": "Voyagers: Exploring Pacific Waters",
               "release_date": "2026-07-02",
-              "poster_path": "",
+              "poster_path": "/jmI7zYbEVmb4nYfaY97I3Z9rgyG.jpg",
               "backdrop_path": "/lBiywceCfzKyByZld9Ubiy0DJNU.jpg"
             },
             {
@@ -4231,11 +4231,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1439930,
-              "title": "The Punisher: One Last Kill",
-              "release_date": "2026-05-12",
-              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
+              "tmdb_id": 1596278,
+              "title": "Time and Water",
+              "release_date": "2026-05-29",
+              "poster_path": "/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
+              "backdrop_path": "/yPQA2LHKOzLb4e2iu5M0vj7F5H8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4253,11 +4253,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1439930,
-              "title": "The Punisher: One Last Kill",
-              "release_date": "2026-05-12",
-              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
+              "tmdb_id": 1596278,
+              "title": "Time and Water",
+              "release_date": "2026-05-02",
+              "poster_path": "/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
+              "backdrop_path": "/yPQA2LHKOzLb4e2iu5M0vj7F5H8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4269,11 +4269,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1314481,
-              "title": "The Devil Wears Prada 2",
-              "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-              "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
+              "tmdb_id": 1439930,
+              "title": "The Punisher: One Last Kill",
+              "release_date": "2026-05-12",
+              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4285,11 +4285,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1637319,
-              "title": "Hannah Montana 20th Anniversary Special",
-              "release_date": "2026-03-24",
-              "poster_path": "/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
-              "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg"
+              "tmdb_id": 1314481,
+              "title": "The Devil Wears Prada 2",
+              "release_date": "2026-05-01",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+              "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4301,11 +4301,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327819,
-              "title": "Hoppers",
-              "release_date": "2026-03-05",
-              "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg"
+              "tmdb_id": 1637319,
+              "title": "Hannah Montana 20th Anniversary Special",
+              "release_date": "2026-03-24",
+              "poster_path": "/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
+              "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4317,11 +4317,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1107166,
-              "title": "Psycho Killer",
-              "release_date": "2026-02-20",
-              "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-              "backdrop_path": "/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg"
+              "tmdb_id": 1327819,
+              "title": "Hoppers",
+              "release_date": "2026-03-05",
+              "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+              "backdrop_path": "/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4333,11 +4333,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1548113,
-              "title": "The Muppet Show",
-              "release_date": "2026-02-04",
-              "poster_path": "/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-              "backdrop_path": "/qz7B5uDspnkoz068wLbLnleotwV.jpg"
+              "tmdb_id": 1107166,
+              "title": "Psycho Killer",
+              "release_date": "2026-02-20",
+              "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+              "backdrop_path": "/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4349,11 +4349,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1032892,
-              "title": "In the Blink of an Eye",
-              "release_date": "2026-02-27",
-              "poster_path": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-              "backdrop_path": "/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg"
+              "tmdb_id": 1548113,
+              "title": "The Muppet Show",
+              "release_date": "2026-02-04",
+              "poster_path": "/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+              "backdrop_path": "/qz7B5uDspnkoz068wLbLnleotwV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4365,11 +4365,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1198994,
-              "title": "Send Help",
-              "release_date": "2026-01-22",
-              "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
-              "backdrop_path": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg"
+              "tmdb_id": 1032892,
+              "title": "In the Blink of an Eye",
+              "release_date": "2026-02-27",
+              "poster_path": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+              "backdrop_path": "/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4381,27 +4381,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1198984,
-              "title": "We Bury the Dead",
-              "release_date": "2026-01-02",
-              "poster_path": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-              "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg"
+              "tmdb_id": 1198994,
+              "title": "Send Help",
+              "release_date": "2026-01-22",
+              "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
+              "backdrop_path": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg"
             },
             {
               "media_type": "tvshow",
               "tmdb_id": 328241,
               "title": "Voyagers: Exploring Pacific Waters",
               "release_date": "2026-07-02",
-              "poster_path": "",
+              "poster_path": "/jmI7zYbEVmb4nYfaY97I3Z9rgyG.jpg",
               "backdrop_path": "/lBiywceCfzKyByZld9Ubiy0DJNU.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1401281,
-              "title": "The Testament of Ann Lee",
-              "release_date": "2025-09-09",
-              "poster_path": "/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-              "backdrop_path": "/jZNR5onRZijwyGr5iWbs3J9QcYr.jpg"
+              "tmdb_id": 1198984,
+              "title": "We Bury the Dead",
+              "release_date": "2026-01-02",
+              "poster_path": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+              "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4423,7 +4423,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-17",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4534,7 +4534,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -4604,7 +4604,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -4770,7 +4770,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -4952,7 +4952,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -5087,7 +5087,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-16",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5134,7 +5134,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -5253,7 +5253,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-16",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5419,7 +5419,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-16",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5498,7 +5498,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -5585,7 +5585,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-17",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5648,7 +5648,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-29",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -5766,7 +5766,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -5948,7 +5948,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -6264,7 +6264,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -6414,7 +6414,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -6581,7 +6581,7 @@
               "title": "Descendants: Wicked Wonderland",
               "release_date": "2026-07-17",
               "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6644,7 +6644,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-04-30",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -6762,7 +6762,7 @@
               "tmdb_id": 1314481,
               "title": "The Devil Wears Prada 2",
               "release_date": "2026-05-01",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
               "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
@@ -7123,11 +7123,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1439930,
-              "title": "The Punisher: One Last Kill",
-              "release_date": "2026-05-13",
-              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
+              "tmdb_id": 1596278,
+              "title": "Time and Water",
+              "release_date": "2026-08-01",
+              "poster_path": "/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
+              "backdrop_path": "/yPQA2LHKOzLb4e2iu5M0vj7F5H8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7139,11 +7139,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688652,
-              "title": "Gary",
-              "release_date": "2026-05-05",
-              "poster_path": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
-              "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg"
+              "tmdb_id": 1439930,
+              "title": "The Punisher: One Last Kill",
+              "release_date": "2026-05-13",
+              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7155,11 +7155,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1314481,
-              "title": "The Devil Wears Prada 2",
-              "release_date": "2026-04-29",
-              "poster_path": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-              "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
+              "tmdb_id": 1688652,
+              "title": "Gary",
+              "release_date": "2026-05-05",
+              "poster_path": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+              "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7171,11 +7171,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1648678,
-              "title": "Orangutan",
-              "release_date": "2026-04-22",
-              "poster_path": "/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
-              "backdrop_path": "/ZD3yggq4r36Z7mw3Dg3OcCOeYp.jpg"
+              "tmdb_id": 1314481,
+              "title": "The Devil Wears Prada 2",
+              "release_date": "2026-04-29",
+              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+              "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7187,11 +7187,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1162975,
-              "title": "18 Youth",
-              "release_date": "2026-03-25",
-              "poster_path": "/xwSA96IFksS598LXSDrWq36kHII.jpg",
-              "backdrop_path": "/oVSWzCmzxpW8tDFzEMz5VbvMO9H.jpg"
+              "tmdb_id": 1648678,
+              "title": "Orangutan",
+              "release_date": "2026-04-22",
+              "poster_path": "/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
+              "backdrop_path": "/ZD3yggq4r36Z7mw3Dg3OcCOeYp.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7203,11 +7203,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1139636,
-              "title": "Method Acting",
-              "release_date": "2026-03-18",
-              "poster_path": "/4owZiJJsAbJ6R2k2LimnpKkADfC.jpg",
-              "backdrop_path": "/kZw3YSsh8d0QxKY3WKTovLbUmhs.jpg"
+              "tmdb_id": 1162975,
+              "title": "18 Youth",
+              "release_date": "2026-03-25",
+              "poster_path": "/xwSA96IFksS598LXSDrWq36kHII.jpg",
+              "backdrop_path": "/oVSWzCmzxpW8tDFzEMz5VbvMO9H.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7219,11 +7219,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493859,
-              "title": "Pizza Movie",
-              "release_date": "2026-04-03",
-              "poster_path": "/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
-              "backdrop_path": "/75UkXLlLedidOGo0VogF0A0NPfC.jpg"
+              "tmdb_id": 1139636,
+              "title": "Method Acting",
+              "release_date": "2026-03-18",
+              "poster_path": "/4owZiJJsAbJ6R2k2LimnpKkADfC.jpg",
+              "backdrop_path": "/kZw3YSsh8d0QxKY3WKTovLbUmhs.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7599,7 +7599,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7761,11 +7761,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-26",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-07-11",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/6OiMFTddtGe8dRr98gYWMgQjcSZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7777,11 +7777,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1581761,
-              "title": "The Kick That United A Nation",
-              "release_date": "2025-11-14",
-              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
-              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-26",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7793,11 +7793,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 1581761,
+              "title": "The Kick That United A Nation",
+              "release_date": "2025-11-14",
+              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
+              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7809,11 +7809,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
-              "release_date": "2025-10-30",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "tmdb_id": 798645,
+              "title": "The Running Man",
+              "release_date": "2025-11-13",
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7825,11 +7825,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327862,
-              "title": "Regretting You",
-              "release_date": "2025-10-23",
-              "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
-              "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg"
+              "tmdb_id": 1507275,
+              "title": "A Paw Patrol Christmas",
+              "release_date": "2025-10-30",
+              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7841,11 +7841,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1327862,
+              "title": "Regretting You",
+              "release_date": "2025-10-23",
+              "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+              "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7857,11 +7857,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1485539,
-              "title": "Dora the Explorer: Mermaid Adventures",
-              "release_date": "2025-09-18",
-              "poster_path": "/kHtgX0FEeRvxFWdV8iWXZuEYTJ5.jpg",
-              "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg"
+              "tmdb_id": 1508191,
+              "title": "Ozzy: No Escape from Now",
+              "release_date": "2025-10-07",
+              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7873,11 +7873,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1535487,
-              "title": "Sam Taunton: How to Tie A Tie",
-              "release_date": "2025-08-25",
-              "poster_path": "/j1gMETem2p8yLwf1rmp7kxAGiZT.jpg",
-              "backdrop_path": "/pcbcVRqDvJx3W6yeWMUYpnzcVT2.jpg"
+              "tmdb_id": 1485539,
+              "title": "Dora the Explorer: Mermaid Adventures",
+              "release_date": "2025-09-18",
+              "poster_path": "/kHtgX0FEeRvxFWdV8iWXZuEYTJ5.jpg",
+              "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7889,11 +7889,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1251717,
-              "title": "Vicious",
-              "release_date": "2025-08-07",
-              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+              "tmdb_id": 1535487,
+              "title": "Sam Taunton: How to Tie A Tie",
+              "release_date": "2025-08-25",
+              "poster_path": "/j1gMETem2p8yLwf1rmp7kxAGiZT.jpg",
+              "backdrop_path": "/pcbcVRqDvJx3W6yeWMUYpnzcVT2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7905,11 +7905,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1244999,
-              "title": "Stans",
+              "tmdb_id": 1251717,
+              "title": "Vicious",
               "release_date": "2025-08-07",
-              "poster_path": "/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
-              "backdrop_path": "/cY6IXwtmc8xdznDlw2eegB8OGx1.jpg"
+              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7931,7 +7931,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8097,7 +8097,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8429,7 +8429,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8595,7 +8595,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8761,7 +8761,7 @@
               "title": "Avatar Aang: The Last Airbender",
               "release_date": "2026-07-25",
               "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
+              "backdrop_path": "/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
             },
             {
               "media_type": "tvshow",

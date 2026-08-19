@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-18T10:46:37Z",
+  "generated_at": "2026-08-19T10:45:54Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -33,9 +33,9 @@
             {
               "media_type": "movie",
               "tmdb_id": 1632473,
-              "title": "This, That and Everything in Between",
+              "title": "This, That, and Everything in Between",
               "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
               "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
@@ -83,7 +83,7 @@
               "tmdb_id": 1736415,
               "title": "Rory Scovel: Show Must Go On",
               "release_date": "2026-08-11",
-              "poster_path": "/iTiECR1UXAFCQ4IRPPwfbg2Zcjy.jpg",
+              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
               "backdrop_path": ""
             },
             {
@@ -1029,9 +1029,9 @@
             {
               "media_type": "movie",
               "tmdb_id": 1632473,
-              "title": "This, That and Everything in Between",
+              "title": "This, That, and Everything in Between",
               "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
               "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
@@ -1361,9 +1361,9 @@
             {
               "media_type": "movie",
               "tmdb_id": 1632473,
-              "title": "This, That and Everything in Between",
+              "title": "This, That, and Everything in Between",
               "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
               "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
@@ -2689,9 +2689,9 @@
             {
               "media_type": "movie",
               "tmdb_id": 1632473,
-              "title": "This, That and Everything in Between",
+              "title": "This, That, and Everything in Between",
               "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
               "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
@@ -3021,9 +3021,9 @@
             {
               "media_type": "movie",
               "tmdb_id": 1632473,
-              "title": "This, That and Everything in Between",
+              "title": "This, That, and Everything in Between",
               "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
               "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
@@ -3577,11 +3577,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1592679,
-              "title": "Oh..! Sukumari",
+              "tmdb_id": 1744681,
+              "title": "M.R.P (Neekentha Naakentha)",
               "release_date": "2026-08-07",
-              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
-              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
+              "poster_path": "/qi3AnfzSqEM844w8FSG3JJmxMS4.jpg",
+              "backdrop_path": "/4aoDg3Xqoa4NYZhEz1rzzQbBPDC.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3593,11 +3593,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1442396,
-              "title": "Nagabandham: The Secret Treasure",
-              "release_date": "2026-07-02",
-              "poster_path": "/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
-              "backdrop_path": "/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg"
+              "tmdb_id": 1592679,
+              "title": "Oh..! Sukumari",
+              "release_date": "2026-08-07",
+              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
+              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3609,10 +3609,10 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1723515,
-              "title": "True British Horror",
-              "release_date": "2026-06-29",
-              "poster_path": "",
+              "tmdb_id": 1726465,
+              "title": "Gator Face",
+              "release_date": "2026-07-03",
+              "poster_path": "/eqKMX0QbIA60H74x4eOKaSSxffI.jpg",
               "backdrop_path": ""
             },
             {
@@ -3625,11 +3625,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1646116,
-              "title": "Raptor Attack",
-              "release_date": "2026-06-28",
-              "poster_path": "/wYxrTKQxC1Cjjgy2xHLImbqh2HD.jpg",
-              "backdrop_path": "/dVAgM0hMZxdm2O8sllmjpxRsmme.jpg"
+              "tmdb_id": 1442396,
+              "title": "Nagabandham: The Secret Treasure",
+              "release_date": "2026-07-02",
+              "poster_path": "/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
+              "backdrop_path": "/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3641,11 +3641,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1477317,
-              "title": "Your Fault: London",
-              "release_date": "2026-06-17",
-              "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-              "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
+              "tmdb_id": 1723515,
+              "title": "True British Horror",
+              "release_date": "2026-06-29",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3657,11 +3657,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1475803,
-              "title": "Governor",
-              "release_date": "2026-06-12",
-              "poster_path": "/Anukm4NH6MM025vUQ9ykpWQXnFn.jpg",
-              "backdrop_path": "/lvqxVKCUbhH83skNczVK9xWb5t4.jpg"
+              "tmdb_id": 1646116,
+              "title": "Raptor Attack",
+              "release_date": "2026-06-28",
+              "poster_path": "/wYxrTKQxC1Cjjgy2xHLImbqh2HD.jpg",
+              "backdrop_path": "/dVAgM0hMZxdm2O8sllmjpxRsmme.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3910,11 +3910,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1659338,
-              "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH",
-              "release_date": "2026-07-10",
-              "poster_path": "/1hwe1CNgFThbU8irK8Qn1bfu65P.jpg",
-              "backdrop_path": "/wEArA15wjHybHLKrj9ySVTY2Rck.jpg"
+              "tmdb_id": 1740791,
+              "title": "Sameo",
+              "release_date": "2026-07-22",
+              "poster_path": "/8InOHEPhYtRaxAoLJo4EsAmupet.jpg",
+              "backdrop_path": "/1MEE8M1Xb9BeqCOfZboDfIL8YHm.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3926,11 +3926,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659389,
-              "title": "One Piece Heroines",
-              "release_date": "2026-07-05",
-              "poster_path": "/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
-              "backdrop_path": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg"
+              "tmdb_id": 1659338,
+              "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH",
+              "release_date": "2026-07-10",
+              "poster_path": "/1hwe1CNgFThbU8irK8Qn1bfu65P.jpg",
+              "backdrop_path": "/wEArA15wjHybHLKrj9ySVTY2Rck.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3942,11 +3942,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1718366,
-              "title": "Riakoi First Love",
-              "release_date": "2026-06-19",
-              "poster_path": "/9GWvY0UveC6D84aV6QTLSk4nSYq.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1659389,
+              "title": "One Piece Heroines",
+              "release_date": "2026-07-05",
+              "poster_path": "/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+              "backdrop_path": "/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3958,11 +3958,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1647153,
-              "title": "MYSTERY ARENA",
-              "release_date": "2026-05-22",
-              "poster_path": "/hLMWlQnZInMLcquVAXG6BEQEFEx.jpg",
-              "backdrop_path": "/5vqVfhc9XiyTb4kTzHoSpPOzQfG.jpg"
+              "tmdb_id": 1718366,
+              "title": "Riakoi First Love",
+              "release_date": "2026-06-19",
+              "poster_path": "/9GWvY0UveC6D84aV6QTLSk4nSYq.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3974,11 +3974,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1310387,
-              "title": "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc -",
-              "release_date": "2026-05-08",
-              "poster_path": "/dfx7vKFcfMfKqMXphH2qZlLa83R.jpg",
-              "backdrop_path": "/mKMnLtFYJosiqWNCAD0nn9yNGB7.jpg"
+              "tmdb_id": 1647153,
+              "title": "MYSTERY ARENA",
+              "release_date": "2026-05-22",
+              "poster_path": "/hLMWlQnZInMLcquVAXG6BEQEFEx.jpg",
+              "backdrop_path": "/5vqVfhc9XiyTb4kTzHoSpPOzQfG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3990,11 +3990,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1301421,
-              "title": "The Sheep Detectives",
+              "tmdb_id": 1310387,
+              "title": "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc -",
               "release_date": "2026-05-08",
-              "poster_path": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
-              "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg"
+              "poster_path": "/dfx7vKFcfMfKqMXphH2qZlLa83R.jpg",
+              "backdrop_path": "/mKMnLtFYJosiqWNCAD0nn9yNGB7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4006,11 +4006,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1542877,
-              "title": "Assassination Classroom the Movie: Our Time",
-              "release_date": "2026-03-20",
-              "poster_path": "/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
-              "backdrop_path": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg"
+              "tmdb_id": 1301421,
+              "title": "The Sheep Detectives",
+              "release_date": "2026-05-08",
+              "poster_path": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+              "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4022,11 +4022,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 687163,
-              "title": "Project Hail Mary",
+              "tmdb_id": 1542877,
+              "title": "Assassination Classroom the Movie: Our Time",
               "release_date": "2026-03-20",
-              "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-              "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
+              "poster_path": "/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
+              "backdrop_path": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4038,11 +4038,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1634374,
-              "title": "The Specials",
-              "release_date": "2026-03-06",
-              "poster_path": "/oVqsgZCLEyN0uIQF7fU2kvBrq6.jpg",
-              "backdrop_path": "/w9lQPIOaHXUoVHgUOCOjQkiQjX9.jpg"
+              "tmdb_id": 687163,
+              "title": "Project Hail Mary",
+              "release_date": "2026-03-20",
+              "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+              "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4054,11 +4054,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1543797,
-              "title": "Samurai Vengeance",
-              "release_date": "2026-02-27",
-              "poster_path": "/ks2xQQw2HMbDzz9TdTMW2PoMYLy.jpg",
-              "backdrop_path": "/2zsn3myyhBB6bjNKGFPgEVfXUBp.jpg"
+              "tmdb_id": 1634374,
+              "title": "The Specials",
+              "release_date": "2026-03-06",
+              "poster_path": "/oVqsgZCLEyN0uIQF7fU2kvBrq6.jpg",
+              "backdrop_path": "/w9lQPIOaHXUoVHgUOCOjQkiQjX9.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8109,11 +8109,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2026-02-09",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+              "tmdb_id": 999136,
+              "title": "Do Not Enter",
+              "release_date": "2026-08-01",
+              "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+              "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8125,11 +8125,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340110,
-              "title": "Redux Redux",
-              "release_date": "2025-05-08",
-              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
-              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-02-09",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8141,11 +8141,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-25",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1340110,
+              "title": "Redux Redux",
+              "release_date": "2025-05-08",
+              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8157,11 +8157,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-25",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8173,11 +8173,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1445025,
-              "title": "Time We Lost",
-              "release_date": "2025-11-06",
-              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
-              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
+              "tmdb_id": 798645,
+              "title": "The Running Man",
+              "release_date": "2025-11-13",
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8189,11 +8189,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
-              "release_date": "2025-11-13",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "tmdb_id": 1445025,
+              "title": "Time We Lost",
+              "release_date": "2025-11-06",
+              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
+              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8205,11 +8205,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1507275,
+              "title": "A Paw Patrol Christmas",
+              "release_date": "2025-11-13",
+              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8221,11 +8221,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1530875,
-              "title": "All the Devils Are Here",
-              "release_date": "2025-09-25",
-              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
-              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
+              "tmdb_id": 1508191,
+              "title": "Ozzy: No Escape from Now",
+              "release_date": "2025-10-07",
+              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8237,11 +8237,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1400382,
-              "title": "Predators",
-              "release_date": "2025-12-08",
-              "poster_path": "/jq9BGaBpGmlrJJsFEMAVlfpLkYh.jpg",
-              "backdrop_path": "/i677xmOGH42gJWTeKyau6Uyo5VV.jpg"
+              "tmdb_id": 1530875,
+              "title": "All the Devils Are Here",
+              "release_date": "2025-09-25",
+              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8937,11 +8937,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287620,
-              "title": "Stuart Fails to Save the Universe",
-              "release_date": "2026-07-23",
-              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-              "backdrop_path": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg"
+              "tmdb_id": 291350,
+              "title": "Anna Pigeon",
+              "release_date": "2026-08-07",
+              "poster_path": "/iLhi3wqsLOdHB61vySJRm7y09XS.jpg",
+              "backdrop_path": "/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg"
             },
             {
               "media_type": "movie",
@@ -8953,11 +8953,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328039,
-              "title": "Olivier Primeau, pas encore milliardaire!",
-              "release_date": "2026-07-15",
-              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
-              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
+              "tmdb_id": 287620,
+              "title": "Stuart Fails to Save the Universe",
+              "release_date": "2026-07-23",
+              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+              "backdrop_path": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg"
             },
             {
               "media_type": "movie",
@@ -8969,11 +8969,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314487,
-              "title": "Canada's Drag Race: All Stars",
-              "release_date": "2026-07-09",
-              "poster_path": "/sf7BBvU9QVI3acwJvi6nLZQgRtG.jpg",
-              "backdrop_path": "/lsZyv5whBhq0XUeduDPqqUspWd7.jpg"
+              "tmdb_id": 328039,
+              "title": "Olivier Primeau, pas encore milliardaire!",
+              "release_date": "2026-07-15",
+              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
+              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
             },
             {
               "media_type": "movie",
@@ -8985,11 +8985,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295780,
-              "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
-              "release_date": "2026-06-26",
-              "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
-              "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg"
+              "tmdb_id": 314487,
+              "title": "Canada's Drag Race: All Stars",
+              "release_date": "2026-07-09",
+              "poster_path": "/sf7BBvU9QVI3acwJvi6nLZQgRtG.jpg",
+              "backdrop_path": "/lsZyv5whBhq0XUeduDPqqUspWd7.jpg"
             },
             {
               "media_type": "movie",
@@ -9001,11 +9001,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324690,
-              "title": "Fear Factor C\u00e9l\u00e9brit\u00e9s",
-              "release_date": "2026-06-05",
-              "poster_path": "/2Ixdn5mctdwpT10sS6tS0obGzpk.jpg",
-              "backdrop_path": "/lhSVMVzRN0YwaHjl8IE4u96HdAc.jpg"
+              "tmdb_id": 295780,
+              "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+              "release_date": "2026-06-26",
+              "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+              "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg"
             },
             {
               "media_type": "movie",
@@ -9017,11 +9017,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324519,
-              "title": "Canada's Team: In Focus",
-              "release_date": "2026-06-03",
-              "poster_path": "/sS9HSLwQlyAv1fcpzC4Fu4XVg4Z.jpg",
-              "backdrop_path": "/dvoGoJ8d0GSQ4ups8HjXQbuLFrO.jpg"
+              "tmdb_id": 324690,
+              "title": "Fear Factor C\u00e9l\u00e9brit\u00e9s",
+              "release_date": "2026-06-05",
+              "poster_path": "/2Ixdn5mctdwpT10sS6tS0obGzpk.jpg",
+              "backdrop_path": "/lhSVMVzRN0YwaHjl8IE4u96HdAc.jpg"
             },
             {
               "media_type": "movie",
@@ -9033,11 +9033,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 322974,
-              "title": "Bring Me the Beauties: A Model Cult",
-              "release_date": "2026-06-01",
-              "poster_path": "/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
-              "backdrop_path": "/wtiipa5mucHotfxO0cr1b7roqt4.jpg"
+              "tmdb_id": 324519,
+              "title": "Canada's Team: In Focus",
+              "release_date": "2026-06-03",
+              "poster_path": "/sS9HSLwQlyAv1fcpzC4Fu4XVg4Z.jpg",
+              "backdrop_path": "/dvoGoJ8d0GSQ4ups8HjXQbuLFrO.jpg"
             },
             {
               "media_type": "movie",
@@ -9049,11 +9049,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324090,
-              "title": "The Tom Green Farm",
-              "release_date": "2026-05-29",
-              "poster_path": "/2gRbzAPERPen0wkySYr4BRuZZu9.jpg",
-              "backdrop_path": "/7HJEdp7PNNf2a9JrjbJAuOLisOT.jpg"
+              "tmdb_id": 322974,
+              "title": "Bring Me the Beauties: A Model Cult",
+              "release_date": "2026-06-01",
+              "poster_path": "/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
+              "backdrop_path": "/wtiipa5mucHotfxO0cr1b7roqt4.jpg"
             },
             {
               "media_type": "movie",
@@ -9065,11 +9065,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 323185,
-              "title": "The Killer Among Us",
-              "release_date": "2026-05-17",
-              "poster_path": "/yXrVHyKxHw2Z8L3NuknOB7CdTYo.jpg",
-              "backdrop_path": "/zkEquVhqotpPPwaAL0KXSTxeAmA.jpg"
+              "tmdb_id": 324090,
+              "title": "The Tom Green Farm",
+              "release_date": "2026-05-29",
+              "poster_path": "/2gRbzAPERPen0wkySYr4BRuZZu9.jpg",
+              "backdrop_path": "/7HJEdp7PNNf2a9JrjbJAuOLisOT.jpg"
             },
             {
               "media_type": "movie",
@@ -9081,11 +9081,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318449,
-              "title": "U.S. Against the World: Four Years with the Men's National Soccer Team",
-              "release_date": "2026-05-12",
-              "poster_path": "/jd2gGLAbNQdal9lKxY3pAItkBYU.jpg",
-              "backdrop_path": "/A1ROUQ607IvADhvO8y9yw1rvzdc.jpg"
+              "tmdb_id": 323185,
+              "title": "The Killer Among Us",
+              "release_date": "2026-05-17",
+              "poster_path": "/yXrVHyKxHw2Z8L3NuknOB7CdTYo.jpg",
+              "backdrop_path": "/zkEquVhqotpPPwaAL0KXSTxeAmA.jpg"
             }
           ]
         }

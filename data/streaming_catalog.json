@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-19T10:45:54Z",
+  "generated_at": "2026-08-20T10:46:56Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,11 +16,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1738070,
+              "title": "Kelsey Cook: Happy Hour",
+              "release_date": "2026-08-18",
+              "poster_path": "/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+              "backdrop_path": "/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -32,11 +32,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -48,11 +48,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -64,11 +64,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -80,11 +80,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1736415,
-              "title": "Rory Scovel: Show Must Go On",
-              "release_date": "2026-08-11",
-              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -96,11 +96,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-07",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1736415,
+              "title": "Rory Scovel: Show Must Go On",
+              "release_date": "2026-08-11",
+              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -112,11 +112,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
               "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -128,11 +128,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -144,11 +144,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
+              "tmdb_id": 1728056,
+              "title": "Big Chicken: A Fast Food Conspiracy",
               "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -160,11 +160,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1740877,
-              "title": "Storm on Sesame Street",
-              "release_date": "2026-08-03",
-              "poster_path": "/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
-              "backdrop_path": "/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg"
+              "tmdb_id": 1421594,
+              "title": "Inside the Trustor Scandal",
+              "release_date": "2026-08-05",
+              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3990,11 +3990,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1310387,
-              "title": "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc -",
-              "release_date": "2026-05-08",
-              "poster_path": "/dfx7vKFcfMfKqMXphH2qZlLa83R.jpg",
-              "backdrop_path": "/mKMnLtFYJosiqWNCAD0nn9yNGB7.jpg"
+              "tmdb_id": 1380316,
+              "title": "Is God Is",
+              "release_date": "2026-08-19",
+              "poster_path": "/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+              "backdrop_path": "/kmS3arkEsybCEw0ddWhDVQxCXf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4006,11 +4006,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1301421,
-              "title": "The Sheep Detectives",
+              "tmdb_id": 1310387,
+              "title": "The Irregular at Magic High School THE MOVIE - Yotsuba Succession Arc -",
               "release_date": "2026-05-08",
-              "poster_path": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
-              "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg"
+              "poster_path": "/dfx7vKFcfMfKqMXphH2qZlLa83R.jpg",
+              "backdrop_path": "/mKMnLtFYJosiqWNCAD0nn9yNGB7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4022,11 +4022,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1542877,
-              "title": "Assassination Classroom the Movie: Our Time",
-              "release_date": "2026-03-20",
-              "poster_path": "/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
-              "backdrop_path": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg"
+              "tmdb_id": 1301421,
+              "title": "The Sheep Detectives",
+              "release_date": "2026-05-08",
+              "poster_path": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+              "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4038,11 +4038,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 687163,
-              "title": "Project Hail Mary",
+              "tmdb_id": 1542877,
+              "title": "Assassination Classroom the Movie: Our Time",
               "release_date": "2026-03-20",
-              "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-              "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
+              "poster_path": "/sCcNuUI1RA9bMunxAdt7KRypFbP.jpg",
+              "backdrop_path": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4054,11 +4054,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1634374,
-              "title": "The Specials",
-              "release_date": "2026-03-06",
-              "poster_path": "/oVqsgZCLEyN0uIQF7fU2kvBrq6.jpg",
-              "backdrop_path": "/w9lQPIOaHXUoVHgUOCOjQkiQjX9.jpg"
+              "tmdb_id": 687163,
+              "title": "Project Hail Mary",
+              "release_date": "2026-03-20",
+              "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+              "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6872,7 +6872,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1531626,
-              "title": "Descendants/ZOMBIES Worlds Collide - Concert Special",
+              "title": "Descendants/ZOMBIES Worlds Collide: Concert Special",
               "release_date": "2026-02-20",
               "poster_path": "/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
               "backdrop_path": "/qpcYemGVHcYaMrvAjkOUkWPfrtF.jpg"
@@ -7263,7 +7263,7 @@
               "tmdb_id": 330654,
               "title": "Somebody Knows Something",
               "release_date": "2026-08-10",
-              "poster_path": "/AhqMwcncKFu80MAUxxgFzUofBhu.jpg",
+              "poster_path": "/uXwgUY4RFT06kuyrObtOJxqVh1D.jpg",
               "backdrop_path": "/mt0gIlPemRLu4H4qn0WATxVoJ5Z.jpg"
             },
             {
@@ -8961,11 +8961,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1304313,
-              "title": "Lee Cronin's The Mummy",
-              "release_date": "2026-04-17",
-              "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
-              "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
+              "tmdb_id": 936075,
+              "title": "Michael",
+              "release_date": "2026-04-23",
+              "poster_path": "/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
+              "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8977,11 +8977,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1662432,
-              "title": "Finding Harry: The Craft Behind the Magic",
-              "release_date": "2026-04-05",
-              "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
-              "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg"
+              "tmdb_id": 1304313,
+              "title": "Lee Cronin's The Mummy",
+              "release_date": "2026-04-17",
+              "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+              "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8993,11 +8993,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1653402,
-              "title": "Katherine Levac: L'homme de ma vie",
-              "release_date": "2026-03-17",
-              "poster_path": "/f96iMp64yjaMNcO9nRO4FRupATC.jpg",
-              "backdrop_path": "/5Pgdwn7F7yZI2T6GTycPzgecG70.jpg"
+              "tmdb_id": 1662432,
+              "title": "Finding Harry: The Craft Behind the Magic",
+              "release_date": "2026-04-05",
+              "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
+              "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9009,11 +9009,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1622649,
-              "title": "Nelly Knows Mysteries: All Manners of Murder",
-              "release_date": "2026-04-12",
-              "poster_path": "/fyFB9ivzImj3eZfIE5mfCwMjny1.jpg",
-              "backdrop_path": "/dqUEdAT7Vfn6zvH6SmYPctFUCjk.jpg"
+              "tmdb_id": 1653402,
+              "title": "Katherine Levac: L'homme de ma vie",
+              "release_date": "2026-03-17",
+              "poster_path": "/f96iMp64yjaMNcO9nRO4FRupATC.jpg",
+              "backdrop_path": "/5Pgdwn7F7yZI2T6GTycPzgecG70.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9025,11 +9025,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159831,
-              "title": "The Bride!",
-              "release_date": "2026-03-05",
-              "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-              "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg"
+              "tmdb_id": 1622649,
+              "title": "Nelly Knows Mysteries: All Manners of Murder",
+              "release_date": "2026-04-12",
+              "poster_path": "/fyFB9ivzImj3eZfIE5mfCwMjny1.jpg",
+              "backdrop_path": "/dqUEdAT7Vfn6zvH6SmYPctFUCjk.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9041,11 +9041,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1643104,
-              "title": "One Night Out with Alan Cumming",
-              "release_date": "2026-02-26",
-              "poster_path": "/28zeLpd82Nmx04q3CZschj3j0o.jpg",
-              "backdrop_path": "/gclPtcEu5ILqWvdEd0Kx8hRQwlT.jpg"
+              "tmdb_id": 1159831,
+              "title": "The Bride!",
+              "release_date": "2026-03-05",
+              "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+              "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9057,11 +9057,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1439703,
-              "title": "Elsewhere at Night",
-              "release_date": "2026-02-13",
-              "poster_path": "/sYqUYUZrBWTGGGgSKlFRPlUi75M.jpg",
-              "backdrop_path": "/12uWwOT253JhSzO7mmSAi4boV7Y.jpg"
+              "tmdb_id": 1643104,
+              "title": "One Night Out with Alan Cumming",
+              "release_date": "2026-02-26",
+              "poster_path": "/28zeLpd82Nmx04q3CZschj3j0o.jpg",
+              "backdrop_path": "/gclPtcEu5ILqWvdEd0Kx8hRQwlT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9073,11 +9073,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1316092,
-              "title": "\"Wuthering Heights\"",
-              "release_date": "2026-02-12",
-              "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-              "backdrop_path": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg"
+              "tmdb_id": 1439703,
+              "title": "Elsewhere at Night",
+              "release_date": "2026-02-13",
+              "poster_path": "/sYqUYUZrBWTGGGgSKlFRPlUi75M.jpg",
+              "backdrop_path": "/12uWwOT253JhSzO7mmSAi4boV7Y.jpg"
             },
             {
               "media_type": "tvshow",

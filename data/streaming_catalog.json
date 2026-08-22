@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-21T10:47:30Z",
+  "generated_at": "2026-08-22T10:40:15Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,11 +16,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1738070,
-              "title": "Kelsey Cook: Happy Hour",
-              "release_date": "2026-08-18",
-              "poster_path": "/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
-              "backdrop_path": "/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -32,11 +32,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-14",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1738070,
+              "title": "Kelsey Cook: Happy Hour",
+              "release_date": "2026-08-18",
+              "poster_path": "/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+              "backdrop_path": "/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -48,11 +48,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
               "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -64,11 +64,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -80,11 +80,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -96,27 +96,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1736415,
-              "title": "Rory Scovel: Show Must Go On",
-              "release_date": "2026-08-11",
-              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -128,11 +128,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-07",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1736415,
+              "title": "Rory Scovel: Show Must Go On",
+              "release_date": "2026-08-11",
+              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -144,11 +144,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
               "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -160,11 +160,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -273,8 +273,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -439,8 +439,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -605,8 +605,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -771,8 +771,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -921,8 +921,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1103,8 +1103,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1269,8 +1269,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1435,8 +1435,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1601,8 +1601,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1767,8 +1767,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -1917,8 +1917,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -2083,8 +2083,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -2265,8 +2265,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -2431,8 +2431,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -2506,11 +2506,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2522,11 +2522,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2538,11 +2538,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2554,11 +2554,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2570,11 +2570,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2586,27 +2586,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
-              "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1728056,
+              "title": "Big Chicken: A Fast Food Conspiracy",
+              "release_date": "2026-08-05",
+              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2618,11 +2618,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
-              "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
+              "tmdb_id": 1421594,
+              "title": "Inside the Trustor Scandal",
+              "release_date": "2026-08-05",
+              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2634,11 +2634,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
+              "tmdb_id": 1659155,
+              "title": "The Truthers",
               "release_date": "2026-07-24",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2650,11 +2650,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+              "tmdb_id": 1487861,
+              "title": "Elize: Shadows of a Woman",
+              "release_date": "2026-07-22",
+              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2763,8 +2763,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -2929,8 +2929,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -3079,8 +3079,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -3261,8 +3261,8 @@
               "tmdb_id": 300480,
               "title": "Ricky Gervais Alley Cats",
               "release_date": "2026-08-07",
-              "poster_path": "/4Nyxr4NNOm78xYskTYUyzpoL9KH.jpg",
-              "backdrop_path": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg"
+              "poster_path": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+              "backdrop_path": "/jeDOZbupbUxQYHWTOyzoO6YeP1e.jpg"
             },
             {
               "media_type": "movie",
@@ -3342,11 +3342,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1481343,
-              "title": "The Devil's Mouth",
-              "release_date": "2026-07-29",
-              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg"
+              "tmdb_id": 1626188,
+              "title": "Novak Djokovic: The Wolf in Winter",
+              "release_date": "2026-08-20",
+              "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+              "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3358,11 +3358,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1511081,
-              "title": "Contention",
-              "release_date": "2026-07-23",
-              "poster_path": "/xNtUwylGBceTQ48iaV9L0eKswEm.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1481343,
+              "title": "The Devil's Mouth",
+              "release_date": "2026-07-29",
+              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+              "backdrop_path": "/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3370,15 +3370,15 @@
               "title": "Sterling Point",
               "release_date": "2026-08-05",
               "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg"
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1592679,
-              "title": "Oh..! Sukumari",
-              "release_date": "2026-07-17",
-              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
-              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
+              "tmdb_id": 1511081,
+              "title": "Contention",
+              "release_date": "2026-07-23",
+              "poster_path": "/xNtUwylGBceTQ48iaV9L0eKswEm.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3390,11 +3390,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1729196,
-              "title": "Dread",
-              "release_date": "2026-07-10",
-              "poster_path": "/cOk9mDxklFEBb7kvnF7Pnz4WRbq.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1592679,
+              "title": "Oh..! Sukumari",
+              "release_date": "2026-07-17",
+              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
+              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3406,11 +3406,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1722965,
-              "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
-              "release_date": "2026-06-29",
-              "poster_path": "/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
-              "backdrop_path": "/1e6qr68BvdbkXrpp3PGYRX7HZ9D.jpg"
+              "tmdb_id": 1729196,
+              "title": "Dread",
+              "release_date": "2026-07-10",
+              "poster_path": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3422,11 +3422,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1722819,
-              "title": "Unbreakable Me - The Gabrielle Daleman Story",
-              "release_date": "2026-06-27",
-              "poster_path": "/npIpnV2JzmfFbgzxUzN602mU5pt.jpg",
-              "backdrop_path": "/xN3b0ZtXpbHK7wMOkgEhoLNkJVB.jpg"
+              "tmdb_id": 1722965,
+              "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
+              "release_date": "2026-06-29",
+              "poster_path": "/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
+              "backdrop_path": "/1e6qr68BvdbkXrpp3PGYRX7HZ9D.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3438,11 +3438,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1665710,
-              "title": "Rent Free",
-              "release_date": "2026-06-23",
-              "poster_path": "/k1Nvbvt3pox3k8iypJodUBrQzPI.jpg",
-              "backdrop_path": "/zRZzMlONJmmfzQjOz1I0FShNXqU.jpg"
+              "tmdb_id": 1722819,
+              "title": "Unbreakable Me - The Gabrielle Daleman Story",
+              "release_date": "2026-06-27",
+              "poster_path": "/npIpnV2JzmfFbgzxUzN602mU5pt.jpg",
+              "backdrop_path": "/xN3b0ZtXpbHK7wMOkgEhoLNkJVB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3454,11 +3454,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1477317,
-              "title": "Your Fault: London",
-              "release_date": "2026-06-17",
-              "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-              "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
+              "tmdb_id": 1665710,
+              "title": "Rent Free",
+              "release_date": "2026-06-23",
+              "poster_path": "/k1Nvbvt3pox3k8iypJodUBrQzPI.jpg",
+              "backdrop_path": "/zRZzMlONJmmfzQjOz1I0FShNXqU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3470,11 +3470,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716288,
-              "title": "Emmy Blotnick: What's Her Secret?",
-              "release_date": "2026-06-16",
-              "poster_path": "/pJziyfAPn2Ob00EyCv2o5osKcb2.jpg",
-              "backdrop_path": "/ocoWXymc29czVzRBDgp1THJBOAm.jpg"
+              "tmdb_id": 1477317,
+              "title": "Your Fault: London",
+              "release_date": "2026-06-17",
+              "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+              "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3486,11 +3486,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1718302,
-              "title": "Kyra's Code",
-              "release_date": "2026-06-13",
-              "poster_path": "/jrBthZhbf89Aj8WF1XvC3l67nmV.jpg",
-              "backdrop_path": "/aYgLhArJvUzwq2GAwKKask3Jxzn.jpg"
+              "tmdb_id": 1716288,
+              "title": "Emmy Blotnick: What's Her Secret?",
+              "release_date": "2026-06-16",
+              "poster_path": "/pJziyfAPn2Ob00EyCv2o5osKcb2.jpg",
+              "backdrop_path": "/ocoWXymc29czVzRBDgp1THJBOAm.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3541,7 +3541,7 @@
               "title": "Sterling Point",
               "release_date": "2026-08-05",
               "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg"
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3706,7 +3706,7 @@
               "title": "Sterling Point",
               "release_date": "2026-08-05",
               "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg"
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3922,7 +3922,7 @@
               "title": "Sterling Point",
               "release_date": "2026-08-05",
               "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg"
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3986,7 +3986,7 @@
               "title": "Hanaori-san Still Wants to Fight in the Next Life",
               "release_date": "2026-07-12",
               "poster_path": "/h2JZRLaFXWWhh61vAjqgHXeiZd8.jpg",
-              "backdrop_path": "/gnuFIVt3FG8QGQg3ODE7wQUXHoV.jpg"
+              "backdrop_path": "/rGpovV6h1XSyksXyHRn0zzQNW8V.jpg"
             },
             {
               "media_type": "movie",
@@ -4087,11 +4087,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-13",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1736062,
+              "title": "Disney Worldbuilders",
+              "release_date": "2026-08-16",
+              "poster_path": "/fNhn4MpcGWkBPgGz62Ds0xlQIdA.jpg",
+              "backdrop_path": "/86UbkaAlNaD2dJ93SOhCzP4gOz7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4103,11 +4103,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-16",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-13",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4119,11 +4119,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732051,
-              "title": "Generations: The Evolution of Spider-Man",
-              "release_date": "2026-07-15",
-              "poster_path": "/mnwmqcbjbP9Pu9S74GJxFuE1OUJ.jpg",
-              "backdrop_path": "/yuhqpZNJoV5XwS2m5znlNtruJ9m.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-16",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4135,11 +4135,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1723068,
-              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
-              "release_date": "2026-07-05",
-              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
+              "tmdb_id": 1732051,
+              "title": "Generations: The Evolution of Spider-Man",
+              "release_date": "2026-07-15",
+              "poster_path": "/mnwmqcbjbP9Pu9S74GJxFuE1OUJ.jpg",
+              "backdrop_path": "/yuhqpZNJoV5XwS2m5znlNtruJ9m.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4151,11 +4151,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1725116,
-              "title": "Simpsley",
-              "release_date": "2026-07-03",
-              "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-              "backdrop_path": "/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg"
+              "tmdb_id": 1723068,
+              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
+              "release_date": "2026-07-05",
+              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4167,11 +4167,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1721723,
-              "title": "Stitch & Angel's Perfect Summer Day",
-              "release_date": "2026-06-24",
-              "poster_path": "/fUkGBKzOwTTcXIlWkJR5NEfgWis.jpg",
-              "backdrop_path": "/2kWdNbP5rDHVH3yr1gXEOWqOHnc.jpg"
+              "tmdb_id": 1725116,
+              "title": "Simpsley",
+              "release_date": "2026-07-03",
+              "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+              "backdrop_path": "/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4183,11 +4183,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716513,
-              "title": "Extreme Makeover: Homer Edition",
-              "release_date": "2026-06-17",
-              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
+              "tmdb_id": 1721723,
+              "title": "Stitch & Angel's Perfect Summer Day",
+              "release_date": "2026-06-24",
+              "poster_path": "/fUkGBKzOwTTcXIlWkJR5NEfgWis.jpg",
+              "backdrop_path": "/2kWdNbP5rDHVH3yr1gXEOWqOHnc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4199,11 +4199,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1715818,
-              "title": "A Spark Into A Flame: Hamilton & Hip Hop",
-              "release_date": "2026-06-16",
-              "poster_path": "/lfFxXrQzZPY3LHkNhxwmGgTvWQj.jpg",
-              "backdrop_path": "/7dYBC45o5xXuVw96W8yNjxSb0ID.jpg"
+              "tmdb_id": 1716513,
+              "title": "Extreme Makeover: Homer Edition",
+              "release_date": "2026-06-17",
+              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4215,11 +4215,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728564,
-              "title": "The Magic Behind Island Tower At Disney\u2019s Polynesian Villas & Bungalows",
-              "release_date": "2026-06-10",
-              "poster_path": "/hicwReMlN8DqLedzejfF7s5XqpY.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1715818,
+              "title": "A Spark Into A Flame: Hamilton & Hip Hop",
+              "release_date": "2026-06-16",
+              "poster_path": "/lfFxXrQzZPY3LHkNhxwmGgTvWQj.jpg",
+              "backdrop_path": "/7dYBC45o5xXuVw96W8yNjxSb0ID.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4231,11 +4231,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1707544,
-              "title": "Bukayo Saka: The Time Is Now",
-              "release_date": "2026-06-07",
-              "poster_path": "/g1cslK2Ww5rU5Devqq4YeVZXzRg.jpg",
-              "backdrop_path": "/tj9UkafJbJH7OvlJApYEK7KHW1d.jpg"
+              "tmdb_id": 1728564,
+              "title": "The Magic Behind Island Tower At Disney\u2019s Polynesian Villas & Bungalows",
+              "release_date": "2026-06-10",
+              "poster_path": "/hicwReMlN8DqLedzejfF7s5XqpY.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -8125,11 +8125,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2026-02-09",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+              "tmdb_id": 1327690,
+              "title": "One Mile: Chapter Two",
+              "release_date": "2026-04-13",
+              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8141,11 +8141,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340110,
-              "title": "Redux Redux",
-              "release_date": "2025-05-08",
-              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
-              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
+              "tmdb_id": 1327688,
+              "title": "One Mile: Chapter One",
+              "release_date": "2026-02-20",
+              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8157,11 +8157,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-25",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-02-09",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8173,11 +8173,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 1340110,
+              "title": "Redux Redux",
+              "release_date": "2025-05-08",
+              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8189,11 +8189,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1445025,
-              "title": "Time We Lost",
-              "release_date": "2025-11-06",
-              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
-              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-25",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8205,11 +8205,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
+              "tmdb_id": 798645,
+              "title": "The Running Man",
               "release_date": "2025-11-13",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8221,11 +8221,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1445025,
+              "title": "Time We Lost",
+              "release_date": "2025-11-06",
+              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
+              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8237,11 +8237,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1530875,
-              "title": "All the Devils Are Here",
-              "release_date": "2025-09-25",
-              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
-              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
+              "tmdb_id": 1507275,
+              "title": "A Paw Patrol Christmas",
+              "release_date": "2025-11-13",
+              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
             },
             {
               "media_type": "tvshow",

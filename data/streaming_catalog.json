@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-22T10:40:15Z",
+  "generated_at": "2026-08-23T10:40:32Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,11 +16,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1741201,
-              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
-              "release_date": "2026-08-20",
-              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -32,11 +32,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1738070,
-              "title": "Kelsey Cook: Happy Hour",
-              "release_date": "2026-08-18",
-              "poster_path": "/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
-              "backdrop_path": "/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -48,11 +48,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-14",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -64,11 +64,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1738070,
+              "title": "Kelsey Cook: Happy Hour",
+              "release_date": "2026-08-18",
+              "poster_path": "/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+              "backdrop_path": "/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -80,11 +80,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-14",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -96,11 +96,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
               "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -112,11 +112,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -128,11 +128,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1736415,
-              "title": "Rory Scovel: Show Must Go On",
-              "release_date": "2026-08-11",
-              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -144,11 +144,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-07",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -160,11 +160,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1736415,
+              "title": "Rory Scovel: Show Must Go On",
+              "release_date": "2026-08-11",
+              "poster_path": "/mThhPxeJWzeDvcU8w9TqjZvvhQm.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -1012,11 +1012,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1028,11 +1028,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1044,11 +1044,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1060,11 +1060,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
               "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1076,11 +1076,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1092,11 +1092,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1108,11 +1108,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
-              "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1124,11 +1124,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616131,
-              "title": "A Child of My Own",
-              "release_date": "2026-02-14",
-              "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-              "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1140,11 +1140,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1421594,
+              "title": "Inside the Trustor Scandal",
+              "release_date": "2026-08-05",
+              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1156,11 +1156,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1620682,
-              "title": "Love in Slow Motion",
-              "release_date": "2026-07-23",
-              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-              "backdrop_path": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg"
+              "tmdb_id": 1616131,
+              "title": "A Child of My Own",
+              "release_date": "2026-02-14",
+              "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
+              "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1178,11 +1178,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1194,11 +1194,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-06-23",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1210,11 +1210,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-06-23",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1226,11 +1226,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1242,11 +1242,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-25",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1659155,
+              "title": "The Truthers",
+              "release_date": "2026-07-24",
+              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1258,11 +1258,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+              "tmdb_id": 949838,
+              "title": "72 HOURS",
+              "release_date": "2026-07-25",
+              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1274,11 +1274,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1484913,
-              "title": "Ikka",
-              "release_date": "2026-07-11",
-              "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-              "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg"
+              "tmdb_id": 1468683,
+              "title": "Heartstopper Forever",
+              "release_date": "2026-07-17",
+              "poster_path": "/mHt4cVaxU3Ms6OyP1olCJ2tFIY1.jpg",
+              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1290,11 +1290,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1710008,
-              "title": "Nothing to Lose",
-              "release_date": "2026-07-08",
-              "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-              "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg"
+              "tmdb_id": 1484913,
+              "title": "Ikka",
+              "release_date": "2026-07-11",
+              "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+              "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1306,11 +1306,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1443961,
-              "title": "Rao Bahadur",
-              "release_date": "2026-07-31",
-              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
+              "tmdb_id": 1710008,
+              "title": "Nothing to Lose",
+              "release_date": "2026-07-08",
+              "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+              "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1322,11 +1322,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
+              "tmdb_id": 1443961,
+              "title": "Rao Bahadur",
+              "release_date": "2026-07-31",
+              "poster_path": "/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+              "backdrop_path": "/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2506,11 +2506,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1741201,
-              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
-              "release_date": "2026-08-20",
-              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2522,11 +2522,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2538,11 +2538,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2554,11 +2554,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2570,11 +2570,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2586,11 +2586,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2602,11 +2602,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2618,11 +2618,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
+              "tmdb_id": 1728056,
+              "title": "Big Chicken: A Fast Food Conspiracy",
               "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2634,11 +2634,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1421594,
+              "title": "Inside the Trustor Scandal",
+              "release_date": "2026-08-05",
+              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2650,11 +2650,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
-              "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
+              "tmdb_id": 1659155,
+              "title": "The Truthers",
+              "release_date": "2026-07-24",
+              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2672,11 +2672,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2688,11 +2688,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2704,11 +2704,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2720,11 +2720,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2736,11 +2736,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2752,11 +2752,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2768,11 +2768,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2784,11 +2784,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
+              "tmdb_id": 1728056,
+              "title": "Big Chicken: A Fast Food Conspiracy",
               "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2800,11 +2800,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616131,
-              "title": "A Child of My Own",
-              "release_date": "2026-07-30",
-              "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-              "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg"
+              "tmdb_id": 1421594,
+              "title": "Inside the Trustor Scandal",
+              "release_date": "2026-08-05",
+              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2816,11 +2816,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1659155,
-              "title": "The Truthers",
-              "release_date": "2026-07-24",
-              "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
-              "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg"
+              "tmdb_id": 1616131,
+              "title": "A Child of My Own",
+              "release_date": "2026-07-30",
+              "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
+              "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3004,11 +3004,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3020,11 +3020,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3036,11 +3036,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3052,11 +3052,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3068,11 +3068,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3084,11 +3084,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3100,11 +3100,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3116,11 +3116,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3132,11 +3132,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
-              "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3148,11 +3148,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616131,
-              "title": "A Child of My Own",
-              "release_date": "2026-08-13",
-              "poster_path": "/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
-              "backdrop_path": "/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3521,11 +3521,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 294141,
-              "title": "The Chosen in the Wild with Bear Grylls",
-              "release_date": "2026-08-09",
-              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
-              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
+              "tmdb_id": 331946,
+              "title": "A Beautiful Obsession",
+              "release_date": "2026-08-19",
+              "poster_path": "/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+              "backdrop_path": "/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg"
             },
             {
               "media_type": "movie",
@@ -3537,11 +3537,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 283297,
-              "title": "Sterling Point",
-              "release_date": "2026-08-05",
-              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
+              "tmdb_id": 294141,
+              "title": "The Chosen in the Wild with Bear Grylls",
+              "release_date": "2026-08-09",
+              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
+              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
             },
             {
               "media_type": "movie",
@@ -3553,11 +3553,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328402,
-              "title": "Adarsh Baal Vidyalaya",
-              "release_date": "2026-07-24",
-              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
-              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
+              "tmdb_id": 283297,
+              "title": "Sterling Point",
+              "release_date": "2026-08-05",
+              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3569,11 +3569,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 323976,
-              "title": "Young Farts Trailer Parts",
-              "release_date": "2026-07-17",
-              "poster_path": "/nd9XjTwKJ1JuPqf7ZsGsbUZptiN.jpg",
-              "backdrop_path": "/sk7A4RtNa33rVQ96YjdGDShbpv5.jpg"
+              "tmdb_id": 328402,
+              "title": "Adarsh Baal Vidyalaya",
+              "release_date": "2026-07-24",
+              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
+              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
             },
             {
               "media_type": "movie",
@@ -3585,11 +3585,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 241882,
-              "title": "Ride or Die",
-              "release_date": "2026-07-15",
-              "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
-              "backdrop_path": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg"
+              "tmdb_id": 323976,
+              "title": "Young Farts Trailer Parts",
+              "release_date": "2026-07-17",
+              "poster_path": "/nd9XjTwKJ1JuPqf7ZsGsbUZptiN.jpg",
+              "backdrop_path": "/sk7A4RtNa33rVQ96YjdGDShbpv5.jpg"
             },
             {
               "media_type": "movie",
@@ -3601,11 +3601,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325622,
-              "title": "Murder 101",
-              "release_date": "2026-07-13",
-              "poster_path": "/cy7sdlwtaiZYkpykbnzBtb4IoHs.jpg",
-              "backdrop_path": "/j3Unn0ynJIWrsmWMcPA4mBIk3Qf.jpg"
+              "tmdb_id": 241882,
+              "title": "Ride or Die",
+              "release_date": "2026-07-15",
+              "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+              "backdrop_path": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg"
             },
             {
               "media_type": "movie",
@@ -3617,11 +3617,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286709,
-              "title": "The Westies",
-              "release_date": "2026-07-12",
-              "poster_path": "/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
-              "backdrop_path": "/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg"
+              "tmdb_id": 325622,
+              "title": "Murder 101",
+              "release_date": "2026-07-13",
+              "poster_path": "/cy7sdlwtaiZYkpykbnzBtb4IoHs.jpg",
+              "backdrop_path": "/j3Unn0ynJIWrsmWMcPA4mBIk3Qf.jpg"
             },
             {
               "media_type": "movie",
@@ -3633,11 +3633,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 255358,
-              "title": "THE GHOST IN THE SHELL",
-              "release_date": "2026-07-07",
-              "poster_path": "/uEfNGaxbKI1xWmUy3DIndlaxUkz.jpg",
-              "backdrop_path": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg"
+              "tmdb_id": 286709,
+              "title": "The Westies",
+              "release_date": "2026-07-12",
+              "poster_path": "/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+              "backdrop_path": "/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg"
             },
             {
               "media_type": "movie",
@@ -3649,11 +3649,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319720,
-              "title": "The Loyalty Game",
-              "release_date": "2026-07-03",
-              "poster_path": "/5UUOskK9cPqdG77DfIlB2tR9utD.jpg",
-              "backdrop_path": "/lOnKcYoGrvcLdre7wIbLoeuBl2y.jpg"
+              "tmdb_id": 255358,
+              "title": "THE GHOST IN THE SHELL",
+              "release_date": "2026-07-07",
+              "poster_path": "/uEfNGaxbKI1xWmUy3DIndlaxUkz.jpg",
+              "backdrop_path": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg"
             },
             {
               "media_type": "movie",
@@ -3665,11 +3665,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316968,
-              "title": "Isakapatnam",
-              "release_date": "2026-07-02",
-              "poster_path": "/cs42BHvNNWw74fct04gAzijTtBQ.jpg",
-              "backdrop_path": "/fmlvrILGqb9Ek6JEGD9vUUfuk62.jpg"
+              "tmdb_id": 319720,
+              "title": "The Loyalty Game",
+              "release_date": "2026-07-03",
+              "poster_path": "/5UUOskK9cPqdG77DfIlB2tR9utD.jpg",
+              "backdrop_path": "/lOnKcYoGrvcLdre7wIbLoeuBl2y.jpg"
             }
           ]
         },
@@ -4025,7 +4025,7 @@
               "tmdb_id": 1301421,
               "title": "The Sheep Detectives",
               "release_date": "2026-05-08",
-              "poster_path": "/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+              "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
               "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg"
             },
             {
@@ -4085,6 +4085,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg",
+              "backdrop_path": "/iyJc33L3SCOkNrt7lTHITcZtGkx.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 323557,
+              "title": "Lion",
+              "release_date": "2026-08-19",
+              "poster_path": "/infZU4gpDlqgoQUsNWgDuzBsiNx.jpg",
+              "backdrop_path": "/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1736062,
@@ -4228,22 +4244,6 @@
               "release_date": "2026-07-03",
               "poster_path": "/LuOCmz0w2RLYNm9QhhsdOgks0N.jpg",
               "backdrop_path": "/uoEYlNTmQ32rbkFOdKu45fo0qT3.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1728564,
-              "title": "The Magic Behind Island Tower At Disney\u2019s Polynesian Villas & Bungalows",
-              "release_date": "2026-06-10",
-              "poster_path": "/hicwReMlN8DqLedzejfF7s5XqpY.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 328241,
-              "title": "Voyagers: Exploring Pacific Waters",
-              "release_date": "2026-07-02",
-              "poster_path": "/jmI7zYbEVmb4nYfaY97I3Z9rgyG.jpg",
-              "backdrop_path": "/lBiywceCfzKyByZld9Ubiy0DJNU.jpg"
             }
           ]
         },
@@ -4261,11 +4261,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 330438,
+              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
+              "release_date": "2026-08-21",
+              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
             },
             {
               "media_type": "movie",
@@ -4277,11 +4277,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -4293,11 +4293,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -4309,11 +4309,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330160,
-              "title": "Murder Club: Liar's Table",
-              "release_date": "2026-07-29",
-              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
-              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -4325,11 +4325,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
+              "tmdb_id": 330160,
+              "title": "Murder Club: Liar's Table",
               "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
             },
             {
               "media_type": "movie",
@@ -4341,11 +4341,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -4357,11 +4357,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324434,
-              "title": "Soy Luna: Let's Roll Again",
-              "release_date": "2026-07-24",
-              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
-              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -4373,11 +4373,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 324434,
+              "title": "Soy Luna: Let's Roll Again",
+              "release_date": "2026-07-24",
+              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
             },
             {
               "media_type": "movie",
@@ -4389,11 +4389,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             },
             {
               "media_type": "movie",
@@ -4405,11 +4405,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286345,
-              "title": "Though I Am an Inept Villainess",
-              "release_date": "2026-07-12",
-              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
-              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
+              "tmdb_id": 320503,
+              "title": "Dancing with the Stars: The Next Pro",
+              "release_date": "2026-07-13",
+              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
             }
           ]
         },
@@ -4593,11 +4593,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 330438,
+              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
+              "release_date": "2026-08-21",
+              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
             },
             {
               "media_type": "movie",
@@ -4609,11 +4609,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -4625,11 +4625,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -4641,11 +4641,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330160,
-              "title": "Murder Club: Liar's Table",
-              "release_date": "2026-07-29",
-              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
-              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -4657,11 +4657,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
+              "tmdb_id": 330160,
+              "title": "Murder Club: Liar's Table",
               "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
             },
             {
               "media_type": "movie",
@@ -4673,11 +4673,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -4689,11 +4689,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324434,
-              "title": "Soy Luna: Let's Roll Again",
-              "release_date": "2026-07-24",
-              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
-              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -4705,11 +4705,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 324434,
+              "title": "Soy Luna: Let's Roll Again",
+              "release_date": "2026-07-24",
+              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
             },
             {
               "media_type": "movie",
@@ -4721,11 +4721,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             },
             {
               "media_type": "movie",
@@ -4737,11 +4737,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300954,
-              "title": "The Husband",
-              "release_date": "2026-07-04",
-              "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
-              "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg"
+              "tmdb_id": 320503,
+              "title": "Dancing with the Stars: The Next Pro",
+              "release_date": "2026-07-13",
+              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
             }
           ]
         },
@@ -4759,11 +4759,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 330438,
+              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
+              "release_date": "2026-08-21",
+              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
             },
             {
               "media_type": "movie",
@@ -4775,11 +4775,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -4791,11 +4791,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -4807,11 +4807,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330160,
-              "title": "Murder Club: Liar's Table",
-              "release_date": "2026-07-29",
-              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
-              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -4823,11 +4823,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
+              "tmdb_id": 330160,
+              "title": "Murder Club: Liar's Table",
               "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
             },
             {
               "media_type": "movie",
@@ -4839,11 +4839,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -4855,11 +4855,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324434,
-              "title": "Soy Luna: Let's Roll Again",
-              "release_date": "2026-07-24",
-              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
-              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -4871,11 +4871,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 324434,
+              "title": "Soy Luna: Let's Roll Again",
+              "release_date": "2026-07-24",
+              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
             },
             {
               "media_type": "movie",
@@ -4887,11 +4887,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             },
             {
               "media_type": "movie",
@@ -4903,11 +4903,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300954,
-              "title": "The Husband",
-              "release_date": "2026-07-04",
-              "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
-              "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg"
+              "tmdb_id": 320503,
+              "title": "Dancing with the Stars: The Next Pro",
+              "release_date": "2026-07-13",
+              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
             }
           ]
         },
@@ -4925,11 +4925,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 330438,
+              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
+              "release_date": "2026-08-21",
+              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
             },
             {
               "media_type": "movie",
@@ -4941,11 +4941,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -4957,11 +4957,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -4973,11 +4973,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330160,
-              "title": "Murder Club: Liar's Table",
-              "release_date": "2026-07-29",
-              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
-              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -4989,11 +4989,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
+              "tmdb_id": 330160,
+              "title": "Murder Club: Liar's Table",
               "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
             },
             {
               "media_type": "movie",
@@ -5005,11 +5005,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -5021,11 +5021,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324434,
-              "title": "Soy Luna: Let's Roll Again",
-              "release_date": "2026-07-24",
-              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
-              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -5037,11 +5037,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 324434,
+              "title": "Soy Luna: Let's Roll Again",
+              "release_date": "2026-07-24",
+              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
             },
             {
               "media_type": "movie",
@@ -5053,11 +5053,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             },
             {
               "media_type": "movie",
@@ -5069,11 +5069,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286345,
-              "title": "Though I Am an Inept Villainess",
-              "release_date": "2026-07-12",
-              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
-              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
+              "tmdb_id": 320503,
+              "title": "Dancing with the Stars: The Next Pro",
+              "release_date": "2026-07-13",
+              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
             }
           ]
         },
@@ -5091,11 +5091,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 323557,
+              "title": "Lion",
+              "release_date": "2026-08-19",
+              "poster_path": "/infZU4gpDlqgoQUsNWgDuzBsiNx.jpg",
+              "backdrop_path": "/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg"
             },
             {
               "media_type": "movie",
@@ -5107,11 +5107,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -5123,11 +5123,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -5139,11 +5139,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
-              "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -5155,11 +5155,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -5171,11 +5171,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -5187,11 +5187,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             },
             {
               "media_type": "movie",
@@ -5203,11 +5203,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286345,
-              "title": "Though I Am an Inept Villainess",
-              "release_date": "2026-07-12",
-              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
-              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
+              "tmdb_id": 320503,
+              "title": "Dancing with the Stars: The Next Pro",
+              "release_date": "2026-07-13",
+              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
+              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
             },
             {
               "media_type": "movie",
@@ -5219,11 +5219,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300954,
-              "title": "The Husband",
-              "release_date": "2026-07-04",
-              "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
-              "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg"
+              "tmdb_id": 286345,
+              "title": "Though I Am an Inept Villainess",
+              "release_date": "2026-07-12",
+              "poster_path": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+              "backdrop_path": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg"
             },
             {
               "media_type": "movie",
@@ -5235,11 +5235,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326438,
-              "title": "Die Landarztpraxis \u2013 Team Sonnenhof",
-              "release_date": "2026-06-29",
-              "poster_path": "/svEgta00RbM3bl8RaCioMSuLExQ.jpg",
-              "backdrop_path": "/bhr6llQi2mcJ3SzdeLb9X1nvPOH.jpg"
+              "tmdb_id": 300954,
+              "title": "The Husband",
+              "release_date": "2026-07-04",
+              "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
+              "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg"
             }
           ]
         },
@@ -7260,11 +7260,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330654,
-              "title": "Somebody Knows Something",
-              "release_date": "2026-08-10",
-              "poster_path": "/uXwgUY4RFT06kuyrObtOJxqVh1D.jpg",
-              "backdrop_path": "/mt0gIlPemRLu4H4qn0WATxVoJ5Z.jpg"
+              "tmdb_id": 330438,
+              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
+              "release_date": "2026-08-21",
+              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
             },
             {
               "media_type": "movie",
@@ -7276,11 +7276,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 323557,
+              "title": "Lion",
+              "release_date": "2026-08-19",
+              "poster_path": "/infZU4gpDlqgoQUsNWgDuzBsiNx.jpg",
+              "backdrop_path": "/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg"
             },
             {
               "media_type": "movie",
@@ -7292,11 +7292,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
-              "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
+              "tmdb_id": 330654,
+              "title": "Somebody Knows Something",
+              "release_date": "2026-08-10",
+              "poster_path": "/uXwgUY4RFT06kuyrObtOJxqVh1D.jpg",
+              "backdrop_path": "/mt0gIlPemRLu4H4qn0WATxVoJ5Z.jpg"
             },
             {
               "media_type": "movie",
@@ -7308,11 +7308,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 298168,
+              "title": "The Shards",
+              "release_date": "2026-08-05",
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -7324,11 +7324,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
-              "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/9it8mz6Qk9jIZwX9Qv4J2LP9THF.jpg"
             },
             {
               "media_type": "movie",
@@ -7340,11 +7340,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287238,
-              "title": "Furious",
-              "release_date": "2026-07-27",
-              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -7356,11 +7356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324434,
-              "title": "Soy Luna: Let's Roll Again",
-              "release_date": "2026-07-24",
-              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
-              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
+              "tmdb_id": 321954,
+              "title": "House of Stassi",
+              "release_date": "2026-07-29",
+              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
+              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
             },
             {
               "media_type": "movie",
@@ -7372,11 +7372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 277640,
-              "title": "Pompeii: Out of Time with Tom Hiddleston",
-              "release_date": "2026-07-22",
-              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
-              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
+              "tmdb_id": 287238,
+              "title": "Furious",
+              "release_date": "2026-07-27",
+              "poster_path": "/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+              "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
             },
             {
               "media_type": "movie",
@@ -7388,11 +7388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321953,
-              "title": "Nation's Dumbest",
-              "release_date": "2026-07-15",
-              "poster_path": "/oP47JcqMrab8gbRqWfDiMes1urS.jpg",
-              "backdrop_path": "/segDdCcMSuA9IJBlyCx8nYbJ0e4.jpg"
+              "tmdb_id": 324434,
+              "title": "Soy Luna: Let's Roll Again",
+              "release_date": "2026-07-24",
+              "poster_path": "/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+              "backdrop_path": "/bATlRn3qaRgx49C6DkPCe8poU02.jpg"
             },
             {
               "media_type": "movie",
@@ -7404,11 +7404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320503,
-              "title": "Dancing with the Stars: The Next Pro",
-              "release_date": "2026-07-13",
-              "poster_path": "/cCZOGLxHkrDSisivpBkgso3OLSZ.jpg",
-              "backdrop_path": "/lEqc9jskHH83jA8uWRxBlKn26nr.jpg"
+              "tmdb_id": 277640,
+              "title": "Pompeii: Out of Time with Tom Hiddleston",
+              "release_date": "2026-07-22",
+              "poster_path": "/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+              "backdrop_path": "/pSFJys8tIv7mll6Fv1LqMbrWxLt.jpg"
             }
           ]
         }
@@ -7429,11 +7429,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1102883,
-              "title": "Mother Mary",
-              "release_date": "2026-04-24",
-              "poster_path": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
-              "backdrop_path": "/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg"
+              "tmdb_id": 1368314,
+              "title": "Passenger",
+              "release_date": "2026-05-22",
+              "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+              "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7445,11 +7445,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1325734,
-              "title": "The Drama",
-              "release_date": "2026-04-02",
-              "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-              "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg"
+              "tmdb_id": 1127384,
+              "title": "Deep Water",
+              "release_date": "2026-04-30",
+              "poster_path": "/cyI2Ugpq98WZN1GEYeWkn4ztXOc.jpg",
+              "backdrop_path": "/szKv713FcUXx6hcfdY369vtkmzr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7461,11 +7461,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1480387,
-              "title": "undertone",
-              "release_date": "2026-03-13",
-              "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-              "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg"
+              "tmdb_id": 1102883,
+              "title": "Mother Mary",
+              "release_date": "2026-04-24",
+              "poster_path": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+              "backdrop_path": "/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7477,11 +7477,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1627824,
-              "title": "Rocky's Cat-astrophe",
-              "release_date": "2026-02-27",
-              "poster_path": "/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
-              "backdrop_path": "/slgx2ur9DnHRVLBJYfONL4T7wyx.jpg"
+              "tmdb_id": 1325734,
+              "title": "The Drama",
+              "release_date": "2026-04-02",
+              "poster_path": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+              "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7493,11 +7493,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159559,
-              "title": "Scream 7",
-              "release_date": "2026-02-27",
-              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
+              "tmdb_id": 1480387,
+              "title": "undertone",
+              "release_date": "2026-03-13",
+              "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+              "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7509,11 +7509,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1383731,
-              "title": "Protector",
-              "release_date": "2026-02-20",
-              "poster_path": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-              "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg"
+              "tmdb_id": 1627824,
+              "title": "Rocky's Cat-astrophe",
+              "release_date": "2026-02-27",
+              "poster_path": "/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
+              "backdrop_path": "/slgx2ur9DnHRVLBJYfONL4T7wyx.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7525,11 +7525,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1445363,
-              "title": "EPiC: Elvis Presley in Concert",
-              "release_date": "2026-02-20",
-              "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-              "backdrop_path": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-27",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7541,11 +7541,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 467905,
-              "title": "How to Make a Killing",
-              "release_date": "2026-02-16",
-              "poster_path": "/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
-              "backdrop_path": "/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
+              "tmdb_id": 1383731,
+              "title": "Protector",
+              "release_date": "2026-02-20",
+              "poster_path": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+              "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7557,11 +7557,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2025-09-18",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+              "tmdb_id": 1445363,
+              "title": "EPiC: Elvis Presley in Concert",
+              "release_date": "2026-02-20",
+              "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+              "backdrop_path": "/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7573,11 +7573,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
-              "release_date": "2026-01-05",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
+              "tmdb_id": 467905,
+              "title": "How to Make a Killing",
+              "release_date": "2026-02-16",
+              "poster_path": "/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
+              "backdrop_path": "/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8929,11 +8929,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1468471,
-              "title": "A Machu Picchu Proposal",
-              "release_date": "2025-06-28",
-              "poster_path": "/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
-              "backdrop_path": "/oNSZmOdLEZ1Ipw736WMmBOkEJK7.jpg"
+              "tmdb_id": 1663525,
+              "title": "Haunted Harmony Mysteries: Key to the Castle",
+              "release_date": "2026-08-23",
+              "poster_path": "/l9Pm8DnilY7A1POSOacy1JEYE5Y.jpg",
+              "backdrop_path": "/p8bXnT5In5gd9vIEDQNfzfHu2pr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8945,11 +8945,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1662270,
-              "title": "All's Fair in Love and Mahjong",
-              "release_date": "2026-05-09",
-              "poster_path": "/eihoAaoGhcT3buJf8rdl3C0G0F8.jpg",
-              "backdrop_path": "/zgu3CIROWa2eQzwG4vdR0zntry0.jpg"
+              "tmdb_id": 1468471,
+              "title": "A Machu Picchu Proposal",
+              "release_date": "2025-06-28",
+              "poster_path": "/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
+              "backdrop_path": "/oNSZmOdLEZ1Ipw736WMmBOkEJK7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8961,11 +8961,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 936075,
-              "title": "Michael",
-              "release_date": "2026-04-23",
-              "poster_path": "/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
-              "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
+              "tmdb_id": 1662270,
+              "title": "All's Fair in Love and Mahjong",
+              "release_date": "2026-05-09",
+              "poster_path": "/eihoAaoGhcT3buJf8rdl3C0G0F8.jpg",
+              "backdrop_path": "/zgu3CIROWa2eQzwG4vdR0zntry0.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8977,11 +8977,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1304313,
-              "title": "Lee Cronin's The Mummy",
-              "release_date": "2026-04-17",
-              "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
-              "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
+              "tmdb_id": 936075,
+              "title": "Michael",
+              "release_date": "2026-04-23",
+              "poster_path": "/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
+              "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8993,11 +8993,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1662432,
-              "title": "Finding Harry: The Craft Behind the Magic",
-              "release_date": "2026-04-05",
-              "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
-              "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg"
+              "tmdb_id": 1304313,
+              "title": "Lee Cronin's The Mummy",
+              "release_date": "2026-04-17",
+              "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+              "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9009,11 +9009,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1653402,
-              "title": "Katherine Levac: L'homme de ma vie",
-              "release_date": "2026-03-17",
-              "poster_path": "/f96iMp64yjaMNcO9nRO4FRupATC.jpg",
-              "backdrop_path": "/5Pgdwn7F7yZI2T6GTycPzgecG70.jpg"
+              "tmdb_id": 1662432,
+              "title": "Finding Harry: The Craft Behind the Magic",
+              "release_date": "2026-04-05",
+              "poster_path": "/aq8jKIfASiOR6wz9FCeeCH90xZq.jpg",
+              "backdrop_path": "/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9025,11 +9025,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1622649,
-              "title": "Nelly Knows Mysteries: All Manners of Murder",
-              "release_date": "2026-04-12",
-              "poster_path": "/fyFB9ivzImj3eZfIE5mfCwMjny1.jpg",
-              "backdrop_path": "/dqUEdAT7Vfn6zvH6SmYPctFUCjk.jpg"
+              "tmdb_id": 1653402,
+              "title": "Katherine Levac: L'homme de ma vie",
+              "release_date": "2026-03-17",
+              "poster_path": "/f96iMp64yjaMNcO9nRO4FRupATC.jpg",
+              "backdrop_path": "/5Pgdwn7F7yZI2T6GTycPzgecG70.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9041,11 +9041,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159831,
-              "title": "The Bride!",
-              "release_date": "2026-03-05",
-              "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-              "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg"
+              "tmdb_id": 1622649,
+              "title": "Nelly Knows Mysteries: All Manners of Murder",
+              "release_date": "2026-04-12",
+              "poster_path": "/fyFB9ivzImj3eZfIE5mfCwMjny1.jpg",
+              "backdrop_path": "/dqUEdAT7Vfn6zvH6SmYPctFUCjk.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9057,11 +9057,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1643104,
-              "title": "One Night Out with Alan Cumming",
-              "release_date": "2026-02-26",
-              "poster_path": "/28zeLpd82Nmx04q3CZschj3j0o.jpg",
-              "backdrop_path": "/gclPtcEu5ILqWvdEd0Kx8hRQwlT.jpg"
+              "tmdb_id": 1159831,
+              "title": "The Bride!",
+              "release_date": "2026-03-05",
+              "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+              "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9073,11 +9073,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1439703,
-              "title": "Elsewhere at Night",
-              "release_date": "2026-02-13",
-              "poster_path": "/sYqUYUZrBWTGGGgSKlFRPlUi75M.jpg",
-              "backdrop_path": "/12uWwOT253JhSzO7mmSAi4boV7Y.jpg"
+              "tmdb_id": 1643104,
+              "title": "One Night Out with Alan Cumming",
+              "release_date": "2026-02-26",
+              "poster_path": "/28zeLpd82Nmx04q3CZschj3j0o.jpg",
+              "backdrop_path": "/gclPtcEu5ILqWvdEd0Kx8hRQwlT.jpg"
             },
             {
               "media_type": "tvshow",

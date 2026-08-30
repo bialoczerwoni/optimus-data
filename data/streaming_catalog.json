@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-29T15:04:53Z",
+  "generated_at": "2026-08-30T14:52:12Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -40,11 +40,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -56,11 +56,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -72,11 +72,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -88,11 +88,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -104,11 +104,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -120,11 +120,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -136,11 +136,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -152,11 +152,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -168,11 +168,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -206,11 +206,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -372,11 +372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -388,11 +388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -404,11 +404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -420,11 +420,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -436,11 +436,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -452,11 +452,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -468,11 +468,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -484,11 +484,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -500,11 +500,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -538,11 +538,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -704,11 +704,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -720,11 +720,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -736,11 +736,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -846,11 +846,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -862,11 +862,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -875,6 +875,22 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -987,22 +1003,6 @@
               "release_date": "2026-08-12",
               "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
               "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1509599,
-              "title": "Gatta Kusthi 2",
-              "release_date": "2026-07-03",
-              "poster_path": "/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-              "backdrop_path": "/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329274,
-              "title": "MOURINHO",
-              "release_date": "2026-08-11",
-              "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-              "backdrop_path": "/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg"
             }
           ]
         },
@@ -1036,11 +1036,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1052,11 +1052,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1068,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1132,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1148,11 +1148,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1164,11 +1164,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -1202,11 +1202,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1218,11 +1218,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1234,11 +1234,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1250,11 +1250,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -1266,11 +1266,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -1282,11 +1282,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1298,11 +1298,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1314,11 +1314,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1330,11 +1330,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -1368,11 +1368,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1384,11 +1384,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1400,11 +1400,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1416,11 +1416,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -1432,11 +1432,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1448,11 +1448,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1464,11 +1464,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1480,11 +1480,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -1496,11 +1496,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -1518,11 +1518,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1534,11 +1534,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1550,11 +1550,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1566,11 +1566,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1582,11 +1582,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
+              "release_date": "2026-08-26",
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1598,11 +1598,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
-              "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -1614,11 +1614,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 312523,
+              "title": "S&X",
+              "release_date": "2026-08-20",
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1630,11 +1630,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1646,11 +1646,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1662,11 +1662,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -1700,11 +1700,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -1866,11 +1866,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1882,11 +1882,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1898,11 +1898,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1914,11 +1914,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -1930,11 +1930,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -1946,11 +1946,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -1962,11 +1962,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,11 +1978,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -1994,11 +1994,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -2006,6 +2006,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1504358,
@@ -2016,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
               "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2149,22 +2165,6 @@
               "release_date": "2026-08-13",
               "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
               "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1358005,
-              "title": "Office Romance",
-              "release_date": "2026-06-05",
-              "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-              "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
             }
           ]
         },
@@ -2198,11 +2198,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
+              "release_date": "2026-08-26",
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
-              "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 312523,
+              "title": "S&X",
+              "release_date": "2026-08-20",
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -2278,11 +2278,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -2294,11 +2294,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -2310,11 +2310,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -2326,11 +2326,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329274,
-              "title": "MOURINHO",
-              "release_date": "2026-08-11",
-              "poster_path": "/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-              "backdrop_path": "/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -2364,11 +2364,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2380,11 +2380,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2396,11 +2396,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2412,11 +2412,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -2428,11 +2428,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -2444,11 +2444,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -2460,11 +2460,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -2476,11 +2476,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             },
             {
               "media_type": "movie",
@@ -2492,11 +2492,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 309798,
+              "title": "My Brilliant Career",
+              "release_date": "2026-08-13",
+              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
             }
           ]
         },
@@ -2530,11 +2530,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2546,11 +2546,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2562,11 +2562,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2578,11 +2578,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -2594,11 +2594,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -2610,11 +2610,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -2626,11 +2626,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -2642,11 +2642,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -2658,11 +2658,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -2696,11 +2696,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2712,11 +2712,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2728,11 +2728,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,11 +2776,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -2792,11 +2792,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -2836,6 +2836,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1504358,
@@ -2846,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
               "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,27 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1509599,
-              "title": "Gatta Kusthi 2",
-              "release_date": "2026-07-31",
-              "poster_path": "/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-              "backdrop_path": "/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 330320,
-              "title": "Conversations with a Killer: The Charles Manson Tapes",
-              "release_date": "2026-08-12",
-              "poster_path": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
-              "backdrop_path": "/cQ3lyswcCNGxBnyrwHbEBOqGsXE.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         },
@@ -3004,11 +3004,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1739186,
-              "title": "Untold: The Testimony of Vince Young",
-              "release_date": "2026-08-25",
-              "poster_path": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
-              "backdrop_path": "/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3020,11 +3020,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1739186,
+              "title": "Untold: The Testimony of Vince Young",
+              "release_date": "2026-08-25",
+              "poster_path": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+              "backdrop_path": "/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3036,11 +3036,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1538273,
-              "title": "Pyaar Prema Kalyanam",
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
               "release_date": "2026-08-21",
-              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
-              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3052,11 +3052,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1741201,
-              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
-              "release_date": "2026-08-20",
-              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-              "backdrop_path": "/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3068,11 +3068,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3084,11 +3084,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3100,11 +3100,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3116,11 +3116,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3132,11 +3132,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3148,11 +3148,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3194,11 +3194,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303351,
-              "title": "Blood Sacrifice",
+              "tmdb_id": 312523,
+              "title": "S&X",
               "release_date": "2026-08-20",
-              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
-              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
+              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326901,
-              "title": "Take a Hike!",
-              "release_date": "2026-08-18",
-              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
-              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
+              "tmdb_id": 303351,
+              "title": "Blood Sacrifice",
+              "release_date": "2026-08-20",
+              "poster_path": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+              "backdrop_path": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320936,
-              "title": "The Rotten Files with Stephanie Soo",
-              "release_date": "2026-08-14",
-              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
-              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
+              "tmdb_id": 326901,
+              "title": "Take a Hike!",
+              "release_date": "2026-08-18",
+              "poster_path": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+              "backdrop_path": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 309798,
-              "title": "My Brilliant Career",
-              "release_date": "2026-08-13",
-              "poster_path": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-              "backdrop_path": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg"
+              "tmdb_id": 320936,
+              "title": "The Rotten Files with Stephanie Soo",
+              "release_date": "2026-08-14",
+              "poster_path": "/as9XgYO5GG8gON5tGckKeYdpfDQ.jpg",
+              "backdrop_path": "/aDdbMas98lyOdspbSqWpqbho5Wx.jpg"
             }
           ]
         }
@@ -3817,7 +3817,7 @@
               "tmdb_id": 255358,
               "title": "THE GHOST IN THE SHELL",
               "release_date": "2026-07-07",
-              "poster_path": "/eGRZ1JHbJHe02UCOsV5MUlVRAEO.jpg",
+              "poster_path": "/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
               "backdrop_path": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg"
             },
             {
@@ -4114,7 +4114,7 @@
               "tmdb_id": 275224,
               "title": "My Name Is Gutierrez",
               "release_date": "2026-08-26",
-              "poster_path": "/sCjOLNZPeh067D2d7aXBeuwMGmn.jpg",
+              "poster_path": "/7zT7FbS0mwJdjKoPPX7xOhySlNN.jpg",
               "backdrop_path": "/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg"
             },
             {
@@ -7263,7 +7263,7 @@
               "tmdb_id": 275224,
               "title": "My Name Is Gutierrez",
               "release_date": "2026-08-26",
-              "poster_path": "/sCjOLNZPeh067D2d7aXBeuwMGmn.jpg",
+              "poster_path": "/7zT7FbS0mwJdjKoPPX7xOhySlNN.jpg",
               "backdrop_path": "/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg"
             },
             {
@@ -7340,11 +7340,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298168,
-              "title": "The Shards",
-              "release_date": "2026-08-05",
-              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
+              "tmdb_id": 331877,
+              "title": "Disney+ Hulu Throwbacks Podcast",
+              "release_date": "2026-08-06",
+              "poster_path": "/b0shItpkSRFstofksn6WLLGsryn.jpg",
+              "backdrop_path": "/liTpQxWxjfJNgjuC8unSVNsCHSj.jpg"
             },
             {
               "media_type": "movie",
@@ -7356,11 +7356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 289324,
-              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "tmdb_id": 298168,
+              "title": "The Shards",
               "release_date": "2026-08-05",
-              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-              "backdrop_path": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg"
+              "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+              "backdrop_path": "/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg"
             },
             {
               "media_type": "movie",
@@ -7372,11 +7372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320399,
-              "title": "ESPN Jeopardy!",
-              "release_date": "2026-07-31",
-              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
-              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
+              "tmdb_id": 289324,
+              "title": "Star Wars: Visions Presents - The Ninth Jedi",
+              "release_date": "2026-08-05",
+              "poster_path": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+              "backdrop_path": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg"
             },
             {
               "media_type": "movie",
@@ -7388,11 +7388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330160,
-              "title": "Murder Club: Liar's Table",
-              "release_date": "2026-07-29",
-              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
-              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
+              "tmdb_id": 320399,
+              "title": "ESPN Jeopardy!",
+              "release_date": "2026-07-31",
+              "poster_path": "/6eSrLFFehma3rB9EJf7uFPD6m5B.jpg",
+              "backdrop_path": "/blEmKtDcQwgrWTWhJllcJHy5a3k.jpg"
             },
             {
               "media_type": "movie",
@@ -7404,11 +7404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 321954,
-              "title": "House of Stassi",
+              "tmdb_id": 330160,
+              "title": "Murder Club: Liar's Table",
               "release_date": "2026-07-29",
-              "poster_path": "/ozKN9Y26mRMKtkR4ZC42XxiAcm8.jpg",
-              "backdrop_path": "/erQMAciH0j7iZgr5IDxU52I9R4u.jpg"
+              "poster_path": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+              "backdrop_path": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg"
             }
           ]
         }
@@ -8173,11 +8173,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340110,
-              "title": "Redux Redux",
-              "release_date": "2025-05-08",
-              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
-              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-29",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8189,11 +8189,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-25",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1340110,
+              "title": "Redux Redux",
+              "release_date": "2025-05-08",
+              "poster_path": "/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+              "backdrop_path": "/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8205,11 +8205,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-25",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8221,11 +8221,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1445025,
-              "title": "Time We Lost",
-              "release_date": "2025-11-06",
-              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
-              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
+              "tmdb_id": 798645,
+              "title": "The Running Man",
+              "release_date": "2025-11-13",
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8237,11 +8237,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
-              "release_date": "2025-11-13",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "tmdb_id": 1445025,
+              "title": "Time We Lost",
+              "release_date": "2025-11-06",
+              "poster_path": "/8KfQAB4O2FjQtpWGh8gcX3kDoUD.jpg",
+              "backdrop_path": "/7fDFVQNA25Nhvzv8Sz1nLQ9iflr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8940,7 +8940,7 @@
               "tmdb_id": 95350,
               "title": "Lanterns",
               "release_date": "2026-08-16",
-              "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+              "poster_path": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
               "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
             },
             {
@@ -8969,11 +8969,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287620,
-              "title": "Stuart Fails to Save the Universe",
-              "release_date": "2026-07-23",
-              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-              "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg"
+              "tmdb_id": 329941,
+              "title": "Le violeur de Tinder",
+              "release_date": "2026-07-29",
+              "poster_path": "/g7ZFKvZS1PrQ6Vu3uEWPUJc0gy1.jpg",
+              "backdrop_path": "/1iW7mvP9SzGOA6xzkZjEEtI1rI8.jpg"
             },
             {
               "media_type": "movie",
@@ -8985,11 +8985,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328039,
-              "title": "Olivier Primeau, pas encore milliardaire!",
-              "release_date": "2026-07-15",
-              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
-              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
+              "tmdb_id": 287620,
+              "title": "Stuart Fails to Save the Universe",
+              "release_date": "2026-07-23",
+              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+              "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg"
             },
             {
               "media_type": "movie",
@@ -9001,11 +9001,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314487,
-              "title": "Canada's Drag Race: All Stars",
-              "release_date": "2026-07-09",
-              "poster_path": "/sf7BBvU9QVI3acwJvi6nLZQgRtG.jpg",
-              "backdrop_path": "/lsZyv5whBhq0XUeduDPqqUspWd7.jpg"
+              "tmdb_id": 328039,
+              "title": "Olivier Primeau, pas encore milliardaire!",
+              "release_date": "2026-07-15",
+              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
+              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
             },
             {
               "media_type": "movie",
@@ -9017,11 +9017,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295780,
-              "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
-              "release_date": "2026-06-26",
-              "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
-              "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg"
+              "tmdb_id": 314487,
+              "title": "Canada's Drag Race: All Stars",
+              "release_date": "2026-07-09",
+              "poster_path": "/sf7BBvU9QVI3acwJvi6nLZQgRtG.jpg",
+              "backdrop_path": "/lsZyv5whBhq0XUeduDPqqUspWd7.jpg"
             },
             {
               "media_type": "movie",
@@ -9033,11 +9033,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325374,
-              "title": "Kings of Coke: New Blood",
-              "release_date": "2026-06-11",
-              "poster_path": "/sM1zI95u2DAOZPJhMjYMNiJSipa.jpg",
-              "backdrop_path": "/6tBSJtgNnBP87rElJTFYrvRJ7KM.jpg"
+              "tmdb_id": 295780,
+              "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+              "release_date": "2026-06-26",
+              "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+              "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg"
             },
             {
               "media_type": "movie",
@@ -9049,11 +9049,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324690,
-              "title": "Fear Factor C\u00e9l\u00e9brit\u00e9s",
-              "release_date": "2026-06-05",
-              "poster_path": "/2Ixdn5mctdwpT10sS6tS0obGzpk.jpg",
-              "backdrop_path": "/lhSVMVzRN0YwaHjl8IE4u96HdAc.jpg"
+              "tmdb_id": 327639,
+              "title": "The A-Z Killer",
+              "release_date": "2026-06-25",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -9065,11 +9065,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324519,
-              "title": "Canada's Team: In Focus",
-              "release_date": "2026-06-03",
-              "poster_path": "/sS9HSLwQlyAv1fcpzC4Fu4XVg4Z.jpg",
-              "backdrop_path": "/dvoGoJ8d0GSQ4ups8HjXQbuLFrO.jpg"
+              "tmdb_id": 325374,
+              "title": "Kings of Coke: New Blood",
+              "release_date": "2026-06-11",
+              "poster_path": "/sM1zI95u2DAOZPJhMjYMNiJSipa.jpg",
+              "backdrop_path": "/6tBSJtgNnBP87rElJTFYrvRJ7KM.jpg"
             },
             {
               "media_type": "movie",
@@ -9081,11 +9081,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 322974,
-              "title": "Bring Me the Beauties: A Model Cult",
-              "release_date": "2026-06-01",
-              "poster_path": "/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
-              "backdrop_path": "/wtiipa5mucHotfxO0cr1b7roqt4.jpg"
+              "tmdb_id": 324690,
+              "title": "Fear Factor C\u00e9l\u00e9brit\u00e9s",
+              "release_date": "2026-06-05",
+              "poster_path": "/2Ixdn5mctdwpT10sS6tS0obGzpk.jpg",
+              "backdrop_path": "/lhSVMVzRN0YwaHjl8IE4u96HdAc.jpg"
             }
           ]
         }

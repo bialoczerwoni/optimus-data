@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-06T13:40:36Z",
+  "generated_at": "2026-09-07T15:51:31Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -214,11 +214,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -230,11 +230,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -246,11 +246,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -262,11 +262,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -278,11 +278,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-09-04",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -294,11 +294,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-09-04",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -310,11 +310,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -326,11 +326,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1740877,
-              "title": "Storm on Sesame Street",
-              "release_date": "2026-08-03",
-              "poster_path": "/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
-              "backdrop_path": "/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg"
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
+              "release_date": "2026-09-04",
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -380,11 +380,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -396,11 +396,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -412,11 +412,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
+              "release_date": "2026-08-28",
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -428,11 +428,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -444,11 +444,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -460,11 +460,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -476,11 +476,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
+              "release_date": "2026-08-14",
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -492,11 +492,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-08-07",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -546,11 +546,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1750165,
-              "title": "NXT Heatwave 2026",
-              "release_date": "2026-08-31",
-              "poster_path": "/rcBcZpRISLKqBstSrMI3b5zoSA0.jpg",
-              "backdrop_path": "/aLPhYm7EtUwLSefcCvZ0FS6CL2u.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-02",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -562,11 +562,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-01",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -578,11 +578,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1740313,
-              "title": "Stamptown",
-              "release_date": "2026-08-25",
-              "poster_path": "/dGQUiIOa93d6U6tQAaXKoITUoEY.jpg",
-              "backdrop_path": "/13A0rWXcWuTR3cTY9dKT6tICxzM.jpg"
+              "tmdb_id": 1750165,
+              "title": "NXT Heatwave 2026",
+              "release_date": "2026-08-31",
+              "poster_path": "/rcBcZpRISLKqBstSrMI3b5zoSA0.jpg",
+              "backdrop_path": "/aLPhYm7EtUwLSefcCvZ0FS6CL2u.jpg"
             },
             {
               "media_type": "tvshow",
@@ -594,11 +594,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -610,11 +610,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1740313,
+              "title": "Stamptown",
+              "release_date": "2026-08-25",
+              "poster_path": "/dGQUiIOa93d6U6tQAaXKoITUoEY.jpg",
+              "backdrop_path": "/13A0rWXcWuTR3cTY9dKT6tICxzM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -626,11 +626,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-09-04",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -642,11 +642,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-09-04",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -658,11 +658,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -854,11 +854,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -870,11 +870,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -886,11 +886,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -902,6 +902,22 @@
             },
             {
               "media_type": "tvshow",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-08-07",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+            },
+            {
+              "media_type": "tvshow",
               "tmdb_id": 290193,
               "title": "Mousetrap",
               "release_date": "2026-08-28",
@@ -910,11 +926,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
               "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -926,11 +942,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1740877,
-              "title": "Storm on Sesame Street",
-              "release_date": "2026-08-03",
-              "poster_path": "/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
-              "backdrop_path": "/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -942,11 +958,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1620682,
-              "title": "Love in Slow Motion",
-              "release_date": "2026-07-23",
-              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-              "backdrop_path": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg"
+              "tmdb_id": 1740877,
+              "title": "Storm on Sesame Street",
+              "release_date": "2026-08-03",
+              "poster_path": "/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
+              "backdrop_path": "/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg"
             },
             {
               "media_type": "tvshow",
@@ -958,11 +974,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
-              "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
+              "tmdb_id": 1620682,
+              "title": "Love in Slow Motion",
+              "release_date": "2026-07-23",
+              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
+              "backdrop_path": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -974,11 +990,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-25",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1487861,
+              "title": "Elize: Shadows of a Woman",
+              "release_date": "2026-07-22",
+              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -987,22 +1003,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
               "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             }
           ]
         },
@@ -1044,11 +1044,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
-              "release_date": "2026-09-01",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1060,11 +1060,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-01",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1076,11 +1076,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
               "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1092,11 +1092,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1739186,
-              "title": "Untold: The Testimony of Vince Young",
-              "release_date": "2026-08-25",
-              "poster_path": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
-              "backdrop_path": "/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1108,11 +1108,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1739186,
+              "title": "Untold: The Testimony of Vince Young",
+              "release_date": "2026-08-25",
+              "poster_path": "/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+              "backdrop_path": "/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1124,11 +1124,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1538273,
-              "title": "Pyaar Prema Kalyanam",
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
               "release_date": "2026-08-21",
-              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
-              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1140,11 +1140,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1156,11 +1156,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1210,11 +1210,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1226,11 +1226,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1242,11 +1242,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
+              "release_date": "2026-08-28",
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1258,11 +1258,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1274,11 +1274,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1744151,
-              "title": "Three Housewives and a Body",
-              "release_date": "2026-09-03",
-              "poster_path": "/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
-              "backdrop_path": "/o4e82ZB7XwZJvdLOUUgMzmevkvT.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1290,11 +1290,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-06-23",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1306,11 +1306,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-09-04",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "tmdb_id": 1744151,
+              "title": "Three Housewives and a Body",
+              "release_date": "2026-09-03",
+              "poster_path": "/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
+              "backdrop_path": "/o4e82ZB7XwZJvdLOUUgMzmevkvT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1322,11 +1322,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-06-23",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1376,11 +1376,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1392,11 +1392,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1408,11 +1408,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
+              "release_date": "2026-08-28",
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1424,11 +1424,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1440,11 +1440,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
               "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1456,11 +1456,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1472,11 +1472,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1488,11 +1488,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-09-04",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1558,11 +1558,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1574,11 +1574,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
               "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1590,11 +1590,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1606,11 +1606,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1622,11 +1622,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1638,11 +1638,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1654,11 +1654,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728056,
-              "title": "Big Chicken: A Fast Food Conspiracy",
-              "release_date": "2026-08-05",
-              "poster_path": "/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-              "backdrop_path": "/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1684,11 +1684,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1700,6 +1700,22 @@
             },
             {
               "media_type": "tvshow",
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+            },
+            {
+              "media_type": "tvshow",
               "tmdb_id": 305644,
               "title": "Four Hands, Two Sonatas",
               "release_date": "2026-08-29",
@@ -1708,11 +1724,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1724,11 +1740,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1740,11 +1756,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1756,11 +1772,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1772,11 +1788,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1620682,
-              "title": "Love in Slow Motion",
-              "release_date": "2026-07-23",
-              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-              "backdrop_path": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1788,11 +1804,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
-              "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
+              "release_date": "2026-09-04",
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1804,11 +1820,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-25",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1817,22 +1833,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
               "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             }
           ]
         },
@@ -1874,11 +1874,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-04",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1890,11 +1890,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1906,11 +1906,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1922,11 +1922,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-09-04",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1938,11 +1938,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-09-04",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1954,11 +1954,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1970,11 +1970,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1421594,
-              "title": "Inside the Trustor Scandal",
-              "release_date": "2026-08-05",
-              "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-              "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg"
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
+              "release_date": "2026-09-04",
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1986,11 +1986,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-25",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2538,11 +2538,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-02",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2554,11 +2554,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-01",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2570,11 +2570,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1538273,
-              "title": "Pyaar Prema Kalyanam",
-              "release_date": "2026-08-21",
-              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
-              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2586,11 +2586,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1741201,
-              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
-              "release_date": "2026-08-20",
-              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
-              "backdrop_path": "/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2602,11 +2602,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2618,11 +2618,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1741201,
+              "title": "Chompoo: Lost\u200b &\u200b Forgotten\u200b",
+              "release_date": "2026-08-20",
+              "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+              "backdrop_path": "/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2634,11 +2634,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1688804,
+              "title": "Freefall: A Reckoning for Boeing",
+              "release_date": "2026-08-19",
+              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2650,11 +2650,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2704,11 +2704,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2720,11 +2720,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2736,11 +2736,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2752,11 +2752,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1632473,
-              "title": "This, That, and Everything in Between",
-              "release_date": "2026-08-13",
-              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2768,11 +2768,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
+              "tmdb_id": 1589248,
+              "title": "My Best Friend, His Girlfriend and Me",
               "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2784,11 +2784,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1487864,
-              "title": "Nando Between Two Worlds - A Sintonia Film",
-              "release_date": "2026-08-12",
-              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
+              "tmdb_id": 1632473,
+              "title": "This, That, and Everything in Between",
+              "release_date": "2026-08-13",
+              "poster_path": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+              "backdrop_path": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2800,11 +2800,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2816,11 +2816,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-09-04",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1487864,
+              "title": "Nando Between Two Worlds - A Sintonia Film",
+              "release_date": "2026-08-12",
+              "poster_path": "/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+              "backdrop_path": "/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2846,11 +2846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,6 +2862,22 @@
             },
             {
               "media_type": "tvshow",
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+            },
+            {
+              "media_type": "tvshow",
               "tmdb_id": 305644,
               "title": "Four Hands, Two Sonatas",
               "release_date": "2026-08-29",
@@ -2870,11 +2886,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-01",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2886,11 +2902,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2902,11 +2918,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2918,11 +2934,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2934,11 +2950,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 949838,
-              "title": "72 HOURS",
-              "release_date": "2026-07-24",
-              "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-              "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg"
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
+              "release_date": "2026-09-04",
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2950,11 +2966,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
+              "release_date": "2026-09-04",
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2966,11 +2982,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616674,
-              "title": "Me Before Me",
-              "release_date": "2026-07-16",
-              "poster_path": "/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-              "backdrop_path": "/1QiFfqaAhZi4HMlJNMvJVXOovc6.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2979,22 +2995,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
               "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1484913,
-              "title": "Ikka",
-              "release_date": "2026-07-10",
-              "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-              "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
             }
           ]
         },
@@ -3012,11 +3012,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -3028,11 +3028,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -3044,11 +3044,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330741,
-              "title": "My AI Partner: Strange Love",
-              "release_date": "2026-08-20",
-              "poster_path": "/3lRms31DDI2NZEDSPQujebAOWVH.jpg",
-              "backdrop_path": "/5H5Mka2V06L7BHzKyLq6KWoLNuI.jpg"
+              "tmdb_id": 299952,
+              "title": "The Early Spring",
+              "release_date": "2026-08-26",
+              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
             }
           ]
         },
@@ -3202,11 +3202,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3218,11 +3218,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1756450,
-              "title": "The Last Salute",
-              "release_date": "2026-08-26",
-              "poster_path": "/vcwG27XxJ7adAOfYiON8IjPUfSX.jpg",
-              "backdrop_path": "/nBi3xDc9psoSVt5aN87fEKDHrgh.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold: Raygun: Breaking Badly",
+              "release_date": "2026-09-01",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3234,11 +3234,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1538273,
-              "title": "Pyaar Prema Kalyanam",
-              "release_date": "2026-08-21",
-              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
-              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3250,11 +3250,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 1756450,
+              "title": "The Last Salute",
+              "release_date": "2026-08-26",
+              "poster_path": "/vcwG27XxJ7adAOfYiON8IjPUfSX.jpg",
+              "backdrop_path": "/nBi3xDc9psoSVt5aN87fEKDHrgh.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3266,11 +3266,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1538273,
+              "title": "Pyaar Prema Kalyanam",
+              "release_date": "2026-08-21",
+              "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+              "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3282,11 +3282,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-08-07",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3298,11 +3298,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-08-06",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3314,11 +3314,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
               "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4098,7 +4098,7 @@
               "tmdb_id": 333575,
               "title": "Star Wars: The Mandalorian and Grogu Official Podcast",
               "release_date": "2026-09-02",
-              "poster_path": "/1215qwUZcEomRWkmS7xBkIZH6ca.jpg",
+              "poster_path": "/dyLxazElZUIYkiA6w6VmBF3SMqq.jpg",
               "backdrop_path": "/tty3C6Beju8l7lxdx2uohYskAgO.jpg"
             },
             {
@@ -5094,7 +5094,7 @@
               "tmdb_id": 333575,
               "title": "Star Wars: The Mandalorian and Grogu Official Podcast",
               "release_date": "2026-09-02",
-              "poster_path": "/1215qwUZcEomRWkmS7xBkIZH6ca.jpg",
+              "poster_path": "/dyLxazElZUIYkiA6w6VmBF3SMqq.jpg",
               "backdrop_path": "/tty3C6Beju8l7lxdx2uohYskAgO.jpg"
             },
             {
@@ -7396,11 +7396,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1227241,
-              "title": "Maa Inti Bangaram",
-              "release_date": "2026-06-18",
-              "poster_path": "/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
-              "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg"
+              "tmdb_id": 1695225,
+              "title": "Travis Barker: Louder Than Fear",
+              "release_date": "2026-06-13",
+              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
+              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
             },
             {
               "media_type": "tvshow",

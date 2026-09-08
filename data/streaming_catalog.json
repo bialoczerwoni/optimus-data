@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-07T15:51:31Z",
+  "generated_at": "2026-09-08T14:32:31Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -24,11 +24,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -40,11 +40,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -56,11 +56,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -72,11 +72,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -88,11 +88,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -104,11 +104,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -120,11 +120,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -136,11 +136,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -152,11 +152,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -168,11 +168,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -190,11 +190,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -206,11 +206,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -356,11 +356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -372,11 +372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -388,11 +388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -404,11 +404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -420,11 +420,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -436,11 +436,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -452,11 +452,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -468,11 +468,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -484,11 +484,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -500,11 +500,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -522,11 +522,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -538,11 +538,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
+              "release_date": "2026-08-26",
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -1020,11 +1020,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1036,11 +1036,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1052,11 +1052,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1068,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1132,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1148,11 +1148,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1164,11 +1164,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -1352,11 +1352,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1368,11 +1368,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1384,11 +1384,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1400,11 +1400,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -1416,11 +1416,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1432,11 +1432,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1448,11 +1448,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1464,11 +1464,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1480,11 +1480,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1496,11 +1496,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
+              "release_date": "2026-08-26",
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -1518,11 +1518,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1534,11 +1534,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1550,11 +1550,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1566,11 +1566,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -1582,11 +1582,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1598,11 +1598,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1614,11 +1614,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1630,11 +1630,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1646,11 +1646,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1662,11 +1662,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
+              "release_date": "2026-08-26",
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -1684,11 +1684,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1700,11 +1700,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -2016,11 +2016,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2032,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,11 +2096,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2112,11 +2112,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2128,11 +2128,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2144,11 +2144,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -2160,11 +2160,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             }
           ]
         },
@@ -2182,11 +2182,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2198,11 +2198,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2278,11 +2278,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2294,11 +2294,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2310,11 +2310,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -2326,11 +2326,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             }
           ]
         },
@@ -2348,11 +2348,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2364,11 +2364,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2380,11 +2380,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2396,11 +2396,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2412,11 +2412,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2428,11 +2428,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2444,11 +2444,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2460,11 +2460,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2476,11 +2476,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -2492,11 +2492,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312523,
-              "title": "S&X",
-              "release_date": "2026-08-20",
-              "poster_path": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
-              "backdrop_path": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg"
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
+              "release_date": "2026-08-26",
+              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             }
           ]
         },
@@ -2680,11 +2680,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2696,11 +2696,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2712,11 +2712,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2728,11 +2728,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,11 +2776,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2792,11 +2792,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -2846,11 +2846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2878,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -2990,11 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 326879,
+              "title": "The Airport Chaplain",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             }
           ]
         },
@@ -3178,11 +3178,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -3194,11 +3194,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299952,
-              "title": "The Early Spring",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-              "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         }
@@ -3390,11 +3390,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1626188,
-              "title": "Novak Djokovic: The Wolf in Winter",
-              "release_date": "2026-08-20",
-              "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-              "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg"
+              "tmdb_id": 1747096,
+              "title": "Pickleballers",
+              "release_date": "2026-08-25",
+              "poster_path": "/hMnh98leXyB1hzmeMlB0DUmsOJF.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3406,11 +3406,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1676318,
-              "title": "Back to the 90s",
-              "release_date": "2026-08-21",
-              "poster_path": "/tCOvMa7bXHiRlOuhQvUOeSF0kPn.jpg",
-              "backdrop_path": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg"
+              "tmdb_id": 1626188,
+              "title": "Novak Djokovic: The Wolf in Winter",
+              "release_date": "2026-08-20",
+              "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+              "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3422,11 +3422,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1481343,
-              "title": "The Devil's Mouth",
-              "release_date": "2026-07-29",
-              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg"
+              "tmdb_id": 1676318,
+              "title": "Back to the 90s",
+              "release_date": "2026-08-21",
+              "poster_path": "/tCOvMa7bXHiRlOuhQvUOeSF0kPn.jpg",
+              "backdrop_path": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3438,11 +3438,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1511081,
-              "title": "Contention",
-              "release_date": "2026-07-23",
-              "poster_path": "/xNtUwylGBceTQ48iaV9L0eKswEm.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1481343,
+              "title": "The Devil's Mouth",
+              "release_date": "2026-07-29",
+              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+              "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3454,11 +3454,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1592679,
-              "title": "Oh..! Sukumari",
-              "release_date": "2026-07-17",
-              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
-              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
+              "tmdb_id": 1511081,
+              "title": "Contention",
+              "release_date": "2026-07-23",
+              "poster_path": "/xNtUwylGBceTQ48iaV9L0eKswEm.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3470,11 +3470,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1729196,
-              "title": "Dread",
-              "release_date": "2026-07-10",
-              "poster_path": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1592679,
+              "title": "Oh..! Sukumari",
+              "release_date": "2026-07-17",
+              "poster_path": "/x6b5cHpR8KuCg5OHEXmvkgVXKtN.jpg",
+              "backdrop_path": "/sbQTtNk3d2qpHWF35GfG28mAiKP.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3486,11 +3486,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1722965,
-              "title": "Eli Manning Presents: The Undercovers - Sabrina Ionescu",
-              "release_date": "2026-06-29",
-              "poster_path": "/z0EuNGOWIisSufZQL8OgAlWTJyk.jpg",
-              "backdrop_path": "/1e6qr68BvdbkXrpp3PGYRX7HZ9D.jpg"
+              "tmdb_id": 1729196,
+              "title": "Dread",
+              "release_date": "2026-07-10",
+              "poster_path": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -7284,11 +7284,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1458215,
-              "title": "The Gentleman Thief",
-              "release_date": "2026-07-31",
-              "poster_path": "/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
-              "backdrop_path": "/aayQcCebqLmkTZdILp9JVcFiIRL.jpg"
+              "tmdb_id": 1738843,
+              "title": "K-Pop Shark Heroes",
+              "release_date": "2026-07-26",
+              "poster_path": "/drsiATJGmJ4Cg7mYaSprISjnFlc.jpg",
+              "backdrop_path": "/4WkEMFuW7xIyqrTBTzZXIHuZC3F.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7300,11 +7300,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1738843,
-              "title": "K-Pop Shark Heroes",
-              "release_date": "2026-07-26",
-              "poster_path": "/drsiATJGmJ4Cg7mYaSprISjnFlc.jpg",
-              "backdrop_path": "/4WkEMFuW7xIyqrTBTzZXIHuZC3F.jpg"
+              "tmdb_id": 1728954,
+              "title": "My Grandfather Charles Manson",
+              "release_date": "2026-07-22",
+              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7316,11 +7316,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728954,
-              "title": "My Grandfather Charles Manson",
-              "release_date": "2026-07-22",
-              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
-              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
+              "tmdb_id": 1736788,
+              "title": "Attack of the Samurai Sharks",
+              "release_date": "2026-07-06",
+              "poster_path": "/jlLtOR28OUXaAZFtrE4iJk4mTtW.jpg",
+              "backdrop_path": "/wRHmZI4sjZGPCzFAQw1m4re5jw2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7332,11 +7332,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1736788,
-              "title": "Attack of the Samurai Sharks",
-              "release_date": "2026-07-06",
-              "poster_path": "/jlLtOR28OUXaAZFtrE4iJk4mTtW.jpg",
-              "backdrop_path": "/wRHmZI4sjZGPCzFAQw1m4re5jw2.jpg"
+              "tmdb_id": 1737377,
+              "title": "Great White Gauntlet",
+              "release_date": "2026-07-05",
+              "poster_path": "/lbbawFmSujkzmAfpYxkp7ZchwS2.jpg",
+              "backdrop_path": "/kkdtYJ3Svb9duPlfmBTOvnEPjBr.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7348,11 +7348,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1737377,
-              "title": "Great White Gauntlet",
+              "tmdb_id": 1723068,
+              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
               "release_date": "2026-07-05",
-              "poster_path": "/lbbawFmSujkzmAfpYxkp7ZchwS2.jpg",
-              "backdrop_path": "/kkdtYJ3Svb9duPlfmBTOvnEPjBr.jpg"
+              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7364,11 +7364,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1723068,
-              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
-              "release_date": "2026-07-05",
-              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
+              "tmdb_id": 1720758,
+              "title": "Disney Celebrates America: The Pursuit of Happiness",
+              "release_date": "2026-06-29",
+              "poster_path": "/nFzaWTQUuTk9KFTmSAEJFijHCNr.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -7380,11 +7380,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1720758,
-              "title": "Disney Celebrates America: The Pursuit of Happiness",
-              "release_date": "2026-06-29",
-              "poster_path": "/nFzaWTQUuTk9KFTmSAEJFijHCNr.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1695225,
+              "title": "Travis Barker: Louder Than Fear",
+              "release_date": "2026-06-13",
+              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
+              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7396,11 +7396,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1695225,
-              "title": "Travis Barker: Louder Than Fear",
-              "release_date": "2026-06-13",
-              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
-              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
+              "tmdb_id": 1558796,
+              "title": "Never Change!",
+              "release_date": "2026-06-09",
+              "poster_path": "/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+              "backdrop_path": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8941,7 +8941,7 @@
               "title": "Lanterns",
               "release_date": "2026-08-16",
               "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-              "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
+              "backdrop_path": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
             },
             {
               "media_type": "movie",

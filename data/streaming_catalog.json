@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-09T14:36:27Z",
+  "generated_at": "2026-09-10T14:26:42Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -24,11 +24,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -37,6 +37,22 @@
               "release_date": "2026-09-08",
               "poster_path": "/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
               "backdrop_path": "/aZY17mncsi7zM8IcvucdxgnbM1C.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -129,7 +145,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -157,22 +173,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -187,6 +187,22 @@
               "release_date": "2026-09-08",
               "poster_path": "/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
               "backdrop_path": "/aZY17mncsi7zM8IcvucdxgnbM1C.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -263,7 +279,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -323,22 +339,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -346,6 +346,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -413,7 +429,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -489,22 +505,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -512,6 +512,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -579,7 +595,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -655,22 +671,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -678,6 +678,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 860508,
@@ -811,7 +827,7 @@
               "tmdb_id": 614945,
               "title": "Voicemails for Isabelle",
               "release_date": "2026-06-19",
-              "poster_path": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
               "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
@@ -821,22 +837,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1451344,
-              "title": "Husbands in Action",
-              "release_date": "2026-06-19",
-              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -844,6 +844,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1631807,
@@ -987,22 +1003,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1487861,
-              "title": "Elize: Shadows of a Woman",
-              "release_date": "2026-07-22",
-              "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
-              "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -1017,6 +1017,22 @@
               "release_date": "2026-09-08",
               "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
               "backdrop_path": "/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1093,7 +1109,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -1153,22 +1169,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1621552,
-              "title": "Facing El Chapo",
-              "release_date": "2026-08-21",
-              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -1176,6 +1176,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -1243,7 +1259,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -1319,22 +1335,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1744151,
-              "title": "Three Housewives and a Body",
-              "release_date": "2026-09-03",
-              "poster_path": "/zo6NjsW43vh0hdrrN92kKMwaWbn.jpg",
-              "backdrop_path": "/o4e82ZB7XwZJvdLOUUgMzmevkvT.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -1342,6 +1342,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -1409,7 +1425,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -1485,22 +1501,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -1508,6 +1508,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -1575,7 +1591,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -1651,22 +1667,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -1674,6 +1674,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -1741,7 +1757,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -1817,22 +1833,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
-              "release_date": "2026-09-04",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         },
@@ -1866,11 +1866,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1882,11 +1882,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1898,27 +1898,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -1930,11 +1930,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -1946,11 +1946,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -1962,11 +1962,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,11 +1978,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -1994,11 +1994,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -2032,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,11 +2096,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2112,27 +2112,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 614945,
               "title": "Voicemails for Isabelle",
               "release_date": "2026-06-19",
-              "poster_path": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
               "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2144,31 +2144,133 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1699155,
               "title": "Maternal Instinct",
               "release_date": "2026-06-12",
-              "poster_path": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+              "poster_path": "/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
               "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
         "DK": {
+          "top_movies": [],
+          "top_shows": [],
+          "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1468683,
+              "title": "Heartstopper Forever",
+              "release_date": "2026-07-17",
+              "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1202033,
+              "title": "Enola Holmes 3",
+              "release_date": "2026-07-01",
+              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+              "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 614945,
+              "title": "Voicemails for Isabelle",
+              "release_date": "2026-06-19",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1397385,
+              "title": "Little Brother",
+              "release_date": "2026-06-26",
+              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1451344,
+              "title": "Husbands in Action",
+              "release_date": "2026-06-19",
+              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1699155,
+              "title": "Maternal Instinct",
+              "release_date": "2026-06-12",
+              "poster_path": "/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
+              "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1358005,
+              "title": "Office Romance",
+              "release_date": "2026-06-05",
+              "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+              "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1368881,
+              "title": "Ladies First",
+              "release_date": "2026-05-22",
+              "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+              "backdrop_path": "/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg"
+            }
+          ]
+        },
+        "FI": {
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
@@ -2273,7 +2375,7 @@
               "tmdb_id": 614945,
               "title": "Voicemails for Isabelle",
               "release_date": "2026-06-19",
-              "poster_path": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+              "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
               "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
             },
             {
@@ -2321,7 +2423,7 @@
               "tmdb_id": 1699155,
               "title": "Maternal Instinct",
               "release_date": "2026-06-12",
-              "poster_path": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+              "poster_path": "/5SmrU6YVpycaNAETj2koHL9yiDz.jpg",
               "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg"
             },
             {
@@ -2331,172 +2433,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
               "backdrop_path": ""
-            }
-          ]
-        },
-        "FI": {
-          "top_movies": [],
-          "top_shows": [],
-          "recently_added": [
-            {
-              "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1202033,
-              "title": "Enola Holmes 3",
-              "release_date": "2026-07-01",
-              "poster_path": "/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-              "backdrop_path": "/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 614945,
-              "title": "Voicemails for Isabelle",
-              "release_date": "2026-06-19",
-              "poster_path": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-              "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1397385,
-              "title": "Little Brother",
-              "release_date": "2026-06-26",
-              "poster_path": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-              "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1451344,
-              "title": "Husbands in Action",
-              "release_date": "2026-06-19",
-              "poster_path": "/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-              "backdrop_path": "/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1699155,
-              "title": "Maternal Instinct",
-              "release_date": "2026-06-12",
-              "poster_path": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
-              "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
-              "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
             }
           ]
         },
@@ -2504,6 +2440,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -2571,7 +2523,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -2647,22 +2599,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1688804,
-              "title": "Freefall: A Reckoning for Boeing",
-              "release_date": "2026-08-19",
-              "poster_path": "/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
-              "backdrop_path": "/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -2670,6 +2606,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1762763,
@@ -2737,7 +2689,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-02",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -2813,22 +2765,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
               "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
-              "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
             }
           ]
         },
@@ -2846,11 +2782,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,11 +2798,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2878,11 +2814,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,27 +2830,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
               "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 290193,
+              "title": "Mousetrap",
+              "release_date": "2026-08-28",
+              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
+              "tmdb_id": 331796,
+              "title": "Mom Knows Best?",
               "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329451,
-              "title": "Wishbone Kitchen",
+              "tmdb_id": 331616,
+              "title": "Death of the Pastor's Wife",
               "release_date": "2026-08-26",
-              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
-              "backdrop_path": ""
+              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
+              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             },
             {
               "media_type": "movie",
@@ -2990,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326879,
-              "title": "The Airport Chaplain",
+              "tmdb_id": 329451,
+              "title": "Wishbone Kitchen",
               "release_date": "2026-08-26",
-              "poster_path": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
-              "backdrop_path": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg"
+              "poster_path": "/n1AVpdC74p2Nz7K4d6meEVrOBYA.jpg",
+              "backdrop_path": ""
             }
           ]
         },
@@ -3069,7 +3005,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -3170,6 +3106,22 @@
           "recently_added": [
             {
               "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "DANG!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
+            {
+              "media_type": "movie",
               "tmdb_id": 1762763,
               "title": "Famous Last Words: Gloria Steinem",
               "release_date": "2026-09-04",
@@ -3235,7 +3187,7 @@
             {
               "media_type": "movie",
               "tmdb_id": 1739202,
-              "title": "Untold: Raygun: Breaking Badly",
+              "title": "Untold Raygun: Breaking Badly",
               "release_date": "2026-09-01",
               "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
               "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
@@ -3311,22 +3263,6 @@
               "release_date": "2026-08-26",
               "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
               "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
             }
           ]
         }
@@ -3340,6 +3276,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1440098,
+              "title": "Drawn Together",
+              "release_date": "2026-09-09",
+              "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+              "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 331586,
+              "title": "LOL Next",
+              "release_date": "2026-09-10",
+              "poster_path": "/iUtfdREddJD4A7yNqsacJZHKJVk.jpg",
+              "backdrop_path": ""
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1386315,
@@ -3483,22 +3435,6 @@
               "release_date": "2026-07-24",
               "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
               "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1729196,
-              "title": "Dread",
-              "release_date": "2026-07-10",
-              "poster_path": "/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 323976,
-              "title": "Young Farts Trailer Parts",
-              "release_date": "2026-07-17",
-              "poster_path": "/nd9XjTwKJ1JuPqf7ZsGsbUZptiN.jpg",
-              "backdrop_path": "/sk7A4RtNa33rVQ96YjdGDShbpv5.jpg"
             }
           ]
         },
@@ -3521,11 +3457,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329471,
-              "title": "The Grand Tour",
-              "release_date": "2026-09-04",
-              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
-              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
+              "tmdb_id": 331586,
+              "title": "LOL Next",
+              "release_date": "2026-09-10",
+              "poster_path": "/iUtfdREddJD4A7yNqsacJZHKJVk.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3537,11 +3473,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316970,
-              "title": "Jagamae Sangeetham",
+              "tmdb_id": 329471,
+              "title": "The Grand Tour",
               "release_date": "2026-09-04",
-              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
+              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
             },
             {
               "media_type": "movie",
@@ -3553,11 +3489,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331946,
-              "title": "A Beautiful Obsession",
-              "release_date": "2026-08-19",
-              "poster_path": "/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
-              "backdrop_path": "/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg"
+              "tmdb_id": 316970,
+              "title": "Jagamae Sangeetham",
+              "release_date": "2026-09-04",
+              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
+              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
             },
             {
               "media_type": "movie",
@@ -3569,11 +3505,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331701,
-              "title": "An Amputation Obsession: The Monster and the Surgeon",
-              "release_date": "2026-08-13",
-              "poster_path": "/sZglcGtxumCBtjU1JPxGtytQf9Y.jpg",
-              "backdrop_path": "/A01rLIWQJbRDrQXqTXOFxYRFpwS.jpg"
+              "tmdb_id": 331946,
+              "title": "A Beautiful Obsession",
+              "release_date": "2026-08-19",
+              "poster_path": "/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+              "backdrop_path": "/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg"
             },
             {
               "media_type": "movie",
@@ -3585,11 +3521,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 294141,
-              "title": "The Chosen in the Wild with Bear Grylls",
-              "release_date": "2026-08-09",
-              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
-              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
+              "tmdb_id": 331701,
+              "title": "An Amputation Obsession: The Monster and the Surgeon",
+              "release_date": "2026-08-13",
+              "poster_path": "/sZglcGtxumCBtjU1JPxGtytQf9Y.jpg",
+              "backdrop_path": "/A01rLIWQJbRDrQXqTXOFxYRFpwS.jpg"
             },
             {
               "media_type": "movie",
@@ -3601,11 +3537,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 283297,
-              "title": "Sterling Point",
-              "release_date": "2026-08-05",
-              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
+              "tmdb_id": 294141,
+              "title": "The Chosen in the Wild with Bear Grylls",
+              "release_date": "2026-08-09",
+              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
+              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
             },
             {
               "media_type": "movie",
@@ -3617,11 +3553,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330120,
-              "title": "Bayrak Ta\u015f\u0131yanlar",
-              "release_date": "2026-07-29",
-              "poster_path": "/q80dddsNfrpBm45lfN1LSrZtwKx.jpg",
-              "backdrop_path": "/nmLrddaPWJlGEySOb7FjYQsJRLC.jpg"
+              "tmdb_id": 283297,
+              "title": "Sterling Point",
+              "release_date": "2026-08-05",
+              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3633,11 +3569,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329378,
-              "title": "The Curse Of Love Island",
-              "release_date": "2026-07-26",
-              "poster_path": "/qZnoJ4lraO8a2DOwlZUGBbgrTEL.jpg",
-              "backdrop_path": "/yUquOOwzE6HXC1auBM31UCbBKCj.jpg"
+              "tmdb_id": 330120,
+              "title": "Bayrak Ta\u015f\u0131yanlar",
+              "release_date": "2026-07-29",
+              "poster_path": "/q80dddsNfrpBm45lfN1LSrZtwKx.jpg",
+              "backdrop_path": "/nmLrddaPWJlGEySOb7FjYQsJRLC.jpg"
             },
             {
               "media_type": "movie",
@@ -3649,11 +3585,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328402,
-              "title": "Adarsh Baal Vidyalaya",
-              "release_date": "2026-07-24",
-              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
-              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
+              "tmdb_id": 329378,
+              "title": "The Curse Of Love Island",
+              "release_date": "2026-07-26",
+              "poster_path": "/qZnoJ4lraO8a2DOwlZUGBbgrTEL.jpg",
+              "backdrop_path": "/yUquOOwzE6HXC1auBM31UCbBKCj.jpg"
             },
             {
               "media_type": "movie",
@@ -3665,11 +3601,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 323976,
-              "title": "Young Farts Trailer Parts",
-              "release_date": "2026-07-17",
-              "poster_path": "/nd9XjTwKJ1JuPqf7ZsGsbUZptiN.jpg",
-              "backdrop_path": "/sk7A4RtNa33rVQ96YjdGDShbpv5.jpg"
+              "tmdb_id": 328402,
+              "title": "Adarsh Baal Vidyalaya",
+              "release_date": "2026-07-24",
+              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
+              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
             }
           ]
         },
@@ -3692,6 +3628,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1440098,
+              "title": "Drawn Together",
+              "release_date": "2026-09-09",
+              "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+              "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 331586,
+              "title": "LOL Next",
+              "release_date": "2026-09-10",
+              "poster_path": "/iUtfdREddJD4A7yNqsacJZHKJVk.jpg",
+              "backdrop_path": ""
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1386315,
@@ -3835,22 +3787,6 @@
               "release_date": "2026-07-07",
               "poster_path": "/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
               "backdrop_path": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1501018,
-              "title": "A Family of Bastards",
-              "release_date": "2026-06-12",
-              "poster_path": "/lJRVhYwrJq9IfXOE5FvSxUxXfnf.jpg",
-              "backdrop_path": "/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 319720,
-              "title": "The Loyalty Game",
-              "release_date": "2026-07-03",
-              "poster_path": "/5UUOskK9cPqdG77DfIlB2tR9utD.jpg",
-              "backdrop_path": "/lOnKcYoGrvcLdre7wIbLoeuBl2y.jpg"
             }
           ]
         },
@@ -3977,7 +3913,7 @@
               "tmdb_id": 1647153,
               "title": "MYSTERY ARENA",
               "release_date": "2026-05-22",
-              "poster_path": "/hLMWlQnZInMLcquVAXG6BEQEFEx.jpg",
+              "poster_path": "/m7Z0AiajDGstXFZrLPgSuRIuS9m.jpg",
               "backdrop_path": "/5vqVfhc9XiyTb4kTzHoSpPOzQfG.jpg"
             },
             {
@@ -4146,7 +4082,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -4272,8 +4208,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-22",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4296,7 +4232,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -4337,7 +4273,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-05",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4462,7 +4398,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -4518,8 +4454,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-22",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4604,8 +4540,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-21",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4628,7 +4564,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -4685,7 +4621,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-26",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4754,8 +4690,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-21",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4794,7 +4730,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -4835,7 +4771,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-26",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4920,8 +4856,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-22",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4960,7 +4896,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5017,7 +4953,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-06",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5126,7 +5062,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5182,8 +5118,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-20",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5276,7 +5212,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5442,7 +5378,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5498,8 +5434,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-22",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5608,7 +5544,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5648,8 +5584,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-20",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5750,8 +5686,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-20",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5774,7 +5710,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5831,7 +5767,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-04",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5940,7 +5876,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -5948,8 +5884,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-20",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6029,7 +5965,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-06",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6106,7 +6042,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6264,15 +6200,15 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-20",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6297,7 +6233,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-05",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6414,8 +6350,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-22",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6438,7 +6374,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6463,7 +6399,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-06",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6604,7 +6540,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6628,8 +6564,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-21",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6762,15 +6698,15 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-21",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6859,7 +6795,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-05",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6912,8 +6848,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-21",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -6936,7 +6872,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -6977,7 +6913,7 @@
               "title": "Hoppers",
               "release_date": "2026-03-13",
               "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-              "backdrop_path": "/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg"
+              "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7102,7 +7038,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -7142,8 +7078,8 @@
               "tmdb_id": 1228710,
               "title": "The Mandalorian and Grogu",
               "release_date": "2026-05-27",
-              "poster_path": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
-              "backdrop_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg"
+              "poster_path": "/fsSMj6TJ6qtMnpg6UIw8TzUeEyE.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7255,8 +7191,8 @@
               "tmdb_id": 1752154,
               "title": "9/11: United We Stand -- 25 Years Later",
               "release_date": "2026-09-01",
-              "poster_path": "/3BGYcEQnVjVzImecgXcm1xtzdEV.jpg",
-              "backdrop_path": "/4fCWRcsKjEB2AXKaIBBomBQPQ5x.jpg"
+              "poster_path": "/2D7gAc7lpMTVAckI55tK5rYjUGo.jpg",
+              "backdrop_path": "/xO49rCWgTAsxxO9RdKDTs2BSaxv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7311,7 +7247,7 @@
               "tmdb_id": 329987,
               "title": "9/11: Reunited",
               "release_date": "2026-08-21",
-              "poster_path": "/NDGWCueWbWq8FdGgnEzv9GXoR5.jpg",
+              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
               "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
             },
             {
@@ -7380,11 +7316,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1695225,
-              "title": "Travis Barker: Louder Than Fear",
-              "release_date": "2026-06-13",
-              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
-              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
+              "tmdb_id": 1227241,
+              "title": "Maa Inti Bangaram",
+              "release_date": "2026-06-18",
+              "poster_path": "/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+              "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7396,11 +7332,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1558796,
-              "title": "Never Change!",
-              "release_date": "2026-06-09",
-              "poster_path": "/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
-              "backdrop_path": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg"
+              "tmdb_id": 1695225,
+              "title": "Travis Barker: Louder Than Fear",
+              "release_date": "2026-06-13",
+              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
+              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
             },
             {
               "media_type": "tvshow",

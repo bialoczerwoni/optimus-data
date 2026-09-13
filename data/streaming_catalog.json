@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-12T13:36:42Z",
+  "generated_at": "2026-09-13T14:23:27Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,6 +16,22 @@
           "recently_added": [
             {
               "media_type": "movie",
+              "tmdb_id": 1753614,
+              "title": "Tribeca 25",
+              "release_date": "2026-09-11",
+              "poster_path": "/u2QerAAASBDxb4WwjfOglwdqtqO.jpg",
+              "backdrop_path": "/Ao3j6UGri7f82XKsyNqRZXaA8Ep.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+            },
+            {
+              "media_type": "movie",
               "tmdb_id": 1558568,
               "title": "Go Team!",
               "release_date": "2026-09-11",
@@ -24,11 +40,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -40,11 +56,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313172,
-              "title": "Chumbak",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
               "release_date": "2026-09-10",
-              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -56,11 +72,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -72,11 +88,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -88,11 +104,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -104,11 +120,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -120,11 +136,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -136,11 +152,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -152,27 +168,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1749166,
-              "title": "Jared Freid: The Family Plan",
-              "release_date": "2026-09-01",
-              "poster_path": "/pbkEx1zKRsffOhg3Gfqv7cGkVgJ.jpg",
-              "backdrop_path": "/2f09TFiCXdf6IRnzVVmhyAP7BdF.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -190,11 +190,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -206,11 +206,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313172,
-              "title": "Chumbak",
-              "release_date": "2026-09-10",
-              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
               "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -356,11 +356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -372,11 +372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -388,11 +388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -404,11 +404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -420,11 +420,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -436,11 +436,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -452,11 +452,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -468,11 +468,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -484,11 +484,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -500,11 +500,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -522,11 +522,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -538,11 +538,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -688,11 +688,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -704,11 +704,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -720,11 +720,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -736,11 +736,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -844,6 +844,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1558568,
+              "title": "Go Team!",
+              "release_date": "2026-09-11",
+              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1522689,
@@ -854,11 +870,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
+              "tmdb_id": 313172,
+              "title": "Chumbak",
               "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -887,18 +903,18 @@
             {
               "media_type": "tvshow",
               "tmdb_id": 314478,
-              "title": "DANG!",
+              "title": "Dang!",
               "release_date": "2026-09-08",
               "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
               "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
+              "tmdb_id": 1408162,
+              "title": "Vishwanath & Sons",
               "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+              "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg"
             },
             {
               "media_type": "tvshow",
@@ -910,11 +926,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -926,11 +942,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1489543,
-              "title": "G.D.N",
-              "release_date": "2026-08-07",
-              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -942,11 +958,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1423253,
-              "title": "Korean Kanakaraju",
+              "tmdb_id": 1489543,
+              "title": "G.D.N",
               "release_date": "2026-08-07",
-              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
+              "poster_path": "/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+              "backdrop_path": "/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -958,11 +974,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
+              "tmdb_id": 1423253,
+              "title": "Korean Kanakaraju",
               "release_date": "2026-08-07",
-              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "poster_path": "/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+              "backdrop_path": "/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -974,11 +990,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1740877,
-              "title": "Storm on Sesame Street",
-              "release_date": "2026-08-03",
-              "poster_path": "/okvOQKSkMKmGt9LRV4eJ7ejikQv.jpg",
-              "backdrop_path": "/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg"
+              "tmdb_id": 1284041,
+              "title": "The Last House",
+              "release_date": "2026-08-07",
+              "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
             },
             {
               "media_type": "tvshow",
@@ -987,22 +1003,6 @@
               "release_date": "2026-08-29",
               "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
               "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1620682,
-              "title": "Love in Slow Motion",
-              "release_date": "2026-07-23",
-              "poster_path": "/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-              "backdrop_path": "/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             }
           ]
         },
@@ -1020,11 +1020,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -1036,11 +1036,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -1052,11 +1052,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1068,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1132,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1148,11 +1148,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1164,11 +1164,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -1186,11 +1186,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -1202,11 +1202,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -1218,11 +1218,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -1234,11 +1234,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -1250,11 +1250,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -1266,11 +1266,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -1282,11 +1282,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1298,11 +1298,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1314,11 +1314,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1330,11 +1330,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -1352,11 +1352,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -1368,11 +1368,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -1384,11 +1384,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -1400,11 +1400,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -1416,11 +1416,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -1432,11 +1432,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -1448,11 +1448,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -1464,11 +1464,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -1480,11 +1480,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -1496,11 +1496,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -1518,11 +1518,193 @@
             },
             {
               "media_type": "tvshow",
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1760262,
+              "title": "Instadocs: The Decoy Plane",
+              "release_date": "2026-09-05",
+              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1762763,
+              "title": "Famous Last Words: Gloria Steinem",
+              "release_date": "2026-09-04",
+              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
+              "backdrop_path": ""
+            },
+            {
+              "media_type": "tvshow",
               "tmdb_id": 325755,
               "title": "The Perfect Lie",
               "release_date": "2026-09-10",
               "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
               "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1744876,
+              "title": "Fito P\u00e1ez: The World Within a Song",
+              "release_date": "2026-09-04",
+              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1355228,
+              "title": "Gandhari",
+              "release_date": "2026-09-04",
+              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-02",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1739202,
+              "title": "Untold Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1365884,
+              "title": "Call My Agent! The Movie",
+              "release_date": "2026-09-10",
+              "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+              "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
+              "release_date": "2026-08-28",
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+            }
+          ]
+        },
+        "NL": {
+          "top_movies": [],
+          "top_shows": [],
+          "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1558568,
+              "title": "Go Team!",
+              "release_date": "2026-09-11",
+              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -1551,7 +1733,7 @@
             {
               "media_type": "tvshow",
               "tmdb_id": 314478,
-              "title": "DANG!",
+              "title": "Dang!",
               "release_date": "2026-09-08",
               "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
               "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
@@ -1587,172 +1769,6 @@
               "release_date": "2026-09-05",
               "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
               "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1752159,
-              "title": "Turning Point: Generation 9/11",
-              "release_date": "2026-09-02",
-              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold Raygun: Breaking Badly",
-              "release_date": "2026-09-02",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1365884,
-              "title": "Call My Agent! The Movie",
-              "release_date": "2026-09-10",
-              "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-              "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
-            }
-          ]
-        },
-        "NL": {
-          "top_movies": [],
-          "top_shows": [],
-          "recently_added": [
-            {
-              "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1760262,
-              "title": "Instadocs: The Decoy Plane",
-              "release_date": "2026-09-05",
-              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1744876,
-              "title": "Fito P\u00e1ez: The World Within a Song",
-              "release_date": "2026-09-04",
-              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
-              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1355228,
-              "title": "Gandhari",
-              "release_date": "2026-09-04",
-              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,140 +1780,6 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold Raygun: Breaking Badly",
-              "release_date": "2026-09-02",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            }
-          ]
-        },
-        "SE": {
-          "top_movies": [],
-          "top_shows": [],
-          "recently_added": [
-            {
-              "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1760262,
-              "title": "Instadocs: The Decoy Plane",
-              "release_date": "2026-09-05",
-              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1744876,
-              "title": "Fito P\u00e1ez: The World Within a Song",
-              "release_date": "2026-09-04",
-              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
-              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
-            },
-            {
-              "media_type": "tvshow",
               "tmdb_id": 330371,
               "title": "Earle Meets World",
               "release_date": "2026-09-04",
@@ -1906,11 +1788,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1355228,
-              "title": "Gandhari",
-              "release_date": "2026-09-04",
-              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1922,38 +1804,6 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1752159,
-              "title": "Turning Point: Generation 9/11",
-              "release_date": "2026-09-04",
-              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold Raygun: Breaking Badly",
-              "release_date": "2026-09-02",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
-            },
-            {
-              "media_type": "movie",
               "tmdb_id": 860508,
               "title": "The Whisper Man",
               "release_date": "2026-08-28",
@@ -1962,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 333364,
+              "title": "Jodoh Wasiat Bapak Reborn",
+              "release_date": "2026-08-31",
+              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
+              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,27 +1828,177 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
-            },
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+            }
+          ]
+        },
+        "SE": {
+          "top_movies": [],
+          "top_shows": [],
+          "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1558568,
+              "title": "Go Team!",
+              "release_date": "2026-09-11",
+              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1760262,
+              "title": "Instadocs: The Decoy Plane",
+              "release_date": "2026-09-05",
+              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1762763,
+              "title": "Famous Last Words: Gloria Steinem",
+              "release_date": "2026-09-04",
+              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
+              "backdrop_path": ""
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1744876,
+              "title": "Fito P\u00e1ez: The World Within a Song",
+              "release_date": "2026-09-04",
+              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1355228,
+              "title": "Gandhari",
+              "release_date": "2026-09-04",
+              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-04",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1739202,
+              "title": "Untold Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+              "backdrop_path": "/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -2016,11 +2016,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2032,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,11 +2096,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2112,11 +2112,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2128,11 +2128,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2144,11 +2144,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2160,11 +2160,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             }
           ]
         },
@@ -2182,11 +2182,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2198,11 +2198,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2278,11 +2278,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2294,11 +2294,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2310,11 +2310,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 333364,
+              "title": "Jodoh Wasiat Bapak Reborn",
+              "release_date": "2026-08-31",
+              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
+              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
             },
             {
               "media_type": "movie",
@@ -2326,11 +2326,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             }
           ]
         },
@@ -2348,11 +2348,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2364,11 +2364,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2380,11 +2380,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2396,11 +2396,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2412,11 +2412,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2428,11 +2428,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2444,11 +2444,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2460,11 +2460,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2476,11 +2476,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331796,
-              "title": "Mom Knows Best?",
-              "release_date": "2026-08-26",
-              "poster_path": "/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
-              "backdrop_path": "/NlcTfpNZbjTE1mHWwsw6f6GIa.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             },
             {
               "media_type": "movie",
@@ -2492,11 +2492,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331616,
-              "title": "Death of the Pastor's Wife",
-              "release_date": "2026-08-26",
-              "poster_path": "/o8H6HmQNt2qx5bIfmvuI6VJn13A.jpg",
-              "backdrop_path": "/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg"
+              "tmdb_id": 292558,
+              "title": "All the Truth in My Lies",
+              "release_date": "2026-08-28",
+              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
             }
           ]
         },
@@ -2514,11 +2514,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -2530,11 +2530,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313172,
-              "title": "Chumbak",
-              "release_date": "2026-09-10",
-              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -2546,11 +2546,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
               "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2562,11 +2562,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2578,11 +2578,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2594,11 +2594,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2610,11 +2610,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2626,11 +2626,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2642,11 +2642,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2658,11 +2658,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -2680,11 +2680,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -2696,11 +2696,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -2712,11 +2712,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2728,11 +2728,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,11 +2776,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2792,11 +2792,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         },
@@ -2846,11 +2846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313172,
-              "title": "Chumbak",
-              "release_date": "2026-09-10",
-              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -2878,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
               "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -2990,11 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             }
           ]
         },
@@ -3012,11 +3012,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -3028,11 +3028,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313172,
-              "title": "Chumbak",
-              "release_date": "2026-09-10",
-              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
-              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -3044,11 +3044,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
               "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290193,
-              "title": "Mousetrap",
-              "release_date": "2026-08-28",
-              "poster_path": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-              "backdrop_path": "/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg"
+              "tmdb_id": 305644,
+              "title": "Four Hands, Two Sonatas",
+              "release_date": "2026-08-29",
+              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
             }
           ]
         },
@@ -3178,11 +3178,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325755,
-              "title": "The Perfect Lie",
-              "release_date": "2026-09-10",
-              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
-              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
+              "release_date": "2026-09-11",
+              "poster_path": "/3rnQOZr6yoVWYdy5BiSO4xItYi4.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             },
             {
               "media_type": "movie",
@@ -3194,11 +3194,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300507,
-              "title": "Crew Girl",
-              "release_date": "2026-09-10",
-              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
+              "tmdb_id": 324111,
+              "title": "Physical 100: Italy",
+              "release_date": "2026-09-11",
+              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
             },
             {
               "media_type": "movie",
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314478,
-              "title": "DANG!",
-              "release_date": "2026-09-08",
-              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
+              "tmdb_id": 325755,
+              "title": "The Perfect Lie",
+              "release_date": "2026-09-10",
+              "poster_path": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+              "backdrop_path": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333413,
-              "title": "KL2",
-              "release_date": "2026-09-05",
-              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
-              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
+              "tmdb_id": 313172,
+              "title": "Chumbak",
+              "release_date": "2026-09-10",
+              "poster_path": "/r2TJ9s9uhfxTssar1gBAWcxIXx7.jpg",
+              "backdrop_path": "/2N1kH7314XUfMw80iLZh1d2UoHY.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333408,
-              "title": "The Kevin Langue Show",
-              "release_date": "2026-09-05",
-              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
-              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
+              "tmdb_id": 300507,
+              "title": "Crew Girl",
+              "release_date": "2026-09-10",
+              "poster_path": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+              "backdrop_path": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330371,
-              "title": "Earle Meets World",
-              "release_date": "2026-09-04",
-              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
-              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
+              "tmdb_id": 314478,
+              "title": "Dang!",
+              "release_date": "2026-09-08",
+              "poster_path": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+              "backdrop_path": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290234,
-              "title": "Lovesick",
-              "release_date": "2026-09-02",
-              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
+              "tmdb_id": 333413,
+              "title": "KL2",
+              "release_date": "2026-09-05",
+              "poster_path": "/7V5Y8wpk0mA3PnMNoDuokD3ke8B.jpg",
+              "backdrop_path": "/6bX4HiAdkFdg9D7c0mAL3NMS7tO.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333364,
-              "title": "Jodoh Wasiat Bapak Reborn",
-              "release_date": "2026-08-31",
-              "poster_path": "/4tGACULA5WdjOj9qKVMhjxQpd2l.jpg",
-              "backdrop_path": "/66iVr3DGZs0vPivDGICiFC3XhVv.jpg"
+              "tmdb_id": 333408,
+              "title": "The Kevin Langue Show",
+              "release_date": "2026-09-05",
+              "poster_path": "/6CCQfFSnboP9ZqIugqtbYL4VQ7t.jpg",
+              "backdrop_path": "/v1PyRxJF5URp0FPIzqHWpAX0lMH.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305644,
-              "title": "Four Hands, Two Sonatas",
-              "release_date": "2026-08-29",
-              "poster_path": "/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-              "backdrop_path": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg"
+              "tmdb_id": 330371,
+              "title": "Earle Meets World",
+              "release_date": "2026-09-04",
+              "poster_path": "/wbU6JeOVw30CRXNFwu8AuCdhXW0.jpg",
+              "backdrop_path": "/hh7gTtE7QRAoNFma84N8dHNN3UB.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 292558,
-              "title": "All the Truth in My Lies",
-              "release_date": "2026-08-28",
-              "poster_path": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
-              "backdrop_path": "/h3QvZs2bqRmN2hfVd1FZ9XrCZDm.jpg"
+              "tmdb_id": 290234,
+              "title": "Lovesick",
+              "release_date": "2026-09-02",
+              "poster_path": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+              "backdrop_path": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg"
             }
           ]
         }
@@ -3521,11 +3521,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319722,
-              "title": "Honor Thy Mother",
-              "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
-              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
+              "tmdb_id": 314939,
+              "title": "A Love Other Than Yours",
+              "release_date": "2026-09-12",
+              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
             },
             {
               "media_type": "movie",
@@ -3537,11 +3537,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 249863,
-              "title": "The Revolutionaries",
+              "tmdb_id": 323980,
+              "title": "Operation Deception",
               "release_date": "2026-09-11",
-              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
-              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
+              "poster_path": "/b0Uz1KyKvsqBxFVdJ7HNPAquyXX.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3553,11 +3553,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331586,
-              "title": "LOL Next",
-              "release_date": "2026-09-10",
-              "poster_path": "/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
-              "backdrop_path": "/2c1GSv458OlOK6mMh0oecKMoQVl.jpg"
+              "tmdb_id": 319722,
+              "title": "Honor Thy Mother",
+              "release_date": "2026-09-11",
+              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
               "media_type": "movie",
@@ -3569,11 +3569,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329471,
-              "title": "The Grand Tour",
-              "release_date": "2026-09-04",
-              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
-              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
+              "tmdb_id": 249863,
+              "title": "The Revolutionaries",
+              "release_date": "2026-09-11",
+              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
             },
             {
               "media_type": "movie",
@@ -3585,27 +3585,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316970,
-              "title": "Jagamae Sangeetham",
-              "release_date": "2026-09-04",
-              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
+              "tmdb_id": 331586,
+              "title": "LOL Next",
+              "release_date": "2026-09-10",
+              "poster_path": "/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
+              "backdrop_path": "/2c1GSv458OlOK6mMh0oecKMoQVl.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1756543,
               "title": "Paranormal Hollywood Haunting",
               "release_date": "2026-08-04",
-              "poster_path": "/1EsLqcBBe03FrfTkZKtEE7vOlpw.jpg",
+              "poster_path": "/p6RzyednYXaEhbNsQFVmk1ziV4q.jpg",
               "backdrop_path": "/jUwaAscUDiJNyIIgopLRdQMCRVt.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331946,
-              "title": "A Beautiful Obsession",
-              "release_date": "2026-08-19",
-              "poster_path": "/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
-              "backdrop_path": "/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg"
+              "tmdb_id": 329471,
+              "title": "The Grand Tour",
+              "release_date": "2026-09-04",
+              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
             },
             {
               "media_type": "movie",
@@ -3617,11 +3617,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331701,
-              "title": "An Amputation Obsession: The Monster and the Surgeon",
-              "release_date": "2026-08-13",
-              "poster_path": "/sZglcGtxumCBtjU1JPxGtytQf9Y.jpg",
-              "backdrop_path": "/A01rLIWQJbRDrQXqTXOFxYRFpwS.jpg"
+              "tmdb_id": 316970,
+              "title": "Jagamae Sangeetham",
+              "release_date": "2026-09-04",
+              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
+              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
             },
             {
               "media_type": "movie",
@@ -3633,11 +3633,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 294141,
-              "title": "The Chosen in the Wild with Bear Grylls",
-              "release_date": "2026-08-09",
-              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
-              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
+              "tmdb_id": 331946,
+              "title": "A Beautiful Obsession",
+              "release_date": "2026-08-19",
+              "poster_path": "/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+              "backdrop_path": "/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg"
             },
             {
               "media_type": "movie",
@@ -3649,11 +3649,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 283297,
-              "title": "Sterling Point",
-              "release_date": "2026-08-05",
-              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
+              "tmdb_id": 331701,
+              "title": "An Amputation Obsession: The Monster and the Surgeon",
+              "release_date": "2026-08-13",
+              "poster_path": "/sZglcGtxumCBtjU1JPxGtytQf9Y.jpg",
+              "backdrop_path": "/A01rLIWQJbRDrQXqTXOFxYRFpwS.jpg"
             },
             {
               "media_type": "movie",
@@ -3665,11 +3665,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330120,
-              "title": "Bayrak Ta\u015f\u0131yanlar",
-              "release_date": "2026-07-29",
-              "poster_path": "/q80dddsNfrpBm45lfN1LSrZtwKx.jpg",
-              "backdrop_path": "/nmLrddaPWJlGEySOb7FjYQsJRLC.jpg"
+              "tmdb_id": 294141,
+              "title": "The Chosen in the Wild with Bear Grylls",
+              "release_date": "2026-08-09",
+              "poster_path": "/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
+              "backdrop_path": "/tabVLK28I4xM6F8I2xUJERUVvQC.jpg"
             }
           ]
         },
@@ -3702,11 +3702,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319722,
-              "title": "Honor Thy Mother",
-              "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
-              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
+              "tmdb_id": 314939,
+              "title": "A Love Other Than Yours",
+              "release_date": "2026-09-12",
+              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
             },
             {
               "media_type": "movie",
@@ -3718,11 +3718,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 249863,
-              "title": "The Revolutionaries",
+              "tmdb_id": 323980,
+              "title": "Operation Deception",
               "release_date": "2026-09-11",
-              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
-              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
+              "poster_path": "/b0Uz1KyKvsqBxFVdJ7HNPAquyXX.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3734,11 +3734,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331586,
-              "title": "LOL Next",
-              "release_date": "2026-09-10",
-              "poster_path": "/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
-              "backdrop_path": "/2c1GSv458OlOK6mMh0oecKMoQVl.jpg"
+              "tmdb_id": 319722,
+              "title": "Honor Thy Mother",
+              "release_date": "2026-09-11",
+              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
               "media_type": "movie",
@@ -3750,11 +3750,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329471,
-              "title": "The Grand Tour",
-              "release_date": "2026-09-04",
-              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
-              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
+              "tmdb_id": 249863,
+              "title": "The Revolutionaries",
+              "release_date": "2026-09-11",
+              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
             },
             {
               "media_type": "movie",
@@ -3766,11 +3766,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316970,
-              "title": "Jagamae Sangeetham",
-              "release_date": "2026-09-04",
-              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
+              "tmdb_id": 331586,
+              "title": "LOL Next",
+              "release_date": "2026-09-10",
+              "poster_path": "/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
+              "backdrop_path": "/2c1GSv458OlOK6mMh0oecKMoQVl.jpg"
             },
             {
               "media_type": "movie",
@@ -3782,11 +3782,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 283297,
-              "title": "Sterling Point",
-              "release_date": "2026-08-05",
-              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
+              "tmdb_id": 329471,
+              "title": "The Grand Tour",
+              "release_date": "2026-09-04",
+              "poster_path": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+              "backdrop_path": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg"
             },
             {
               "media_type": "movie",
@@ -3798,11 +3798,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330120,
-              "title": "Bayrak Ta\u015f\u0131yanlar",
-              "release_date": "2026-07-29",
-              "poster_path": "/q80dddsNfrpBm45lfN1LSrZtwKx.jpg",
-              "backdrop_path": "/nmLrddaPWJlGEySOb7FjYQsJRLC.jpg"
+              "tmdb_id": 316970,
+              "title": "Jagamae Sangeetham",
+              "release_date": "2026-09-04",
+              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
+              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
             },
             {
               "media_type": "movie",
@@ -3814,11 +3814,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328402,
-              "title": "Adarsh Baal Vidyalaya",
-              "release_date": "2026-07-24",
-              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
-              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
+              "tmdb_id": 283297,
+              "title": "Sterling Point",
+              "release_date": "2026-08-05",
+              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -3830,11 +3830,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 323976,
-              "title": "Young Farts Trailer Parts",
-              "release_date": "2026-07-17",
-              "poster_path": "/nd9XjTwKJ1JuPqf7ZsGsbUZptiN.jpg",
-              "backdrop_path": "/sk7A4RtNa33rVQ96YjdGDShbpv5.jpg"
+              "tmdb_id": 330120,
+              "title": "Bayrak Ta\u015f\u0131yanlar",
+              "release_date": "2026-07-29",
+              "poster_path": "/q80dddsNfrpBm45lfN1LSrZtwKx.jpg",
+              "backdrop_path": "/nmLrddaPWJlGEySOb7FjYQsJRLC.jpg"
             },
             {
               "media_type": "movie",
@@ -3846,11 +3846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 241882,
-              "title": "Ride or Die",
-              "release_date": "2026-07-15",
-              "poster_path": "/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
-              "backdrop_path": "/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg"
+              "tmdb_id": 328402,
+              "title": "Adarsh Baal Vidyalaya",
+              "release_date": "2026-07-24",
+              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
+              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
             }
           ]
         },
@@ -3918,11 +3918,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319722,
-              "title": "Honor Thy Mother",
-              "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
-              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
+              "tmdb_id": 314939,
+              "title": "A Love Other Than Yours",
+              "release_date": "2026-09-12",
+              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
             },
             {
               "media_type": "movie",
@@ -3934,11 +3934,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 249863,
-              "title": "The Revolutionaries",
+              "tmdb_id": 319722,
+              "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
-              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
+              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
               "media_type": "movie",
@@ -3950,11 +3950,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318445,
-              "title": "Kamen Rider MY-TH",
-              "release_date": "2026-09-06",
-              "poster_path": "/o02qO3qXGdS024ltkFZhh8Lpk6R.jpg",
-              "backdrop_path": "/k1EZdHo4OmHymK69vmN1SVNIKcA.jpg"
+              "tmdb_id": 249863,
+              "title": "The Revolutionaries",
+              "release_date": "2026-09-11",
+              "poster_path": "/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
             },
             {
               "media_type": "movie",
@@ -3966,11 +3966,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316970,
-              "title": "Jagamae Sangeetham",
-              "release_date": "2026-09-04",
-              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
+              "tmdb_id": 318445,
+              "title": "Kamen Rider MY-TH",
+              "release_date": "2026-09-06",
+              "poster_path": "/rP5msGG1CTXsbqDhKt9pxF0V7qV.jpg",
+              "backdrop_path": "/k1EZdHo4OmHymK69vmN1SVNIKcA.jpg"
             },
             {
               "media_type": "movie",
@@ -3982,11 +3982,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 283297,
-              "title": "Sterling Point",
-              "release_date": "2026-08-05",
-              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
+              "tmdb_id": 316970,
+              "title": "Jagamae Sangeetham",
+              "release_date": "2026-09-04",
+              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
+              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
             },
             {
               "media_type": "movie",
@@ -3998,11 +3998,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326831,
-              "title": "Warota!",
-              "release_date": "2026-07-29",
-              "poster_path": "/daPOsKLwDmLddnktyWnjht5rKKZ.jpg",
-              "backdrop_path": "/f8xbe7uo3c3Z17Sj7h2iInzfReW.jpg"
+              "tmdb_id": 283297,
+              "title": "Sterling Point",
+              "release_date": "2026-08-05",
+              "poster_path": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+              "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg"
             },
             {
               "media_type": "movie",
@@ -4014,11 +4014,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328402,
-              "title": "Adarsh Baal Vidyalaya",
-              "release_date": "2026-07-24",
-              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
-              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
+              "tmdb_id": 326831,
+              "title": "Warota!",
+              "release_date": "2026-07-29",
+              "poster_path": "/daPOsKLwDmLddnktyWnjht5rKKZ.jpg",
+              "backdrop_path": "/f8xbe7uo3c3Z17Sj7h2iInzfReW.jpg"
             },
             {
               "media_type": "movie",
@@ -4030,11 +4030,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326139,
-              "title": "Legal Beat",
+              "tmdb_id": 328402,
+              "title": "Adarsh Baal Vidyalaya",
               "release_date": "2026-07-24",
-              "poster_path": "/zrMJPMYsWG15ttAJs6kxLzDpG03.jpg",
-              "backdrop_path": "/g0Gzt5BGkngleSvqWDVrUYBHvbD.jpg"
+              "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
+              "backdrop_path": "/KuURjmH4i9RXOp5ANocM4AiJy9.jpg"
             },
             {
               "media_type": "movie",
@@ -4046,11 +4046,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 322571,
-              "title": "The Criminal",
-              "release_date": "2026-07-17",
-              "poster_path": "/hgAzI2A11YDTrsC7FkorYA0t8R2.jpg",
-              "backdrop_path": "/dTHFG1EOnZNv7EqwcuAUCJ5LoNG.jpg"
+              "tmdb_id": 326139,
+              "title": "Legal Beat",
+              "release_date": "2026-07-24",
+              "poster_path": "/zrMJPMYsWG15ttAJs6kxLzDpG03.jpg",
+              "backdrop_path": "/g0Gzt5BGkngleSvqWDVrUYBHvbD.jpg"
             },
             {
               "media_type": "movie",
@@ -4062,11 +4062,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 317790,
-              "title": "\u5fc3\u914d\u7121\u7528\u30ce\u4ecb \u5929\u4e0b\u5fa1\u514d",
-              "release_date": "2026-07-16",
-              "poster_path": "/zYIy86czuiwE5rSWlSLsOWHGiZ7.jpg",
-              "backdrop_path": "/A87MzHcawqn0flb15xSRKDcwOQn.jpg"
+              "tmdb_id": 322571,
+              "title": "The Criminal",
+              "release_date": "2026-07-17",
+              "poster_path": "/hgAzI2A11YDTrsC7FkorYA0t8R2.jpg",
+              "backdrop_path": "/dTHFG1EOnZNv7EqwcuAUCJ5LoNG.jpg"
             }
           ]
         },
@@ -7448,7 +7448,7 @@
               "tmdb_id": 1368314,
               "title": "Passenger",
               "release_date": "2026-05-22",
-              "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+              "poster_path": "/svrAzMTif4OmIjGJzC0W92d5O1o.jpg",
               "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
             },
             {
@@ -7611,11 +7611,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1444249,
-              "title": "The Highest Stakes",
-              "release_date": "2026-05-12",
-              "poster_path": "/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
-              "backdrop_path": "/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg"
+              "tmdb_id": 1409853,
+              "title": "Neglected",
+              "release_date": "2026-05-11",
+              "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+              "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7627,11 +7627,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1440049,
-              "title": "Preschool",
-              "release_date": "2026-04-06",
-              "poster_path": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-              "backdrop_path": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg"
+              "tmdb_id": 1444249,
+              "title": "The Highest Stakes",
+              "release_date": "2026-05-12",
+              "poster_path": "/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+              "backdrop_path": "/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7643,11 +7643,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327690,
-              "title": "One Mile: Chapter Two",
-              "release_date": "2026-03-09",
-              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
+              "tmdb_id": 1440049,
+              "title": "Preschool",
+              "release_date": "2026-04-06",
+              "poster_path": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+              "backdrop_path": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7659,11 +7659,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159559,
-              "title": "Scream 7",
-              "release_date": "2026-02-27",
-              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
+              "tmdb_id": 1327690,
+              "title": "One Mile: Chapter Two",
+              "release_date": "2026-03-09",
+              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7675,11 +7675,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327688,
-              "title": "One Mile: Chapter One",
-              "release_date": "2026-03-09",
-              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-27",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7691,11 +7691,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1373198,
-              "title": "Twisted",
-              "release_date": "2026-03-16",
-              "poster_path": "/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
-              "backdrop_path": "/b13AuahXeffKtRYij0QYb9pBuEy.jpg"
+              "tmdb_id": 1327688,
+              "title": "One Mile: Chapter One",
+              "release_date": "2026-03-09",
+              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9081,11 +9081,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 325374,
-              "title": "Kings of Coke: New Blood",
-              "release_date": "2026-06-11",
-              "poster_path": "/sM1zI95u2DAOZPJhMjYMNiJSipa.jpg",
-              "backdrop_path": "/6tBSJtgNnBP87rElJTFYrvRJ7KM.jpg"
+              "tmdb_id": 325740,
+              "title": "Apr\u00e8s OD Chypre",
+              "release_date": "2026-06-16",
+              "poster_path": "/2k0c8RXqyIQ5Wc06BgrnukseF2y.jpg",
+              "backdrop_path": "/vySOlT81JvHrpu5bUkEkbL8RF3X.jpg"
             }
           ]
         }

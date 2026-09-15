@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-14T16:21:55Z",
+  "generated_at": "2026-09-15T15:00:52Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -642,11 +642,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1750165,
-              "title": "NXT Heatwave 2026",
-              "release_date": "2026-08-31",
-              "poster_path": "/rcBcZpRISLKqBstSrMI3b5zoSA0.jpg",
-              "backdrop_path": "/aLPhYm7EtUwLSefcCvZ0FS6CL2u.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -658,11 +658,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+              "tmdb_id": 1740313,
+              "title": "Stamptown",
+              "release_date": "2026-08-25",
+              "poster_path": "/dGQUiIOa93d6U6tQAaXKoITUoEY.jpg",
+              "backdrop_path": "/13A0rWXcWuTR3cTY9dKT6tICxzM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -913,7 +913,7 @@
               "tmdb_id": 1408162,
               "title": "Vishwanath & Sons",
               "release_date": "2026-08-14",
-              "poster_path": "/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
+              "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
               "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg"
             },
             {
@@ -1178,11 +1178,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+              "tmdb_id": 1739206,
+              "title": "Untold Mr. T: I Pity the Fool",
+              "release_date": "2026-09-08",
+              "poster_path": "/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+              "backdrop_path": "/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1194,11 +1194,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1760262,
-              "title": "Instadocs: The Decoy Plane",
-              "release_date": "2026-09-05",
-              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1210,11 +1210,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1760262,
+              "title": "Instadocs: The Decoy Plane",
+              "release_date": "2026-09-05",
+              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1226,11 +1226,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1744876,
-              "title": "Fito P\u00e1ez: The World Within a Song",
+              "tmdb_id": 1762763,
+              "title": "Famous Last Words: Gloria Steinem",
               "release_date": "2026-09-04",
-              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
-              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
+              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -1242,11 +1242,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1355228,
-              "title": "Gandhari",
+              "tmdb_id": 1744876,
+              "title": "Fito P\u00e1ez: The World Within a Song",
               "release_date": "2026-09-04",
-              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
+              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1258,11 +1258,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1752159,
-              "title": "Turning Point: Generation 9/11",
-              "release_date": "2026-09-03",
-              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+              "tmdb_id": 1355228,
+              "title": "Gandhari",
+              "release_date": "2026-09-04",
+              "poster_path": "/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1274,11 +1274,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold Raygun: Breaking Badly",
-              "release_date": "2026-09-02",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1290,11 +1290,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1365884,
-              "title": "Call My Agent! The Movie",
-              "release_date": "2026-08-29",
-              "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-              "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1306,11 +1306,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1365884,
+              "title": "Call My Agent! The Movie",
+              "release_date": "2026-08-29",
+              "poster_path": "/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+              "backdrop_path": "/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1322,11 +1322,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
               "release_date": "2026-08-28",
-              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3385,7 +3385,7 @@
               "tmdb_id": 319722,
               "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
               "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
@@ -3401,7 +3401,7 @@
               "tmdb_id": 260249,
               "title": "The Trial",
               "release_date": "2026-09-11",
-              "poster_path": "/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+              "poster_path": "/3k5HpocqX4grgmqCecT2OdYMyT0.jpg",
               "backdrop_path": "/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg"
             },
             {
@@ -3422,11 +3422,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1747096,
-              "title": "Pickleballers",
+              "tmdb_id": 1760239,
+              "title": "Peter and the Goblin Arrow",
               "release_date": "2026-08-25",
-              "poster_path": "/hMnh98leXyB1hzmeMlB0DUmsOJF.jpg",
-              "backdrop_path": ""
+              "poster_path": "/hxuHGgVaz8VDutVo1S04Zdz09k9.jpg",
+              "backdrop_path": "/7aA25sXXhehgifbWHv4SiFuZDYd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3438,11 +3438,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1626188,
-              "title": "Novak Djokovic: The Wolf in Winter",
-              "release_date": "2026-08-20",
-              "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
-              "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg"
+              "tmdb_id": 1747096,
+              "title": "Pickleballers",
+              "release_date": "2026-08-25",
+              "poster_path": "/hMnh98leXyB1hzmeMlB0DUmsOJF.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -3454,11 +3454,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1676318,
-              "title": "Back to the 90s",
-              "release_date": "2026-08-21",
-              "poster_path": "/tCOvMa7bXHiRlOuhQvUOeSF0kPn.jpg",
-              "backdrop_path": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg"
+              "tmdb_id": 1626188,
+              "title": "Novak Djokovic: The Wolf in Winter",
+              "release_date": "2026-08-20",
+              "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+              "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3470,11 +3470,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1481343,
-              "title": "The Devil's Mouth",
-              "release_date": "2026-07-29",
-              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-              "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg"
+              "tmdb_id": 1676318,
+              "title": "Back to the 90s",
+              "release_date": "2026-08-21",
+              "poster_path": "/tCOvMa7bXHiRlOuhQvUOeSF0kPn.jpg",
+              "backdrop_path": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3486,11 +3486,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1739317,
-              "title": "Echoes of Tomorrow",
-              "release_date": "2026-07-23",
-              "poster_path": "/6C51NiPI1RDSGHsonyz8a4VR4zC.jpg",
-              "backdrop_path": "/vmzqOZy19n06O2x6XCD5dlaoYR2.jpg"
+              "tmdb_id": 1481343,
+              "title": "The Devil's Mouth",
+              "release_date": "2026-07-29",
+              "poster_path": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+              "backdrop_path": "/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3556,7 +3556,7 @@
               "tmdb_id": 319722,
               "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
               "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
@@ -3737,7 +3737,7 @@
               "tmdb_id": 319722,
               "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
               "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
@@ -3937,7 +3937,7 @@
               "tmdb_id": 319722,
               "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/ooZM38SzqMCpXooCMk8m9ftL4n7.jpg",
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
               "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
@@ -7263,7 +7263,7 @@
               "tmdb_id": 304842,
               "title": "The Drop: A Snowfall Saga",
               "release_date": "2026-09-08",
-              "poster_path": "/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
+              "poster_path": "/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
               "backdrop_path": "/ycLQYTgWfBq53fIkws0qIQOp62g.jpg"
             },
             {
@@ -7380,11 +7380,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1227241,
-              "title": "Maa Inti Bangaram",
-              "release_date": "2026-06-18",
-              "poster_path": "/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
-              "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg"
+              "tmdb_id": 1695225,
+              "title": "Travis Barker: Louder Than Fear",
+              "release_date": "2026-06-13",
+              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
+              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7396,11 +7396,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1695225,
-              "title": "Travis Barker: Louder Than Fear",
-              "release_date": "2026-06-13",
-              "poster_path": "/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
-              "backdrop_path": "/7SL4tcgbCo0BRsjbFwWuh3g1J7j.jpg"
+              "tmdb_id": 1558796,
+              "title": "Never Change!",
+              "release_date": "2026-06-09",
+              "poster_path": "/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+              "backdrop_path": "/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7809,11 +7809,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327688,
-              "title": "One Mile: Chapter One",
-              "release_date": "2026-02-20",
-              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-26",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7825,11 +7825,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2026-07-11",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+              "tmdb_id": 1327688,
+              "title": "One Mile: Chapter One",
+              "release_date": "2026-02-20",
+              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7841,11 +7841,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
-              "release_date": "2026-01-22",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-07-11",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7857,11 +7857,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-26",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-22",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7873,11 +7873,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1581761,
-              "title": "The Kick That United A Nation",
-              "release_date": "2025-11-14",
-              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
-              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-26",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7889,11 +7889,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 1581761,
+              "title": "The Kick That United A Nation",
+              "release_date": "2025-11-14",
+              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
+              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7905,11 +7905,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1507275,
-              "title": "A Paw Patrol Christmas",
-              "release_date": "2025-10-30",
-              "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-              "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg"
+              "tmdb_id": 798645,
+              "title": "The Running Man",
+              "release_date": "2025-11-13",
+              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8941,7 +8941,7 @@
               "title": "Lanterns",
               "release_date": "2026-08-16",
               "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-              "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
+              "backdrop_path": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
             },
             {
               "media_type": "movie",

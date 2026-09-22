@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-21T16:28:14Z",
+  "generated_at": "2026-09-22T14:54:21Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -35,7 +35,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -351,7 +351,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -517,7 +517,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -849,16 +849,16 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
+              "tmdb_id": 312585,
+              "title": "The Crow Club",
               "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
+              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
             },
             {
               "media_type": "movie",
@@ -870,11 +870,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 275102,
+              "title": "The Scandal",
+              "release_date": "2026-09-18",
+              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
             },
             {
               "media_type": "movie",
@@ -886,11 +886,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312663,
-              "title": "The Fixers",
+              "tmdb_id": 320760,
+              "title": "Not a Stranger",
               "release_date": "2026-09-17",
-              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
+              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
+              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
             },
             {
               "media_type": "movie",
@@ -902,11 +902,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299939,
-              "title": "Monster: The Lizzie Borden Story",
+              "tmdb_id": 312663,
+              "title": "The Fixers",
               "release_date": "2026-09-17",
-              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
+              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
             },
             {
               "media_type": "movie",
@@ -918,11 +918,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298008,
-              "title": "Plastic Beauty",
+              "tmdb_id": 299939,
+              "title": "Monster: The Lizzie Borden Story",
               "release_date": "2026-09-17",
-              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
+              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
             },
             {
               "media_type": "movie",
@@ -934,11 +934,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332282,
-              "title": "Physical 100: Mexico",
-              "release_date": "2026-09-16",
-              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
-              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
+              "tmdb_id": 298008,
+              "title": "Plastic Beauty",
+              "release_date": "2026-09-17",
+              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
             },
             {
               "media_type": "movie",
@@ -950,11 +950,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295089,
-              "title": "The Doll",
+              "tmdb_id": 332282,
+              "title": "Physical 100: Mexico",
               "release_date": "2026-09-16",
-              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
-              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
+              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
+              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
             },
             {
               "media_type": "movie",
@@ -966,11 +966,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324931,
-              "title": "A Parasite's Heart",
-              "release_date": "2026-09-14",
-              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
-              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
+              "tmdb_id": 295089,
+              "title": "The Doll",
+              "release_date": "2026-09-16",
+              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
             },
             {
               "media_type": "movie",
@@ -982,11 +982,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332863,
-              "title": "Stolen Heartbeats",
-              "release_date": "2026-09-11",
-              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
-              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+              "tmdb_id": 324931,
+              "title": "A Parasite's Heart",
+              "release_date": "2026-09-14",
+              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
+              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
             },
             {
               "media_type": "movie",
@@ -998,11 +998,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324111,
-              "title": "Physical 100: Italy",
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
               "release_date": "2026-09-11",
-              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
-              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             }
           ]
         },
@@ -1015,7 +1015,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -1197,7 +1197,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -1344,11 +1344,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1558568,
-              "title": "Go Team!",
-              "release_date": "2026-09-11",
-              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
+              "tmdb_id": 1451944,
+              "title": "Lust Stories 3",
+              "release_date": "2026-09-18",
+              "poster_path": "/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
+              "backdrop_path": "/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1360,11 +1360,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+              "tmdb_id": 1558568,
+              "title": "Go Team!",
+              "release_date": "2026-09-11",
+              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1376,11 +1376,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1392,11 +1392,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1744876,
-              "title": "Fito P\u00e1ez: The World Within a Song",
+              "tmdb_id": 1762763,
+              "title": "Famous Last Words: Gloria Steinem",
               "release_date": "2026-09-04",
-              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
-              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
+              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -1408,11 +1408,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1355228,
-              "title": "Gandhari",
+              "tmdb_id": 1744876,
+              "title": "Fito P\u00e1ez: The World Within a Song",
               "release_date": "2026-09-04",
-              "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
+              "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+              "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1424,11 +1424,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1752159,
-              "title": "Turning Point: Generation 9/11",
-              "release_date": "2026-09-03",
-              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
+              "tmdb_id": 1355228,
+              "title": "Gandhari",
+              "release_date": "2026-09-04",
+              "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+              "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1440,11 +1440,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1739202,
-              "title": "Untold Raygun: Breaking Badly",
-              "release_date": "2026-09-02",
-              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
-              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
+              "tmdb_id": 1752159,
+              "title": "Turning Point: Generation 9/11",
+              "release_date": "2026-09-03",
+              "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+              "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1456,11 +1456,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1631807,
-              "title": "The Secret Woman",
-              "release_date": "2026-08-28",
-              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
+              "tmdb_id": 1739202,
+              "title": "Untold Raygun: Breaking Badly",
+              "release_date": "2026-09-02",
+              "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+              "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1472,11 +1472,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
+              "tmdb_id": 1631807,
+              "title": "The Secret Woman",
               "release_date": "2026-08-28",
-              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+              "poster_path": "/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+              "backdrop_path": "/ziOpmyZufqM7IusfThzBr1E9wqa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1488,11 +1488,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1589248,
-              "title": "My Best Friend, His Girlfriend and Me",
-              "release_date": "2026-08-14",
-              "poster_path": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-              "backdrop_path": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1684,11 +1684,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
+              "tmdb_id": 312585,
+              "title": "The Crow Club",
               "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
+              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
             },
             {
               "media_type": "movie",
@@ -1700,11 +1700,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 275102,
+              "title": "The Scandal",
+              "release_date": "2026-09-18",
+              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
             },
             {
               "media_type": "movie",
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312663,
-              "title": "The Fixers",
+              "tmdb_id": 320760,
+              "title": "Not a Stranger",
               "release_date": "2026-09-17",
-              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
+              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
+              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299939,
-              "title": "Monster: The Lizzie Borden Story",
+              "tmdb_id": 312663,
+              "title": "The Fixers",
               "release_date": "2026-09-17",
-              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
+              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298008,
-              "title": "Plastic Beauty",
+              "tmdb_id": 299939,
+              "title": "Monster: The Lizzie Borden Story",
               "release_date": "2026-09-17",
-              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
+              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332282,
-              "title": "Physical 100: Mexico",
-              "release_date": "2026-09-16",
-              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
-              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
+              "tmdb_id": 298008,
+              "title": "Plastic Beauty",
+              "release_date": "2026-09-17",
+              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295089,
-              "title": "The Doll",
+              "tmdb_id": 332282,
+              "title": "Physical 100: Mexico",
               "release_date": "2026-09-16",
-              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
-              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
+              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
+              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324931,
-              "title": "A Parasite's Heart",
-              "release_date": "2026-09-14",
-              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
-              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
+              "tmdb_id": 295089,
+              "title": "The Doll",
+              "release_date": "2026-09-16",
+              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332863,
-              "title": "Stolen Heartbeats",
-              "release_date": "2026-09-11",
-              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
-              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+              "tmdb_id": 324931,
+              "title": "A Parasite's Heart",
+              "release_date": "2026-09-14",
+              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
+              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324111,
-              "title": "Physical 100: Italy",
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
               "release_date": "2026-09-11",
-              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
-              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             }
           ]
         },
@@ -2509,7 +2509,7 @@
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
@@ -2846,11 +2846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
+              "tmdb_id": 312585,
+              "title": "The Crow Club",
               "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
+              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 275102,
+              "title": "The Scandal",
+              "release_date": "2026-09-18",
+              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
             },
             {
               "media_type": "movie",
@@ -2878,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312663,
-              "title": "The Fixers",
+              "tmdb_id": 320760,
+              "title": "Not a Stranger",
               "release_date": "2026-09-17",
-              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
+              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
+              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299939,
-              "title": "Monster: The Lizzie Borden Story",
+              "tmdb_id": 312663,
+              "title": "The Fixers",
               "release_date": "2026-09-17",
-              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
+              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298008,
-              "title": "Plastic Beauty",
+              "tmdb_id": 299939,
+              "title": "Monster: The Lizzie Borden Story",
               "release_date": "2026-09-17",
-              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
+              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332282,
-              "title": "Physical 100: Mexico",
-              "release_date": "2026-09-16",
-              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
-              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
+              "tmdb_id": 298008,
+              "title": "Plastic Beauty",
+              "release_date": "2026-09-17",
+              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295089,
-              "title": "The Doll",
+              "tmdb_id": 332282,
+              "title": "Physical 100: Mexico",
               "release_date": "2026-09-16",
-              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
-              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
+              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
+              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324931,
-              "title": "A Parasite's Heart",
-              "release_date": "2026-09-14",
-              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
-              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
+              "tmdb_id": 295089,
+              "title": "The Doll",
+              "release_date": "2026-09-16",
+              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332863,
-              "title": "Stolen Heartbeats",
-              "release_date": "2026-09-11",
-              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
-              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+              "tmdb_id": 324931,
+              "title": "A Parasite's Heart",
+              "release_date": "2026-09-14",
+              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
+              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
             },
             {
               "media_type": "movie",
@@ -2990,11 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324111,
-              "title": "Physical 100: Italy",
+              "tmdb_id": 332863,
+              "title": "Stolen Heartbeats",
               "release_date": "2026-09-11",
-              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
-              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
+              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
             }
           ]
         },
@@ -3012,11 +3012,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 130103,
+              "title": "Salon de Nabi",
+              "release_date": "2026-09-19",
+              "poster_path": "/dJZzKvTje5z5Ov8NmZeMSy69cOc.jpg",
+              "backdrop_path": "/1rjJf57TSfAU3Y3fzgxMwtRxnI5.jpg"
             },
             {
               "media_type": "movie",
@@ -3028,27 +3028,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 312585,
+              "title": "The Crow Club",
+              "release_date": "2026-09-18",
+              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
+              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1514863,
               "title": "Best of the Best",
               "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+              "poster_path": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
               "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312663,
-              "title": "The Fixers",
-              "release_date": "2026-09-17",
-              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
+              "tmdb_id": 275102,
+              "title": "The Scandal",
+              "release_date": "2026-09-18",
+              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299939,
-              "title": "Monster: The Lizzie Borden Story",
+              "tmdb_id": 320760,
+              "title": "Not a Stranger",
               "release_date": "2026-09-17",
-              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
+              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
+              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 298008,
-              "title": "Plastic Beauty",
+              "tmdb_id": 312663,
+              "title": "The Fixers",
               "release_date": "2026-09-17",
-              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
+              "poster_path": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+              "backdrop_path": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332282,
-              "title": "Physical 100: Mexico",
-              "release_date": "2026-09-16",
-              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
-              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
+              "tmdb_id": 299939,
+              "title": "Monster: The Lizzie Borden Story",
+              "release_date": "2026-09-17",
+              "poster_path": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+              "backdrop_path": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 295089,
-              "title": "The Doll",
-              "release_date": "2026-09-16",
-              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
-              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
+              "tmdb_id": 298008,
+              "title": "Plastic Beauty",
+              "release_date": "2026-09-17",
+              "poster_path": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+              "backdrop_path": "/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324931,
-              "title": "A Parasite's Heart",
-              "release_date": "2026-09-14",
-              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
-              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
+              "tmdb_id": 332282,
+              "title": "Physical 100: Mexico",
+              "release_date": "2026-09-16",
+              "poster_path": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
+              "backdrop_path": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332863,
-              "title": "Stolen Heartbeats",
-              "release_date": "2026-09-11",
-              "poster_path": "/rmoGrMzPRCKGMGccNxda3eyCq48.jpg",
-              "backdrop_path": "/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg"
+              "tmdb_id": 295089,
+              "title": "The Doll",
+              "release_date": "2026-09-16",
+              "poster_path": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+              "backdrop_path": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 324111,
-              "title": "Physical 100: Italy",
-              "release_date": "2026-09-11",
-              "poster_path": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
-              "backdrop_path": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg"
+              "tmdb_id": 324931,
+              "title": "A Parasite's Heart",
+              "release_date": "2026-09-14",
+              "poster_path": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
+              "backdrop_path": "/tBxBchbTsi801LWzyutNqCAACis.jpg"
             }
           ]
         },
@@ -3353,7 +3353,7 @@
               "tmdb_id": 239618,
               "title": "American Hostage",
               "release_date": "2026-09-20",
-              "poster_path": "/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+              "poster_path": "/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
               "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
             },
             {
@@ -3524,7 +3524,7 @@
               "tmdb_id": 239618,
               "title": "American Hostage",
               "release_date": "2026-09-20",
-              "poster_path": "/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+              "poster_path": "/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
               "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
             },
             {
@@ -3705,7 +3705,7 @@
               "tmdb_id": 239618,
               "title": "American Hostage",
               "release_date": "2026-09-20",
-              "poster_path": "/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+              "poster_path": "/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
               "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
             },
             {
@@ -5083,11 +5083,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1731694,
-              "title": "LEGO Star Wars: The Mandalorian",
-              "release_date": "2026-09-02",
-              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
+              "tmdb_id": 1770842,
+              "title": "Max vs 100",
+              "release_date": "2026-09-16",
+              "poster_path": "/mHbOZIrkSkoxpKLGfk1577GjRPb.jpg",
+              "backdrop_path": "/7PLe3tUKYxm8HlnME3LQbF8Wab4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5099,11 +5099,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1729723,
-              "title": "Yellow Mirror",
-              "release_date": "2026-08-26",
-              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
+              "tmdb_id": 1731694,
+              "title": "LEGO Star Wars: The Mandalorian",
+              "release_date": "2026-09-02",
+              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5115,11 +5115,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732625,
-              "title": "LEGO Disney Princess: Magical Mayhem",
-              "release_date": "2026-08-21",
-              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
+              "tmdb_id": 1729723,
+              "title": "Yellow Mirror",
+              "release_date": "2026-08-26",
+              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5131,11 +5131,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5147,11 +5147,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-16",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5163,11 +5163,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1587964,
-              "title": "They Fight",
-              "release_date": "2026-07-17",
-              "poster_path": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
-              "backdrop_path": "/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-16",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5179,11 +5179,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1228710,
-              "title": "The Mandalorian and Grogu",
-              "release_date": "2026-05-20",
-              "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
-              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
+              "tmdb_id": 1587964,
+              "title": "They Fight",
+              "release_date": "2026-07-17",
+              "poster_path": "/46X9sBM0L4z2y6AkFKxpH4X8O77.jpg",
+              "backdrop_path": "/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5195,11 +5195,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1439930,
-              "title": "The Punisher: One Last Kill",
-              "release_date": "2026-05-12",
-              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
+              "tmdb_id": 1228710,
+              "title": "The Mandalorian and Grogu",
+              "release_date": "2026-05-20",
+              "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5211,11 +5211,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1688652,
-              "title": "Gary",
-              "release_date": "2026-05-05",
-              "poster_path": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
-              "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg"
+              "tmdb_id": 1439930,
+              "title": "The Punisher: One Last Kill",
+              "release_date": "2026-05-12",
+              "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+              "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5227,11 +5227,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1314481,
-              "title": "The Devil Wears Prada 2",
-              "release_date": "2026-04-30",
-              "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-              "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
+              "tmdb_id": 1688652,
+              "title": "Gary",
+              "release_date": "2026-05-05",
+              "poster_path": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+              "backdrop_path": "/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg"
             },
             {
               "media_type": "tvshow",
@@ -9061,7 +9061,7 @@
               "title": "The Bride!",
               "release_date": "2026-03-05",
               "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-              "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg"
+              "backdrop_path": "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg"
             },
             {
               "media_type": "tvshow",

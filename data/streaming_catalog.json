@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-29T16:30:48Z",
+  "generated_at": "2026-09-30T16:24:36Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -24,11 +24,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1768367,
+              "title": "Sam Morril: Incorrect",
+              "release_date": "2026-09-29",
+              "poster_path": "/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
+              "backdrop_path": "/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -40,11 +56,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -56,11 +72,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -72,11 +88,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -88,11 +104,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 305357,
+              "title": "A Different World",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -104,11 +120,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -120,11 +136,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
               "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -136,11 +152,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -152,27 +168,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1558568,
-              "title": "Go Team!",
-              "release_date": "2026-09-11",
-              "poster_path": "/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
-              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -190,11 +190,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -206,11 +206,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -356,11 +356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -372,11 +372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -388,11 +388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -404,11 +404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -420,11 +420,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -436,11 +436,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -452,11 +452,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -468,11 +468,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -484,11 +484,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -500,11 +500,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -522,11 +522,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -538,11 +538,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -688,11 +688,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -704,11 +704,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -720,11 +720,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -736,11 +736,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -889,8 +889,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -954,14 +954,14 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1408162,
               "title": "Vishwanath & Sons",
               "release_date": "2026-08-14",
-              "poster_path": "/7SfkdlOuifMn8Q7OHh9KQa3xwKr.jpg",
+              "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
               "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg"
             },
             {
@@ -1055,8 +1055,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1120,7 +1120,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1186,11 +1186,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1202,11 +1202,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1218,11 +1218,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1234,11 +1234,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -1250,11 +1250,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1266,11 +1266,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -1282,11 +1282,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -1298,11 +1298,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -1314,11 +1314,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1330,11 +1330,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -1387,8 +1387,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1452,7 +1452,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1553,8 +1553,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1618,7 +1618,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1684,11 +1684,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1700,11 +1700,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -1850,11 +1850,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1866,11 +1866,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1882,11 +1882,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1898,11 +1898,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -1914,11 +1914,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -1930,11 +1930,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -1946,11 +1946,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -1962,11 +1962,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,11 +1978,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -1994,11 +1994,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -2016,11 +2016,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2032,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,11 +2096,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -2112,11 +2112,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -2128,11 +2128,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -2144,11 +2144,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -2160,11 +2160,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -2217,8 +2217,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2282,7 +2282,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -2348,11 +2348,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2364,11 +2364,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2380,11 +2380,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2396,11 +2396,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -2412,11 +2412,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2428,11 +2428,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -2444,11 +2444,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -2460,11 +2460,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -2476,11 +2476,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -2492,11 +2492,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320760,
-              "title": "Not a Stranger",
-              "release_date": "2026-09-17",
-              "poster_path": "/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg",
-              "backdrop_path": "/RUkgsqD4YbEKKq77eFgJjeH89n.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         },
@@ -2549,8 +2549,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2614,7 +2614,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -2715,8 +2715,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2780,7 +2780,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -2881,8 +2881,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2946,7 +2946,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -3047,8 +3047,8 @@
               "tmdb_id": 310290,
               "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -3112,7 +3112,7 @@
               "title": "Wonka's The Golden Ticket",
               "release_date": "2026-09-23",
               "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -3178,11 +3178,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -3194,11 +3194,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
-              "backdrop_path": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/uJMtrJqeJQrOXzrhJmOtR34PpJo.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312557,
-              "title": "Minerva Academy",
-              "release_date": "2026-09-22",
-              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
+              "tmdb_id": 308963,
+              "title": "Habeas Corpus",
+              "release_date": "2026-09-23",
+              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312585,
-              "title": "The Crow Club",
-              "release_date": "2026-09-18",
-              "poster_path": "/yjPlfO23INYLyMWr1yr7rhwJhKO.jpg",
-              "backdrop_path": "/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg"
+              "tmdb_id": 286940,
+              "title": "Wonka's The Golden Ticket",
+              "release_date": "2026-09-23",
+              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275102,
-              "title": "The Scandal",
-              "release_date": "2026-09-18",
-              "poster_path": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-              "backdrop_path": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg"
+              "tmdb_id": 312557,
+              "title": "Minerva Academy",
+              "release_date": "2026-09-22",
+              "poster_path": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+              "backdrop_path": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg"
             }
           ]
         }
@@ -3524,7 +3524,7 @@
               "tmdb_id": 239618,
               "title": "American Hostage",
               "release_date": "2026-09-20",
-              "poster_path": "/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+              "poster_path": "/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
               "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
             },
             {
@@ -3705,7 +3705,7 @@
               "tmdb_id": 239618,
               "title": "American Hostage",
               "release_date": "2026-09-20",
-              "poster_path": "/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+              "poster_path": "/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
               "backdrop_path": "/t708JUdkHAoZF83f4RjqcIGrJ99.jpg"
             },
             {
@@ -4034,7 +4034,7 @@
               "title": "Ghost Meets Gal!",
               "release_date": "2026-09-05",
               "poster_path": "/lmckivRH2w5KDzCaX3jc9EWAFPj.jpg",
-              "backdrop_path": ""
+              "backdrop_path": "/tRKExfBgUi4LzZ4z1bZ0W7RRg6w.jpg"
             },
             {
               "media_type": "movie",
@@ -7260,11 +7260,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332401,
-              "title": "City of Blood",
-              "release_date": "2026-09-16",
-              "poster_path": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-              "backdrop_path": "/icPBB9V5IX1hggtNs1fvskP2lsi.jpg"
+              "tmdb_id": 334569,
+              "title": "Chilean Mine Rescue: Race Against Time",
+              "release_date": "2026-09-25",
+              "poster_path": "/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg",
+              "backdrop_path": "/vUI8WrAZLlvxrT5GFdIVwcJINwu.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1646945,
+              "title": "The Swan: Behind the Mirror",
+              "release_date": "2026-09-29",
+              "poster_path": "/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+              "backdrop_path": "/cxAOlicoljfeXzuNKKpElM4Bovc.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 333483,
+              "title": "Hunkkaar: The Roar",
+              "release_date": "2026-09-25",
+              "poster_path": "/uL2qCVBou6WYMRxMbP5olmBpTjD.jpg",
+              "backdrop_path": "/6zENIpSZvMGh2gfMKBeatpRtgX.jpg"
             },
             {
               "media_type": "movie",
@@ -7276,11 +7292,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299255,
-              "title": "Minimum Security",
-              "release_date": "2026-09-16",
-              "poster_path": "/c0vJ8YFq7mUwdA8z16OtW9peTWd.jpg",
-              "backdrop_path": "/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg"
+              "tmdb_id": 335571,
+              "title": "The Real Rooneys",
+              "release_date": "2026-09-24",
+              "poster_path": "/yIu8AuGmtUKQRdKGGCq6SgLYvl2.jpg",
+              "backdrop_path": "/uUMK43Cj0ZvwwD67TiIn8JIiBmp.jpg"
             },
             {
               "media_type": "movie",
@@ -7292,11 +7308,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331932,
-              "title": "Ali Baba Aur 40 Bhoot",
-              "release_date": "2026-09-11",
-              "poster_path": "/cYjdacskAhvWdjhxsSdhop1SxON.jpg",
-              "backdrop_path": "/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg"
+              "tmdb_id": 332401,
+              "title": "City of Blood",
+              "release_date": "2026-09-16",
+              "poster_path": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+              "backdrop_path": "/icPBB9V5IX1hggtNs1fvskP2lsi.jpg"
             },
             {
               "media_type": "movie",
@@ -7308,11 +7324,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 304842,
-              "title": "The Drop: A Snowfall Saga",
-              "release_date": "2026-09-08",
-              "poster_path": "/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-              "backdrop_path": "/ycLQYTgWfBq53fIkws0qIQOp62g.jpg"
+              "tmdb_id": 299255,
+              "title": "Minimum Security",
+              "release_date": "2026-09-16",
+              "poster_path": "/c0vJ8YFq7mUwdA8z16OtW9peTWd.jpg",
+              "backdrop_path": "/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg"
             },
             {
               "media_type": "movie",
@@ -7324,11 +7340,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334710,
-              "title": "StraightioLab",
-              "release_date": "2026-09-07",
-              "poster_path": "/3l8Irngoc6kk3ysViPbDEZsqByr.jpg",
-              "backdrop_path": "/nHSL1F6fKvG2oy24Mn7jVENVaK7.jpg"
+              "tmdb_id": 332061,
+              "title": "Prince of Mollywood",
+              "release_date": "2026-09-11",
+              "poster_path": "/82TCOlAlhhuTkMclDTDR4bo6lQI.jpg",
+              "backdrop_path": "/56uvaQfYILSBI9O37Vi9ad7mCHX.jpg"
             },
             {
               "media_type": "movie",
@@ -7340,11 +7356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333058,
-              "title": "Welcome to the Family: The Murder of Dan Markel",
-              "release_date": "2026-09-01",
-              "poster_path": "/2Do6U54cg31Y9DWWmjT69O6lFow.jpg",
-              "backdrop_path": "/oLsJziZaI6gCUhAJOfGdDmlZM3U.jpg"
+              "tmdb_id": 331932,
+              "title": "Ali Baba Aur 40 Bhoot",
+              "release_date": "2026-09-11",
+              "poster_path": "/cYjdacskAhvWdjhxsSdhop1SxON.jpg",
+              "backdrop_path": "/uDRHlrlXbIgwCnVRJr80VnBrgX7.jpg"
             },
             {
               "media_type": "movie",
@@ -7356,11 +7372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275224,
-              "title": "My Name Is Gutierrez",
-              "release_date": "2026-08-26",
-              "poster_path": "/7zT7FbS0mwJdjKoPPX7xOhySlNN.jpg",
-              "backdrop_path": "/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg"
+              "tmdb_id": 304842,
+              "title": "The Drop: A Snowfall Saga",
+              "release_date": "2026-09-08",
+              "poster_path": "/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+              "backdrop_path": "/ycLQYTgWfBq53fIkws0qIQOp62g.jpg"
             },
             {
               "media_type": "movie",
@@ -7372,11 +7388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330438,
-              "title": "The Girls: A Khlo\u00e9 Kardashian Project",
-              "release_date": "2026-08-21",
-              "poster_path": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
-              "backdrop_path": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg"
+              "tmdb_id": 334715,
+              "title": "Thanks Dad with Ego Nwodim",
+              "release_date": "2026-09-07",
+              "poster_path": "/yAwVbaFO4HsfQDm0kgoKIU8yVn8.jpg",
+              "backdrop_path": "/tR3SL1ddL5wLJiySOlklW5aQMzw.jpg"
             },
             {
               "media_type": "movie",
@@ -7388,27 +7404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329987,
-              "title": "9/11: Reunited",
-              "release_date": "2026-08-21",
-              "poster_path": "/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
-              "backdrop_path": "/97MBKEskobZSHT0f0wzZVRYd2fg.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1720758,
-              "title": "Disney Celebrates America: The Pursuit of Happiness",
-              "release_date": "2026-06-29",
-              "poster_path": "/nFzaWTQUuTk9KFTmSAEJFijHCNr.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 323557,
-              "title": "Lion",
-              "release_date": "2026-08-19",
-              "poster_path": "/mvFQIZo2DG1pyiINL2bDa5QNR4O.jpg",
-              "backdrop_path": "/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg"
+              "tmdb_id": 334710,
+              "title": "StraightioLab",
+              "release_date": "2026-09-07",
+              "poster_path": "/3l8Irngoc6kk3ysViPbDEZsqByr.jpg",
+              "backdrop_path": "/nHSL1F6fKvG2oy24Mn7jVENVaK7.jpg"
             }
           ]
         }
@@ -7611,11 +7611,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1409853,
-              "title": "Neglected",
-              "release_date": "2026-05-11",
-              "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
-              "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg"
+              "tmdb_id": 1368314,
+              "title": "Passenger",
+              "release_date": "2026-05-22",
+              "poster_path": "/svrAzMTif4OmIjGJzC0W92d5O1o.jpg",
+              "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7627,11 +7627,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1444249,
-              "title": "The Highest Stakes",
-              "release_date": "2026-05-12",
-              "poster_path": "/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
-              "backdrop_path": "/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg"
+              "tmdb_id": 1409853,
+              "title": "Neglected",
+              "release_date": "2026-05-11",
+              "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+              "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7643,11 +7643,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1440049,
-              "title": "Preschool",
-              "release_date": "2026-04-06",
-              "poster_path": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-              "backdrop_path": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg"
+              "tmdb_id": 1444249,
+              "title": "The Highest Stakes",
+              "release_date": "2026-05-12",
+              "poster_path": "/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+              "backdrop_path": "/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7659,11 +7659,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327690,
-              "title": "One Mile: Chapter Two",
-              "release_date": "2026-03-09",
-              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
+              "tmdb_id": 1440049,
+              "title": "Preschool",
+              "release_date": "2026-04-06",
+              "poster_path": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+              "backdrop_path": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7675,11 +7675,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159559,
-              "title": "Scream 7",
-              "release_date": "2026-02-27",
-              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
+              "tmdb_id": 1327690,
+              "title": "One Mile: Chapter Two",
+              "release_date": "2026-03-09",
+              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7691,11 +7691,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327688,
-              "title": "One Mile: Chapter One",
-              "release_date": "2026-03-09",
-              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-27",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7707,11 +7707,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1340076,
-              "title": "Untitled Home Invasion Romance",
-              "release_date": "2026-02-09",
-              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+              "tmdb_id": 1327688,
+              "title": "One Mile: Chapter One",
+              "release_date": "2026-03-09",
+              "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+              "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7720,6 +7720,22 @@
               "release_date": "2026-05-07",
               "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
               "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1340076,
+              "title": "Untitled Home Invasion Romance",
+              "release_date": "2026-02-09",
+              "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+              "backdrop_path": "/xbYOxEQ69uQd5WRd4piqgW5besb.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 321222,
+              "title": "Snatched",
+              "release_date": "2026-04-30",
+              "poster_path": "/831csZRP8iCLvwIZt34sCM9p7EN.jpg",
+              "backdrop_path": "/7G5v6HxNPxCVyhwXiA3gL9oi5ee.jpg"
             },
             {
               "media_type": "movie",
@@ -7736,22 +7752,6 @@
               "release_date": "2026-03-14",
               "poster_path": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
               "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
-              "release_date": "2026-01-30",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 290856,
-              "title": "Marshals",
-              "release_date": "2026-03-01",
-              "poster_path": "/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-              "backdrop_path": "/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg"
             }
           ]
         },
@@ -8063,11 +8063,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 225891,
-              "title": "The Madison",
-              "release_date": "2026-03-14",
-              "poster_path": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-              "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
+              "tmdb_id": 321222,
+              "title": "Snatched",
+              "release_date": "2026-04-30",
+              "poster_path": "/831csZRP8iCLvwIZt34sCM9p7EN.jpg",
+              "backdrop_path": "/7G5v6HxNPxCVyhwXiA3gL9oi5ee.jpg"
             },
             {
               "media_type": "movie",
@@ -8079,11 +8079,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290856,
-              "title": "Marshals",
-              "release_date": "2026-03-01",
-              "poster_path": "/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-              "backdrop_path": "/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg"
+              "tmdb_id": 225891,
+              "title": "The Madison",
+              "release_date": "2026-03-14",
+              "poster_path": "/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+              "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
             }
           ]
         },
@@ -8259,11 +8259,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1127628,
-              "title": "The Thing with Feathers",
-              "release_date": "2025-10-01",
-              "poster_path": "/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
-              "backdrop_path": "/yzgTMSFkhMdCG1VtMnChGI6rKxF.jpg"
+              "tmdb_id": 980431,
+              "title": "Avatar Aang: The Last Airbender",
+              "release_date": "2026-07-25",
+              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8275,11 +8275,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1127628,
+              "title": "The Thing with Feathers",
+              "release_date": "2025-10-01",
+              "poster_path": "/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
+              "backdrop_path": "/yzgTMSFkhMdCG1VtMnChGI6rKxF.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8291,11 +8291,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1530875,
-              "title": "All the Devils Are Here",
-              "release_date": "2025-10-01",
-              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
-              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
+              "tmdb_id": 1508191,
+              "title": "Ozzy: No Escape from Now",
+              "release_date": "2025-10-07",
+              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8307,11 +8307,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1161617,
-              "title": "Code 3",
-              "release_date": "2026-01-22",
-              "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
-              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
+              "tmdb_id": 1530875,
+              "title": "All the Devils Are Here",
+              "release_date": "2025-10-01",
+              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8323,11 +8323,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1215798,
-              "title": "The Cut",
-              "release_date": "2025-12-12",
-              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
-              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
+              "tmdb_id": 1161617,
+              "title": "Code 3",
+              "release_date": "2026-01-22",
+              "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8339,11 +8339,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1251717,
-              "title": "Vicious",
-              "release_date": "2025-08-06",
-              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+              "tmdb_id": 1215798,
+              "title": "The Cut",
+              "release_date": "2025-12-12",
+              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8355,11 +8355,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1512623,
-              "title": "Risqu\u00e9",
-              "release_date": "2026-02-22",
-              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
+              "tmdb_id": 1251717,
+              "title": "Vicious",
+              "release_date": "2025-08-06",
+              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8371,11 +8371,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1232933,
-              "title": "Fear Below",
-              "release_date": "2026-01-29",
-              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
-              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
+              "tmdb_id": 1512623,
+              "title": "Risqu\u00e9",
+              "release_date": "2026-02-22",
+              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8387,11 +8387,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1195506,
-              "title": "Novocaine",
-              "release_date": "2025-03-26",
-              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
+              "tmdb_id": 1232933,
+              "title": "Fear Below",
+              "release_date": "2026-01-29",
+              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
+              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8403,11 +8403,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1302916,
-              "title": "Heart Eyes",
-              "release_date": "2025-02-06",
-              "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
-              "backdrop_path": "/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg"
+              "tmdb_id": 1195506,
+              "title": "Novocaine",
+              "release_date": "2025-03-26",
+              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8869,11 +8869,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 454626,
-              "title": "Sonic the Hedgehog",
-              "release_date": "2020-02-14",
-              "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
-              "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
+              "tmdb_id": 361743,
+              "title": "Top Gun: Maverick",
+              "release_date": "2022-05-21",
+              "poster_path": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+              "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8884,6 +8884,14 @@
               "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg"
             },
             {
+              "media_type": "movie",
+              "tmdb_id": 454626,
+              "title": "Sonic the Hedgehog",
+              "release_date": "2020-02-14",
+              "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+              "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
+            },
+            {
               "media_type": "tvshow",
               "tmdb_id": 225891,
               "title": "The Madison",
@@ -8892,28 +8900,20 @@
               "backdrop_path": "/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
             },
             {
+              "media_type": "movie",
+              "tmdb_id": 744,
+              "title": "Top Gun",
+              "release_date": "1986-08-06",
+              "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+              "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+            },
+            {
               "media_type": "tvshow",
               "tmdb_id": 290856,
               "title": "Marshals",
               "release_date": "2026-03-01",
               "poster_path": "/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
               "backdrop_path": "/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 307913,
-              "title": "Canada Shore",
-              "release_date": "2026-01-22",
-              "poster_path": "/gItzF0zia8qMaAqniM6mhPgbbsl.jpg",
-              "backdrop_path": "/wuC7mXI7cqXW9WYuHYD1bzQYy4b.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 223530,
-              "title": "Star Trek: Starfleet Academy",
-              "release_date": "2026-01-15",
-              "poster_path": "/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-              "backdrop_path": "/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg"
             }
           ]
         }
@@ -8953,11 +8953,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331540,
-              "title": "Icons Unearthed: Arnold Schwarzenegger",
-              "release_date": "2026-09-04",
-              "poster_path": "/ozxzIEZI5EK1eJlt5FIPU0ZcPWd.jpg",
-              "backdrop_path": "/rQaLfKNBEkE1iWhuMaobTMWoRuh.jpg"
+              "tmdb_id": 334831,
+              "title": "OD: 20 ans",
+              "release_date": "2026-09-11",
+              "poster_path": "/ulLQ9SLzoSH9TAIQ3G5oryLPt6W.jpg",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -8969,11 +8969,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332814,
-              "title": "Caro's Chalet",
-              "release_date": "2026-08-26",
-              "poster_path": "/ek5NeQjZCMk2fcoLoCwTfsATbJZ.jpg",
-              "backdrop_path": "/spJ66Pv6Gmud33CVe8Iwac3yJsW.jpg"
+              "tmdb_id": 331540,
+              "title": "Icons Unearthed: Arnold Schwarzenegger",
+              "release_date": "2026-09-04",
+              "poster_path": "/ozxzIEZI5EK1eJlt5FIPU0ZcPWd.jpg",
+              "backdrop_path": "/rQaLfKNBEkE1iWhuMaobTMWoRuh.jpg"
             },
             {
               "media_type": "movie",
@@ -8985,11 +8985,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 95350,
-              "title": "Lanterns",
-              "release_date": "2026-08-16",
-              "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-              "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
+              "tmdb_id": 332814,
+              "title": "Caro's Chalet",
+              "release_date": "2026-08-26",
+              "poster_path": "/ek5NeQjZCMk2fcoLoCwTfsATbJZ.jpg",
+              "backdrop_path": "/spJ66Pv6Gmud33CVe8Iwac3yJsW.jpg"
             },
             {
               "media_type": "movie",
@@ -9001,11 +9001,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331752,
-              "title": "Coeur policier",
-              "release_date": "2026-08-15",
-              "poster_path": "/v10END3FvWL9qXQWup5EYp3RiM8.jpg",
-              "backdrop_path": "/ogwsjCE6w45jk2zLBvV8YFGUjmc.jpg"
+              "tmdb_id": 95350,
+              "title": "Lanterns",
+              "release_date": "2026-08-16",
+              "poster_path": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+              "backdrop_path": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
             },
             {
               "media_type": "movie",
@@ -9017,11 +9017,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291350,
-              "title": "Anna Pigeon",
-              "release_date": "2026-08-07",
-              "poster_path": "/iLhi3wqsLOdHB61vySJRm7y09XS.jpg",
-              "backdrop_path": "/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg"
+              "tmdb_id": 331752,
+              "title": "Coeur policier",
+              "release_date": "2026-08-15",
+              "poster_path": "/v10END3FvWL9qXQWup5EYp3RiM8.jpg",
+              "backdrop_path": "/ogwsjCE6w45jk2zLBvV8YFGUjmc.jpg"
             },
             {
               "media_type": "movie",
@@ -9033,11 +9033,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329941,
-              "title": "Le violeur de Tinder",
-              "release_date": "2026-07-29",
-              "poster_path": "/g7ZFKvZS1PrQ6Vu3uEWPUJc0gy1.jpg",
-              "backdrop_path": "/1iW7mvP9SzGOA6xzkZjEEtI1rI8.jpg"
+              "tmdb_id": 291350,
+              "title": "Anna Pigeon",
+              "release_date": "2026-08-07",
+              "poster_path": "/iLhi3wqsLOdHB61vySJRm7y09XS.jpg",
+              "backdrop_path": "/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg"
             },
             {
               "media_type": "movie",
@@ -9049,11 +9049,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 287620,
-              "title": "Stuart Fails to Save the Universe",
-              "release_date": "2026-07-23",
-              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-              "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg"
+              "tmdb_id": 329941,
+              "title": "Le violeur de Tinder",
+              "release_date": "2026-07-29",
+              "poster_path": "/g7ZFKvZS1PrQ6Vu3uEWPUJc0gy1.jpg",
+              "backdrop_path": "/1iW7mvP9SzGOA6xzkZjEEtI1rI8.jpg"
             },
             {
               "media_type": "movie",
@@ -9065,11 +9065,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328039,
-              "title": "Olivier Primeau, pas encore milliardaire!",
-              "release_date": "2026-07-15",
-              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
-              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
+              "tmdb_id": 287620,
+              "title": "Stuart Fails to Save the Universe",
+              "release_date": "2026-07-23",
+              "poster_path": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+              "backdrop_path": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg"
             },
             {
               "media_type": "movie",
@@ -9081,11 +9081,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314487,
-              "title": "Canada's Drag Race: All Stars",
-              "release_date": "2026-07-09",
-              "poster_path": "/sf7BBvU9QVI3acwJvi6nLZQgRtG.jpg",
-              "backdrop_path": "/lsZyv5whBhq0XUeduDPqqUspWd7.jpg"
+              "tmdb_id": 328039,
+              "title": "Olivier Primeau, pas encore milliardaire!",
+              "release_date": "2026-07-15",
+              "poster_path": "/9WF2zZpgxKeRV6NrAPytHVtZDkI.jpg",
+              "backdrop_path": "/rPAJ3BLw11NjCSdC1oSSkdkX32E.jpg"
             }
           ]
         }

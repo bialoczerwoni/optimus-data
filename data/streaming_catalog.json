@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-01T17:01:47Z",
+  "generated_at": "2026-10-02T16:16:14Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -21,6 +21,22 @@
               "release_date": "2026-10-25",
               "poster_path": "/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
               "backdrop_path": "/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1763619,
+              "title": "Crazy Rich, Incredibly Broke",
+              "release_date": "2026-10-01",
+              "poster_path": "/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+              "backdrop_path": "/e20V500lJHkQbf1iGet34Jc5h8r.jpg"
             },
             {
               "media_type": "tvshow",
@@ -157,22 +173,6 @@
               "release_date": "2026-09-24",
               "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
               "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1770859,
-              "title": "Jo Koy: Blue in the Face",
-              "release_date": "2026-09-15",
-              "poster_path": "/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
-              "backdrop_path": "/Ag6J86izoe6b6mGD8HDI0TFK8hj.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
             }
           ]
         },
@@ -190,11 +190,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -206,11 +206,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -356,11 +356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -372,11 +372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -388,11 +388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -404,11 +404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -420,11 +420,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -436,11 +436,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -452,11 +452,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -468,11 +468,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -484,11 +484,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -500,11 +500,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -522,11 +522,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -538,11 +538,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -688,11 +688,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -704,11 +704,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -720,11 +720,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -736,11 +736,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -854,11 +854,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -870,11 +870,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
               "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -886,11 +886,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -902,11 +902,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -918,11 +918,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -934,11 +934,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -950,11 +950,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -966,11 +966,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -982,11 +982,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -998,11 +998,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             }
           ]
         },
@@ -1020,11 +1020,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -1036,11 +1036,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -1052,11 +1052,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1068,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1132,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1148,11 +1148,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1164,11 +1164,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -1186,11 +1186,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -1202,11 +1202,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -1218,11 +1218,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1234,11 +1234,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1250,11 +1250,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1266,11 +1266,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1282,11 +1282,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1298,11 +1298,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1314,11 +1314,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1330,11 +1330,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -1352,11 +1352,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -1368,11 +1368,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -1384,11 +1384,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1400,11 +1400,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1416,11 +1416,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1432,11 +1432,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1448,11 +1448,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1464,11 +1464,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1480,11 +1480,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1496,11 +1496,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -1518,11 +1518,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -1534,11 +1534,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -1550,11 +1550,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1566,11 +1566,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1582,11 +1582,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1598,11 +1598,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1614,11 +1614,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1630,11 +1630,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1646,11 +1646,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1662,11 +1662,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -1684,11 +1684,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -1700,11 +1700,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
+              "release_date": "2026-09-24",
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             }
           ]
         },
@@ -1866,11 +1866,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -1882,11 +1882,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -1898,11 +1898,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
               "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -1914,11 +1914,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -1930,11 +1930,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -1946,11 +1946,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -1962,11 +1962,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,11 +1978,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -1994,11 +1994,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             }
           ]
         },
@@ -2032,11 +2032,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
               "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,11 +2096,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -2112,11 +2112,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2128,11 +2128,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2144,11 +2144,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -2160,11 +2160,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             }
           ]
         },
@@ -2182,11 +2182,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -2198,11 +2198,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2278,11 +2278,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -2294,11 +2294,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2310,11 +2310,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2326,11 +2326,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -2380,11 +2380,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
+              "tmdb_id": 333016,
+              "title": "Outside",
               "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2396,11 +2396,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -2412,11 +2412,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2428,11 +2428,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2444,11 +2444,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -2460,11 +2460,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -2476,11 +2476,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 305357,
+              "title": "A Different World",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             },
             {
               "media_type": "movie",
@@ -2492,11 +2492,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 285147,
+              "title": "Shaque: Trust No One",
+              "release_date": "2026-09-24",
+              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
             }
           ]
         },
@@ -2511,6 +2511,22 @@
               "release_date": "2026-03-27",
               "poster_path": "/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
               "backdrop_path": "/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1763619,
+              "title": "Crazy Rich, Incredibly Broke",
+              "release_date": "2026-10-01",
+              "poster_path": "/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+              "backdrop_path": "/e20V500lJHkQbf1iGet34Jc5h8r.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2530,11 +2546,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -2546,11 +2562,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -2562,11 +2578,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
               "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2578,11 +2594,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2594,11 +2610,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -2610,11 +2626,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2626,11 +2642,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2642,27 +2658,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": ""
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
-              "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -2680,11 +2680,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -2696,11 +2696,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -2712,11 +2712,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -2728,11 +2728,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,11 +2776,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -2792,11 +2792,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         },
@@ -2846,11 +2846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -2862,11 +2862,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -2878,11 +2878,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -2894,11 +2894,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -2958,11 +2958,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
-              "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -2974,11 +2974,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 331979,
+              "title": "Delusion",
+              "release_date": "2026-09-24",
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -2990,11 +2990,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
+              "release_date": "2026-09-24",
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             }
           ]
         },
@@ -3012,11 +3012,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -3028,11 +3028,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -3044,11 +3044,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308963,
-              "title": "Habeas Corpus",
-              "release_date": "2026-09-23",
-              "poster_path": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-              "backdrop_path": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg"
+              "tmdb_id": 310290,
+              "title": "My Sad Dead",
+              "release_date": "2026-09-24",
+              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
+              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 286940,
-              "title": "Wonka's The Golden Ticket",
-              "release_date": "2026-09-23",
-              "poster_path": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-              "backdrop_path": "/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg"
+              "tmdb_id": 305357,
+              "title": "A Different World",
+              "release_date": "2026-09-24",
+              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
             }
           ]
         },
@@ -3178,11 +3178,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331669,
-              "title": "The Arena",
-              "release_date": "2026-09-30",
-              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
-              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
+              "tmdb_id": 258165,
+              "title": "East of Eden",
+              "release_date": "2026-10-01",
+              "poster_path": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+              "backdrop_path": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg"
             },
             {
               "media_type": "movie",
@@ -3194,11 +3194,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318918,
-              "title": "LEGO ONE PIECE",
-              "release_date": "2026-09-29",
-              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
+              "tmdb_id": 331669,
+              "title": "The Arena",
+              "release_date": "2026-09-30",
+              "poster_path": "/t00g6l4L3xbPgPoB5QZzBl5hiZR.jpg",
+              "backdrop_path": "/dQnXeGFUxQlirca33Ad5YJdodS.jpg"
             },
             {
               "media_type": "movie",
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334702,
-              "title": "Last Trace with Kaelyn Moore",
-              "release_date": "2026-09-28",
-              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
-              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
+              "tmdb_id": 290750,
+              "title": "Love Is Blind: Netherlands",
+              "release_date": "2026-09-30",
+              "poster_path": "/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+              "backdrop_path": "/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297982,
-              "title": "Irreplaceable",
-              "release_date": "2026-09-28",
-              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
-              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
+              "tmdb_id": 318918,
+              "title": "LEGO ONE PIECE",
+              "release_date": "2026-09-29",
+              "poster_path": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+              "backdrop_path": "/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334706,
-              "title": "Outlore With Eleanor Neale",
-              "release_date": "2026-09-27",
-              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
-              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
+              "tmdb_id": 334702,
+              "title": "Last Trace with Kaelyn Moore",
+              "release_date": "2026-09-28",
+              "poster_path": "/a8hgF7UAoshScIhzc6aoaAQpxkc.jpg",
+              "backdrop_path": "/gMTcYXihtu73audRCICZJ2ugyQF.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 290720,
-              "title": "The Final Problem",
-              "release_date": "2026-09-25",
-              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
+              "tmdb_id": 333016,
+              "title": "Outside",
+              "release_date": "2026-09-28",
+              "poster_path": "/rO739swp9hyYmtouNi9kNGhWtiu.jpg",
+              "backdrop_path": "/jO7ytK2xq1witeQ5DgU1p7fy0Q0.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 331979,
-              "title": "Delusion",
-              "release_date": "2026-09-24",
-              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
+              "tmdb_id": 297982,
+              "title": "Irreplaceable",
+              "release_date": "2026-09-28",
+              "poster_path": "/bT95Aq4hfcak7echBfjKV3GJf4a.jpg",
+              "backdrop_path": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310290,
-              "title": "My Sad Dead",
-              "release_date": "2026-09-24",
-              "poster_path": "/7FEUvXEgpsevAse8gNFk1h1RPRd.jpg",
-              "backdrop_path": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg"
+              "tmdb_id": 334706,
+              "title": "Outlore With Eleanor Neale",
+              "release_date": "2026-09-27",
+              "poster_path": "/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+              "backdrop_path": "/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 305357,
-              "title": "A Different World",
-              "release_date": "2026-09-24",
-              "poster_path": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-              "backdrop_path": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg"
+              "tmdb_id": 290720,
+              "title": "The Final Problem",
+              "release_date": "2026-09-25",
+              "poster_path": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+              "backdrop_path": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 285147,
-              "title": "Shaque: Trust No One",
+              "tmdb_id": 331979,
+              "title": "Delusion",
               "release_date": "2026-09-24",
-              "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
-              "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg"
+              "poster_path": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+              "backdrop_path": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg"
             }
           ]
         }
@@ -3342,11 +3342,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1529372,
-              "title": "Don't Be Shy!",
-              "release_date": "2026-09-25",
-              "poster_path": "/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
-              "backdrop_path": "/xnGBwwD9QjeQeRKzDEVp0cNAEFe.jpg"
+              "tmdb_id": 1269325,
+              "title": "Drishyam: The Conclusion",
+              "release_date": "2026-10-02",
+              "poster_path": "/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+              "backdrop_path": "/nq73eRdEooripf3k0XHLtX14zyC.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3358,11 +3358,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1766609,
-              "title": "Go Deep: The DeSean Jackson Story",
-              "release_date": "2026-09-24",
-              "poster_path": "/vijDQnbLhOOhHU1bNs5vE5qJOI0.jpg",
-              "backdrop_path": "/5ghv53ICOZClWyL7sKgOr4jfZYl.jpg"
+              "tmdb_id": 1529372,
+              "title": "Don't Be Shy!",
+              "release_date": "2026-09-25",
+              "poster_path": "/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
+              "backdrop_path": "/xnGBwwD9QjeQeRKzDEVp0cNAEFe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3374,11 +3374,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1280300,
-              "title": "The Whistler",
-              "release_date": "2026-04-17",
-              "poster_path": "/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
-              "backdrop_path": "/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg"
+              "tmdb_id": 1766609,
+              "title": "Go Deep: The DeSean Jackson Story",
+              "release_date": "2026-09-24",
+              "poster_path": "/vijDQnbLhOOhHU1bNs5vE5qJOI0.jpg",
+              "backdrop_path": "/5ghv53ICOZClWyL7sKgOr4jfZYl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3390,11 +3390,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1032863,
-              "title": "The Love Hypothesis",
-              "release_date": "2026-09-23",
-              "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-              "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
+              "tmdb_id": 1280300,
+              "title": "The Whistler",
+              "release_date": "2026-04-17",
+              "poster_path": "/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
+              "backdrop_path": "/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3406,11 +3406,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1641629,
-              "title": "You+Me - Against the World",
-              "release_date": "2026-09-18",
-              "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-              "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg"
+              "tmdb_id": 1032863,
+              "title": "The Love Hypothesis",
+              "release_date": "2026-09-23",
+              "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+              "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3422,11 +3422,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1197698,
-              "title": "Cursed Waters",
+              "tmdb_id": 1641629,
+              "title": "You+Me - Against the World",
               "release_date": "2026-09-18",
-              "poster_path": "/vub6rNmY6I68sK8O8fLaVKcr0oh.jpg",
-              "backdrop_path": ""
+              "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+              "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3438,11 +3438,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1770849,
-              "title": "Norton Creek Massacre",
-              "release_date": "2026-09-10",
-              "poster_path": "/vFsaewVtJHfmfsn7J4LxyKiMz3P.jpg",
-              "backdrop_path": "/wIPVME1fx7JcSqwgosonZTfcTtD.jpg"
+              "tmdb_id": 1197698,
+              "title": "Cursed Waters",
+              "release_date": "2026-09-18",
+              "poster_path": "/vub6rNmY6I68sK8O8fLaVKcr0oh.jpg",
+              "backdrop_path": "/84iLgw40r221RkGC3ZgWnjWEKCF.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3454,11 +3454,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1317872,
-              "title": "Sardar 2",
+              "tmdb_id": 1770849,
+              "title": "Norton Creek Massacre",
               "release_date": "2026-09-10",
-              "poster_path": "/qGo0XltwTLbCvPO7VvtirXlbKny.jpg",
-              "backdrop_path": "/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg"
+              "poster_path": "/vFsaewVtJHfmfsn7J4LxyKiMz3P.jpg",
+              "backdrop_path": "/wIPVME1fx7JcSqwgosonZTfcTtD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3470,11 +3470,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1440098,
-              "title": "Drawn Together",
-              "release_date": "2026-09-09",
-              "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-              "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+              "tmdb_id": 1317872,
+              "title": "Sardar 2",
+              "release_date": "2026-09-10",
+              "poster_path": "/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+              "backdrop_path": "/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3486,11 +3486,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1742483,
-              "title": "Biff the Human Slayer",
-              "release_date": "2026-09-08",
-              "poster_path": "/e9MmcMD43KhrrChkq2qmcWPRLFM.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1440098,
+              "title": "Drawn Together",
+              "release_date": "2026-09-09",
+              "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+              "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3511,6 +3511,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1269325,
+              "title": "Drishyam: The Conclusion",
+              "release_date": "2026-10-02",
+              "poster_path": "/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+              "backdrop_path": "/nq73eRdEooripf3k0XHLtX14zyC.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 284558,
+              "title": "Kill Jackie",
+              "release_date": "2026-10-02",
+              "poster_path": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+              "backdrop_path": "/4OJPcAAFAC9TvV75c9hjZVFgbjQ.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1032863,
@@ -3548,16 +3564,16 @@
               "tmdb_id": 1317872,
               "title": "Sardar 2",
               "release_date": "2026-09-10",
-              "poster_path": "/qGo0XltwTLbCvPO7VvtirXlbKny.jpg",
+              "poster_path": "/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
               "backdrop_path": "/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 330302,
-              "title": "Cathedrals",
-              "release_date": "2026-09-16",
-              "poster_path": "/z2OduIBEkvKi0KjeA277dkqe3Dp.jpg",
-              "backdrop_path": "/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg"
+              "tmdb_id": 335616,
+              "title": "The Fit Bit Killer",
+              "release_date": "2026-09-17",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3569,11 +3585,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 273207,
-              "title": "Neagley",
+              "tmdb_id": 330302,
+              "title": "Cathedrals",
               "release_date": "2026-09-16",
-              "poster_path": "/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-              "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg"
+              "poster_path": "/z2OduIBEkvKi0KjeA277dkqe3Dp.jpg",
+              "backdrop_path": "/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg"
             },
             {
               "media_type": "movie",
@@ -3585,11 +3601,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314939,
-              "title": "A Love Other Than Yours",
-              "release_date": "2026-09-12",
-              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
+              "tmdb_id": 273207,
+              "title": "Neagley",
+              "release_date": "2026-09-16",
+              "poster_path": "/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+              "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg"
             },
             {
               "media_type": "movie",
@@ -3601,11 +3617,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 323980,
-              "title": "Operation Deception",
-              "release_date": "2026-09-11",
-              "poster_path": "/b0Uz1KyKvsqBxFVdJ7HNPAquyXX.jpg",
-              "backdrop_path": "/iO7ck5oXIY9qQyHyXH53FCqrIzs.jpg"
+              "tmdb_id": 314939,
+              "title": "A Love Other Than Yours",
+              "release_date": "2026-09-12",
+              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
             },
             {
               "media_type": "movie",
@@ -3617,11 +3633,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319722,
-              "title": "Honor Thy Mother",
+              "tmdb_id": 323980,
+              "title": "Operation Deception",
               "release_date": "2026-09-11",
-              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
-              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
+              "poster_path": "/b0Uz1KyKvsqBxFVdJ7HNPAquyXX.jpg",
+              "backdrop_path": "/iO7ck5oXIY9qQyHyXH53FCqrIzs.jpg"
             },
             {
               "media_type": "movie",
@@ -3633,11 +3649,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 260249,
-              "title": "The Trial",
+              "tmdb_id": 319722,
+              "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/3k5HpocqX4grgmqCecT2OdYMyT0.jpg",
-              "backdrop_path": "/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg"
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
+              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
               "media_type": "movie",
@@ -3649,27 +3665,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 249863,
-              "title": "The Revolutionaries",
+              "tmdb_id": 260249,
+              "title": "The Trial",
               "release_date": "2026-09-11",
-              "poster_path": "/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
-              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1506833,
-              "title": "Magudam",
-              "release_date": "2026-08-14",
-              "poster_path": "/oM0daQezJfdK8ADtwi1SMCy1BJA.jpg",
-              "backdrop_path": "/p5LmNUM4T9xLqbeu7nBY47VUh3W.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 331586,
-              "title": "LOL Next",
-              "release_date": "2026-09-10",
-              "poster_path": "/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
-              "backdrop_path": "/2c1GSv458OlOK6mMh0oecKMoQVl.jpg"
+              "poster_path": "/3k5HpocqX4grgmqCecT2OdYMyT0.jpg",
+              "backdrop_path": "/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg"
             }
           ]
         },
@@ -3918,11 +3918,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336083,
-              "title": "No Signal",
-              "release_date": "2026-09-26",
-              "poster_path": "/qiZfkyc09x3XAOvi4aZOxOTpLAB.jpg",
-              "backdrop_path": "/fKURvHAIgfiqcLan5BymuI5pq8S.jpg"
+              "tmdb_id": 324502,
+              "title": "Overgeared",
+              "release_date": "2026-10-02",
+              "poster_path": "/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
+              "backdrop_path": "/745xqHbiUWwO51TM60MXRCR4Onm.jpg"
             },
             {
               "media_type": "movie",
@@ -3934,11 +3934,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334342,
-              "title": "\u7269\u7523\u5c55\u306e\u5973\uff5e\u5317\u5869\u539f\u6751\u30fb\u78d0\u68af\u753a\u30fb\u7c73\u6ca2\u5e02\u7de8\uff5e",
-              "release_date": "2026-09-24",
-              "poster_path": "",
-              "backdrop_path": ""
+              "tmdb_id": 336083,
+              "title": "No Signal",
+              "release_date": "2026-09-26",
+              "poster_path": "/qiZfkyc09x3XAOvi4aZOxOTpLAB.jpg",
+              "backdrop_path": "/fKURvHAIgfiqcLan5BymuI5pq8S.jpg"
             },
             {
               "media_type": "movie",
@@ -3950,11 +3950,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 273207,
-              "title": "Neagley",
-              "release_date": "2026-09-16",
-              "poster_path": "/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-              "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg"
+              "tmdb_id": 334342,
+              "title": "\u7269\u7523\u5c55\u306e\u5973\uff5e\u5317\u5869\u539f\u6751\u30fb\u78d0\u68af\u753a\u30fb\u7c73\u6ca2\u5e02\u7de8\uff5e",
+              "release_date": "2026-09-24",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -3966,11 +3966,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314939,
-              "title": "A Love Other Than Yours",
-              "release_date": "2026-09-12",
-              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
+              "tmdb_id": 273207,
+              "title": "Neagley",
+              "release_date": "2026-09-16",
+              "poster_path": "/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+              "backdrop_path": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg"
             },
             {
               "media_type": "movie",
@@ -3982,11 +3982,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319728,
-              "title": "Seeing Double",
-              "release_date": "2026-09-11",
-              "poster_path": "/AetHg5yXyJt7x6JPKQx8Xx9fFGC.jpg",
-              "backdrop_path": "/8cIkVRG9pVcC9MSYV3vJ2Si8WTP.jpg"
+              "tmdb_id": 314939,
+              "title": "A Love Other Than Yours",
+              "release_date": "2026-09-12",
+              "poster_path": "/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+              "backdrop_path": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg"
             },
             {
               "media_type": "movie",
@@ -3998,11 +3998,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 319722,
-              "title": "Honor Thy Mother",
+              "tmdb_id": 319728,
+              "title": "Seeing Double",
               "release_date": "2026-09-11",
-              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
-              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
+              "poster_path": "/AetHg5yXyJt7x6JPKQx8Xx9fFGC.jpg",
+              "backdrop_path": "/8cIkVRG9pVcC9MSYV3vJ2Si8WTP.jpg"
             },
             {
               "media_type": "movie",
@@ -4014,11 +4014,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 249863,
-              "title": "The Revolutionaries",
+              "tmdb_id": 319722,
+              "title": "Honor Thy Mother",
               "release_date": "2026-09-11",
-              "poster_path": "/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
-              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
+              "poster_path": "/rAdn0E8u53QQZrBbgKEwyO2mhCs.jpg",
+              "backdrop_path": "/45QKBrrIO5WcYhdF8SKtJiu7Ig7.jpg"
             },
             {
               "media_type": "movie",
@@ -4030,11 +4030,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318445,
-              "title": "Kamen Rider MY-TH",
-              "release_date": "2026-09-06",
-              "poster_path": "/rP5msGG1CTXsbqDhKt9pxF0V7qV.jpg",
-              "backdrop_path": "/k1EZdHo4OmHymK69vmN1SVNIKcA.jpg"
+              "tmdb_id": 249863,
+              "title": "The Revolutionaries",
+              "release_date": "2026-09-11",
+              "poster_path": "/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
+              "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg"
             },
             {
               "media_type": "movie",
@@ -4046,11 +4046,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334103,
-              "title": "Ghost Meets Gal!",
-              "release_date": "2026-09-05",
-              "poster_path": "/lmckivRH2w5KDzCaX3jc9EWAFPj.jpg",
-              "backdrop_path": "/tRKExfBgUi4LzZ4z1bZ0W7RRg6w.jpg"
+              "tmdb_id": 318445,
+              "title": "Kamen Rider MY-TH",
+              "release_date": "2026-09-06",
+              "poster_path": "/rP5msGG1CTXsbqDhKt9pxF0V7qV.jpg",
+              "backdrop_path": "/k1EZdHo4OmHymK69vmN1SVNIKcA.jpg"
             },
             {
               "media_type": "movie",
@@ -4062,11 +4062,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316970,
-              "title": "Jagamae Sangeetham",
-              "release_date": "2026-09-04",
-              "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
-              "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg"
+              "tmdb_id": 334103,
+              "title": "Ghost Meets Gal!",
+              "release_date": "2026-09-05",
+              "poster_path": "/lmckivRH2w5KDzCaX3jc9EWAFPj.jpg",
+              "backdrop_path": "/tRKExfBgUi4LzZ4z1bZ0W7RRg6w.jpg"
             }
           ]
         },
@@ -5095,7 +5095,7 @@
               "title": "Deadly Tag",
               "release_date": "2026-09-30",
               "poster_path": "/1zAyr7XTzeOIcjgUReuOob0DrjF.jpg",
-              "backdrop_path": "/hAIIBohcEO7p9D5rD943M8xpecQ.jpg"
+              "backdrop_path": "/otMxoTaxvkj1hci9tJrgd1o51mq.jpg"
             },
             {
               "media_type": "movie",
@@ -7260,11 +7260,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334569,
-              "title": "Chilean Mine Rescue: Race Against Time",
-              "release_date": "2026-09-25",
-              "poster_path": "/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg",
-              "backdrop_path": "/vUI8WrAZLlvxrT5GFdIVwcJINwu.jpg"
+              "tmdb_id": 336246,
+              "title": "Yacht Deals Monaco",
+              "release_date": "2026-09-30",
+              "poster_path": "/1z3IzPuYXXurmW9elHMowtSIX9d.jpg",
+              "backdrop_path": "/1ePEvUMA7yBMqRUolh4dgLWVC2s.jpg"
             },
             {
               "media_type": "movie",
@@ -7276,11 +7276,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 333483,
-              "title": "Hunkkaar: The Roar",
+              "tmdb_id": 334569,
+              "title": "Chilean Mine Rescue: Race Against Time",
               "release_date": "2026-09-25",
-              "poster_path": "/uL2qCVBou6WYMRxMbP5olmBpTjD.jpg",
-              "backdrop_path": "/6zENIpSZvMGh2gfMKBeatpRtgX.jpg"
+              "poster_path": "/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg",
+              "backdrop_path": "/vUI8WrAZLlvxrT5GFdIVwcJINwu.jpg"
             },
             {
               "media_type": "movie",
@@ -7292,11 +7292,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 335571,
-              "title": "The Real Rooneys",
-              "release_date": "2026-09-24",
-              "poster_path": "/yIu8AuGmtUKQRdKGGCq6SgLYvl2.jpg",
-              "backdrop_path": "/uUMK43Cj0ZvwwD67TiIn8JIiBmp.jpg"
+              "tmdb_id": 333483,
+              "title": "Hunkkaar: The Roar",
+              "release_date": "2026-09-25",
+              "poster_path": "/uL2qCVBou6WYMRxMbP5olmBpTjD.jpg",
+              "backdrop_path": "/6zENIpSZvMGh2gfMKBeatpRtgX.jpg"
             },
             {
               "media_type": "movie",
@@ -7308,11 +7308,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332401,
-              "title": "City of Blood",
-              "release_date": "2026-09-16",
-              "poster_path": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-              "backdrop_path": "/icPBB9V5IX1hggtNs1fvskP2lsi.jpg"
+              "tmdb_id": 335571,
+              "title": "The Real Rooneys",
+              "release_date": "2026-09-24",
+              "poster_path": "/yIu8AuGmtUKQRdKGGCq6SgLYvl2.jpg",
+              "backdrop_path": "/uUMK43Cj0ZvwwD67TiIn8JIiBmp.jpg"
             },
             {
               "media_type": "movie",
@@ -7321,6 +7321,22 @@
               "release_date": "2026-08-07",
               "poster_path": "/ueIkf1QS8yy88CyX1TniCLd18Aj.jpg",
               "backdrop_path": "/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 332401,
+              "title": "City of Blood",
+              "release_date": "2026-09-16",
+              "poster_path": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+              "backdrop_path": "/icPBB9V5IX1hggtNs1fvskP2lsi.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1307118,
+              "title": "Soulm8te",
+              "release_date": "2026-08-01",
+              "poster_path": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7393,22 +7409,6 @@
               "release_date": "2026-09-07",
               "poster_path": "/yAwVbaFO4HsfQDm0kgoKIU8yVn8.jpg",
               "backdrop_path": "/tR3SL1ddL5wLJiySOlklW5aQMzw.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1723068,
-              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
-              "release_date": "2026-07-05",
-              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 334710,
-              "title": "StraightioLab",
-              "release_date": "2026-09-07",
-              "poster_path": "/3l8Irngoc6kk3ysViPbDEZsqByr.jpg",
-              "backdrop_path": "/nHSL1F6fKvG2oy24Mn7jVENVaK7.jpg"
             }
           ]
         }
@@ -7857,11 +7857,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
+              "tmdb_id": 680493,
+              "title": "Return to Silent Hill",
               "release_date": "2026-01-22",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
+              "poster_path": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+              "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7873,11 +7873,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-26",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-22",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7889,11 +7889,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1581761,
-              "title": "The Kick That United A Nation",
-              "release_date": "2025-11-14",
-              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
-              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
+              "tmdb_id": 991494,
+              "title": "The SpongeBob Movie: Search for SquarePants",
+              "release_date": "2025-12-26",
+              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7905,11 +7905,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 798645,
-              "title": "The Running Man",
-              "release_date": "2025-11-13",
-              "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-              "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg"
+              "tmdb_id": 1581761,
+              "title": "The Kick That United A Nation",
+              "release_date": "2025-11-14",
+              "poster_path": "/o8f4qdwYzZUqwMtUazlA0wbjUpG.jpg",
+              "backdrop_path": "/m2XW5JUvUA1HfdCDLIitRZbASkM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8275,11 +8275,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1127628,
-              "title": "The Thing with Feathers",
-              "release_date": "2025-10-01",
-              "poster_path": "/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
-              "backdrop_path": "/yzgTMSFkhMdCG1VtMnChGI6rKxF.jpg"
+              "tmdb_id": 1508191,
+              "title": "Ozzy: No Escape from Now",
+              "release_date": "2025-10-07",
+              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8291,11 +8291,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1508191,
-              "title": "Ozzy: No Escape from Now",
-              "release_date": "2025-10-07",
-              "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
-              "backdrop_path": "/qUTXVONhIelFdBXvSJW6rPWv9LN.jpg"
+              "tmdb_id": 1161617,
+              "title": "Code 3",
+              "release_date": "2026-01-22",
+              "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8307,11 +8307,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1530875,
-              "title": "All the Devils Are Here",
-              "release_date": "2025-10-01",
-              "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
-              "backdrop_path": "/jiW3TaZtpMQgMfVnMn5Nmciqhdv.jpg"
+              "tmdb_id": 1215798,
+              "title": "The Cut",
+              "release_date": "2025-12-12",
+              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8323,11 +8323,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1161617,
-              "title": "Code 3",
-              "release_date": "2026-01-22",
-              "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
-              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
+              "tmdb_id": 1251717,
+              "title": "Vicious",
+              "release_date": "2025-08-06",
+              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8339,11 +8339,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1215798,
-              "title": "The Cut",
-              "release_date": "2025-12-12",
-              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
-              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
+              "tmdb_id": 1512623,
+              "title": "Risqu\u00e9",
+              "release_date": "2026-02-22",
+              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8355,11 +8355,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1251717,
-              "title": "Vicious",
-              "release_date": "2025-08-06",
-              "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
-              "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg"
+              "tmdb_id": 1232933,
+              "title": "Fear Below",
+              "release_date": "2026-01-29",
+              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
+              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8371,11 +8371,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1512623,
-              "title": "Risqu\u00e9",
-              "release_date": "2026-02-22",
-              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
+              "tmdb_id": 1195506,
+              "title": "Novocaine",
+              "release_date": "2025-03-26",
+              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8387,11 +8387,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1232933,
-              "title": "Fear Below",
-              "release_date": "2026-01-29",
-              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
-              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
+              "tmdb_id": 1302916,
+              "title": "Heart Eyes",
+              "release_date": "2025-02-06",
+              "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+              "backdrop_path": "/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8403,11 +8403,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1195506,
-              "title": "Novocaine",
-              "release_date": "2025-03-26",
-              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
+              "tmdb_id": 1140535,
+              "title": "Presence",
+              "release_date": "2025-02-05",
+              "poster_path": "/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",
+              "backdrop_path": "/eT1L3IVcHUL58wLn48E5dxlea3Z.jpg"
             },
             {
               "media_type": "tvshow",

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T17:11:32Z",
+  "generated_at": "2026-11-16T20:29:41Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -56,11 +56,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -72,11 +72,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -88,11 +88,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -104,11 +104,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -120,11 +120,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -136,11 +136,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -152,11 +152,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341165,
-              "title": "Kauriburi: The Cursed Temple",
-              "release_date": "2026-11-06",
-              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
-              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -168,11 +168,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
+              "tmdb_id": 341165,
+              "title": "Kauriburi: The Cursed Temple",
               "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
             }
           ]
         },
@@ -222,11 +222,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -238,11 +238,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -254,11 +254,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341165,
-              "title": "Kauriburi: The Cursed Temple",
-              "release_date": "2026-11-06",
-              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
-              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
+              "tmdb_id": 341165,
+              "title": "Kauriburi: The Cursed Temple",
               "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
             }
           ]
         },
@@ -424,7 +424,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -439,7 +439,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -554,11 +554,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -570,11 +570,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -586,11 +586,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341165,
-              "title": "Kauriburi: The Cursed Temple",
-              "release_date": "2026-11-06",
-              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
-              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
+              "tmdb_id": 341165,
+              "title": "Kauriburi: The Cursed Temple",
               "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
             }
           ]
         },
@@ -756,7 +756,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -771,7 +771,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -779,7 +779,7 @@
               "tmdb_id": 1441228,
               "title": "Irumudi",
               "release_date": "2026-08-21",
-              "poster_path": "/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+              "poster_path": "/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
               "backdrop_path": "/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg"
             },
             {
@@ -922,7 +922,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -937,7 +937,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -1052,11 +1052,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1068,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -1132,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -1148,11 +1148,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             },
             {
               "media_type": "movie",
@@ -1164,11 +1164,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
+              "tmdb_id": 338684,
+              "title": "Taken: Natalee Holloway",
               "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
+              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
             }
           ]
         },
@@ -1218,11 +1218,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1234,11 +1234,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -1250,11 +1250,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -1266,11 +1266,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1282,11 +1282,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -1298,11 +1298,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -1314,11 +1314,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             },
             {
               "media_type": "movie",
@@ -1330,11 +1330,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
+              "tmdb_id": 338684,
+              "title": "Taken: Natalee Holloway",
               "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
+              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
             }
           ]
         },
@@ -1384,11 +1384,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1400,11 +1400,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -1416,11 +1416,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -1432,11 +1432,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1448,11 +1448,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -1464,11 +1464,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -1480,11 +1480,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             },
             {
               "media_type": "movie",
@@ -1496,11 +1496,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
+              "tmdb_id": 338684,
+              "title": "Taken: Natalee Holloway",
               "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
+              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
             }
           ]
         },
@@ -1510,11 +1510,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
-              "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg"
+              "tmdb_id": 1825023,
+              "title": "Che bella giornata!",
+              "release_date": "2026-11-15",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -1526,11 +1526,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1654940,
-              "title": "One Year to Live, Buy a Man",
-              "release_date": "2026-11-05",
-              "poster_path": "/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
-              "backdrop_path": "/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1539,6 +1539,22 @@
               "release_date": "2026-11-13",
               "poster_path": "/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
               "backdrop_path": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1654940,
+              "title": "One Year to Live, Buy a Man",
+              "release_date": "2026-11-05",
+              "poster_path": "/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+              "backdrop_path": "/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
+              "release_date": "2026-11-12",
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1586,7 +1602,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1601,7 +1617,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -1651,22 +1667,6 @@
               "release_date": "2026-11-04",
               "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
               "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1514863,
-              "title": "Best of the Best",
-              "release_date": "2026-09-18",
-              "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-              "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
-              "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
             }
           ]
         },
@@ -1716,11 +1716,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1732,11 +1732,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341165,
-              "title": "Kauriburi: The Cursed Temple",
-              "release_date": "2026-11-06",
-              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
-              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
+              "tmdb_id": 341165,
+              "title": "Kauriburi: The Cursed Temple",
               "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
             }
           ]
         },
@@ -1882,11 +1882,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -1898,11 +1898,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -1914,11 +1914,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -1930,11 +1930,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -1946,11 +1946,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -1962,11 +1962,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -1978,11 +1978,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             },
             {
               "media_type": "movie",
@@ -1994,11 +1994,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
+              "tmdb_id": 338684,
+              "title": "Taken: Natalee Holloway",
               "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
+              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
             }
           ]
         },
@@ -2048,11 +2048,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -2064,11 +2064,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -2080,11 +2080,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -2096,10 +2096,26 @@
             },
             {
               "media_type": "tvshow",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
+              "release_date": "2026-11-11",
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1621552,
+              "title": "Facing El Chapo",
+              "release_date": "2026-08-21",
+              "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+              "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+            },
+            {
+              "media_type": "tvshow",
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -2149,22 +2165,6 @@
               "release_date": "2026-11-04",
               "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
               "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1468683,
-              "title": "Heartstopper Forever",
-              "release_date": "2026-07-17",
-              "poster_path": "/msN87xAXVdHjIcL2aijzY08rOqO.jpg",
-              "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 312006,
-              "title": "Anaesthesia",
-              "release_date": "2026-11-04",
-              "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-              "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg"
             }
           ]
         },
@@ -2250,7 +2250,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -2265,7 +2265,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -2416,7 +2416,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -2431,7 +2431,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -2546,11 +2546,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -2562,11 +2562,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -2578,11 +2578,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -2594,11 +2594,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -2610,11 +2610,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -2626,11 +2626,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -2642,11 +2642,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -2658,11 +2658,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             }
           ]
         },
@@ -2712,11 +2712,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -2728,11 +2728,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,27 +2776,27 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
               "tmdb_id": 1743695,
               "title": "El Club del Pie Izquierdo",
               "release_date": "2026-09-10",
-              "poster_path": "/v6b6cclN83KM8AM6NLSphumlstO.jpg",
+              "poster_path": "/dcUSa8KQJvLjpdncudIIvmy6Sx8.jpg",
               "backdrop_path": "/6dDCdPSp7ULB1zYimKDE9D48795.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
-              "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338684,
-              "title": "Taken: Natalee Holloway",
-              "release_date": "2026-11-04",
-              "poster_path": "/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
-              "backdrop_path": "/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+              "tmdb_id": 297491,
+              "title": "Under Siege",
+              "release_date": "2026-11-06",
+              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
             }
           ]
         },
@@ -2873,7 +2873,7 @@
               "tmdb_id": 1777750,
               "title": "Detective Conan: The Counterfeit Case of Ultra 30",
               "release_date": "2026-09-25",
-              "poster_path": "/6nSnDb9TMH5axmkJMhOpw0v6bE7.jpg",
+              "poster_path": "/io19chlZOFbFcdH1FGguKu1YN77.jpg",
               "backdrop_path": "/v0T74v8LPZBSL247oGeTOp06tnm.jpg"
             },
             {
@@ -2914,7 +2914,7 @@
               "title": "ChiaroScuro",
               "release_date": "2026-11-11",
               "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -2929,7 +2929,7 @@
               "tmdb_id": 291507,
               "title": "The Body",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
               "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
@@ -3060,11 +3060,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 326975,
-              "title": "What a Boss Wants",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
-              "backdrop_path": "/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 326975,
+              "title": "What a Boss Wants",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
+              "backdrop_path": "/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -3156,11 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             }
           ]
         },
@@ -3210,11 +3210,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 312661,
-              "title": "Miracles of the ER",
+              "tmdb_id": 335981,
+              "title": "Cunk on Cinema",
               "release_date": "2026-11-12",
-              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
-              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
+              "poster_path": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+              "backdrop_path": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg"
             },
             {
               "media_type": "movie",
@@ -3226,11 +3226,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338562,
-              "title": "Alicia's Law",
-              "release_date": "2026-11-11",
-              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
+              "tmdb_id": 312661,
+              "title": "Miracles of the ER",
+              "release_date": "2026-11-12",
+              "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+              "backdrop_path": "/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg"
             },
             {
               "media_type": "movie",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336243,
-              "title": "ChiaroScuro",
+              "tmdb_id": 338562,
+              "title": "Alicia's Law",
               "release_date": "2026-11-11",
-              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-              "backdrop_path": "/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg"
+              "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+              "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 291507,
-              "title": "The Body",
+              "tmdb_id": 336243,
+              "title": "ChiaroScuro",
               "release_date": "2026-11-11",
-              "poster_path": "/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
+              "poster_path": "/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+              "backdrop_path": "/wM62vjwgxjQTlXX76xmQS1T49O2.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336478,
-              "title": "Doozie's Doghouse",
-              "release_date": "2026-11-09",
-              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
-              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
+              "tmdb_id": 291507,
+              "title": "The Body",
+              "release_date": "2026-11-11",
+              "poster_path": "/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+              "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 306936,
-              "title": "Oxytoxin",
-              "release_date": "2026-11-07",
-              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
-              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
+              "tmdb_id": 336478,
+              "title": "Doozie's Doghouse",
+              "release_date": "2026-11-09",
+              "poster_path": "/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+              "backdrop_path": "/s0QcyTh2EPq53MhunhnsP91uKQl.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341165,
-              "title": "Kauriburi: The Cursed Temple",
-              "release_date": "2026-11-06",
-              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
-              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
+              "tmdb_id": 306936,
+              "title": "Oxytoxin",
+              "release_date": "2026-11-07",
+              "poster_path": "/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg",
+              "backdrop_path": "/yXkRoVxzXRl23nZcLABWfiAlTye.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 297491,
-              "title": "Under Siege",
+              "tmdb_id": 341165,
+              "title": "Kauriburi: The Cursed Temple",
               "release_date": "2026-11-06",
-              "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-              "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg"
+              "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+              "backdrop_path": "/aNssC8DYVDAta9o6n5OtowepKTe.jpg"
             }
           ]
         }
@@ -3517,7 +3517,7 @@
               "title": "Bouma",
               "release_date": "2026-11-13",
               "poster_path": "/l526Yk6NJeEhxSx9dmRMPOwt3tT.jpg",
-              "backdrop_path": ""
+              "backdrop_path": "/yXE0tNY9LkqOMhoUWP8az68oVbt.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3532,8 +3532,8 @@
               "tmdb_id": 1804649,
               "title": "Kalocsa",
               "release_date": "2026-11-07",
-              "poster_path": "/w51ILgo5ggmFxSWwSuVpj1cBPuH.jpg",
-              "backdrop_path": ""
+              "poster_path": "/1eBXSJExWZqV8P9TXm790RbunNm.jpg",
+              "backdrop_path": "/1utlrn6bRb3HMAfxU521VD1ATYQ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4107,7 +4107,7 @@
               "title": "A Proud Family Wizmas",
               "release_date": "2026-11-14",
               "poster_path": "/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
-              "backdrop_path": "/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg"
+              "backdrop_path": "/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4741,7 +4741,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             }
           ]
         },
@@ -4891,7 +4891,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -5073,7 +5073,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             }
           ]
         },
@@ -5083,11 +5083,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1750432,
-              "title": "Spidey and the Avengers: Halloween Team-Up!",
-              "release_date": "2026-09-25",
-              "poster_path": "/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-              "backdrop_path": "/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg"
+              "tmdb_id": 1716604,
+              "title": "A Proud Family Wizmas",
+              "release_date": "2026-11-14",
+              "poster_path": "/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+              "backdrop_path": "/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5099,11 +5099,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1770842,
-              "title": "Max vs 100",
-              "release_date": "2026-09-16",
-              "poster_path": "/mHbOZIrkSkoxpKLGfk1577GjRPb.jpg",
-              "backdrop_path": "/7PLe3tUKYxm8HlnME3LQbF8Wab4.jpg"
+              "tmdb_id": 1750432,
+              "title": "Spidey and the Avengers: Halloween Team-Up!",
+              "release_date": "2026-09-25",
+              "poster_path": "/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+              "backdrop_path": "/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5115,11 +5115,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-10",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1770842,
+              "title": "Max vs 100",
+              "release_date": "2026-09-16",
+              "poster_path": "/mHbOZIrkSkoxpKLGfk1577GjRPb.jpg",
+              "backdrop_path": "/7PLe3tUKYxm8HlnME3LQbF8Wab4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5131,11 +5131,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1731694,
-              "title": "LEGO Star Wars: The Mandalorian",
-              "release_date": "2026-09-02",
-              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-10",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5147,11 +5147,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1729723,
-              "title": "Yellow Mirror",
-              "release_date": "2026-08-26",
-              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
+              "tmdb_id": 1731694,
+              "title": "LEGO Star Wars: The Mandalorian",
+              "release_date": "2026-09-02",
+              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5163,11 +5163,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732625,
-              "title": "LEGO Disney Princess: Magical Mayhem",
-              "release_date": "2026-08-21",
-              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
+              "tmdb_id": 1729723,
+              "title": "Yellow Mirror",
+              "release_date": "2026-08-26",
+              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5179,11 +5179,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5195,11 +5195,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728113,
-              "title": "KATSEYE: Wild Hearts",
-              "release_date": "2026-08-12",
-              "poster_path": "/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
-              "backdrop_path": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5211,11 +5211,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 675871,
-              "title": "Super Troopers 3",
-              "release_date": "2026-09-22",
-              "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-              "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg"
+              "tmdb_id": 1728113,
+              "title": "KATSEYE: Wild Hearts",
+              "release_date": "2026-08-12",
+              "poster_path": "/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
+              "backdrop_path": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5223,15 +5223,15 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1307118,
-              "title": "Soulm8te",
-              "release_date": "2026-10-01",
-              "poster_path": "/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
-              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
+              "tmdb_id": 675871,
+              "title": "Super Troopers 3",
+              "release_date": "2026-09-22",
+              "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+              "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5373,7 +5373,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -5415,11 +5415,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1788735,
-              "title": "Family Guy Happy Hell-o-ween",
-              "release_date": "2026-10-05",
-              "poster_path": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-              "backdrop_path": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg"
+              "tmdb_id": 1716604,
+              "title": "A Proud Family Wizmas",
+              "release_date": "2026-11-15",
+              "poster_path": "/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+              "backdrop_path": "/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5431,11 +5431,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-11",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1788735,
+              "title": "Family Guy Happy Hell-o-ween",
+              "release_date": "2026-10-05",
+              "poster_path": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+              "backdrop_path": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5447,11 +5447,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-11",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5463,11 +5463,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728113,
-              "title": "KATSEYE: Wild Hearts",
-              "release_date": "2026-08-12",
-              "poster_path": "/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
-              "backdrop_path": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5479,11 +5479,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1307118,
-              "title": "Soulm8te",
-              "release_date": "2026-10-01",
-              "poster_path": "/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
-              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
+              "tmdb_id": 1728113,
+              "title": "KATSEYE: Wild Hearts",
+              "release_date": "2026-08-12",
+              "poster_path": "/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
+              "backdrop_path": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5495,11 +5495,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-16",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1307118,
+              "title": "Soulm8te",
+              "release_date": "2026-10-01",
+              "poster_path": "/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
+              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5511,11 +5511,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1108427,
-              "title": "Moana",
-              "release_date": "2026-07-08",
-              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-16",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5527,11 +5527,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1723068,
-              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
-              "release_date": "2026-07-05",
-              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
+              "tmdb_id": 1108427,
+              "title": "Moana",
+              "release_date": "2026-07-08",
+              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5543,11 +5543,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716513,
-              "title": "Extreme Makeover: Homer Edition",
-              "release_date": "2026-06-17",
-              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
+              "tmdb_id": 1723068,
+              "title": "Hammerhead Sharks Up Close with Bertie Gregory",
+              "release_date": "2026-07-05",
+              "poster_path": "/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+              "backdrop_path": "/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5555,15 +5555,15 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1084244,
-              "title": "Toy Story 5",
+              "tmdb_id": 1716513,
+              "title": "Extreme Makeover: Homer Edition",
               "release_date": "2026-06-17",
-              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5581,11 +5581,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-10",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1825023,
+              "title": "Che bella giornata!",
+              "release_date": "2026-11-15",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -5597,11 +5597,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732625,
-              "title": "LEGO Disney Princess: Magical Mayhem",
-              "release_date": "2026-08-21",
-              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-10",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5613,11 +5613,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5629,11 +5629,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728954,
-              "title": "My Grandfather Charles Manson",
-              "release_date": "2026-07-22",
-              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
-              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5645,11 +5645,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-17",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1728954,
+              "title": "My Grandfather Charles Manson",
+              "release_date": "2026-07-22",
+              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5661,11 +5661,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1108427,
-              "title": "Moana",
-              "release_date": "2026-08-19",
-              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-17",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5677,11 +5677,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1084244,
-              "title": "Toy Story 5",
-              "release_date": "2026-06-18",
-              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+              "tmdb_id": 1108427,
+              "title": "Moana",
+              "release_date": "2026-08-19",
+              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5693,11 +5693,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1703943,
-              "title": "Marra Stadi San Siro 2025",
-              "release_date": "2026-05-29",
-              "poster_path": "/5tWHQyBOQeSuCT81CXy7fGZxieG.jpg",
-              "backdrop_path": "/2qo7a9Xo5gPK8uR0y9yJYFRts1Y.jpg"
+              "tmdb_id": 1084244,
+              "title": "Toy Story 5",
+              "release_date": "2026-06-18",
+              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5705,15 +5705,15 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679085,
-              "title": "KING MARRACASH",
-              "release_date": "2026-05-25",
-              "poster_path": "/fu4qJ18VpxvFjY1abZ13xlVS2id.jpg",
-              "backdrop_path": "/k00UQmxsI0HHTXl4ptwguXq4Ghb.jpg"
+              "tmdb_id": 1703943,
+              "title": "Marra Stadi San Siro 2025",
+              "release_date": "2026-05-29",
+              "poster_path": "/5tWHQyBOQeSuCT81CXy7fGZxieG.jpg",
+              "backdrop_path": "/2qo7a9Xo5gPK8uR0y9yJYFRts1Y.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5725,11 +5725,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1228710,
-              "title": "The Mandalorian and Grogu",
-              "release_date": "2026-05-20",
-              "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
-              "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
+              "tmdb_id": 1679085,
+              "title": "KING MARRACASH",
+              "release_date": "2026-05-25",
+              "poster_path": "/fu4qJ18VpxvFjY1abZ13xlVS2id.jpg",
+              "backdrop_path": "/k00UQmxsI0HHTXl4ptwguXq4Ghb.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5903,7 +5903,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             }
           ]
         },
@@ -6053,7 +6053,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -6219,7 +6219,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -6385,7 +6385,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -6551,7 +6551,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -7065,7 +7065,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             }
           ]
         },
@@ -7215,7 +7215,7 @@
               "title": "VisionQuest",
               "release_date": "2026-10-13",
               "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-              "backdrop_path": "/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg"
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             },
             {
               "media_type": "movie",
@@ -7441,7 +7441,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -7607,7 +7607,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -7773,7 +7773,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -7908,7 +7908,7 @@
               "tmdb_id": 680493,
               "title": "Return to Silent Hill",
               "release_date": "2026-01-22",
-              "poster_path": "/wR7SLLw8me86JTf0a0o3KScJD7r.jpg",
+              "poster_path": "/4xf7KoifUAjMbhSRcjuZv4Eu0FQ.jpg",
               "backdrop_path": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg"
             },
             {
@@ -7939,7 +7939,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8105,7 +8105,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8271,7 +8271,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8379,11 +8379,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 229544,
-              "title": "Among Us",
-              "release_date": "2026-06-05",
-              "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
-              "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg"
+              "tmdb_id": 8840,
+              "title": "Fightland",
+              "release_date": "2026-07-31",
+              "poster_path": "/dPHG2GEIFHkjMtswYltBAEU4UK4.jpg",
+              "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
             },
             {
               "media_type": "movie",
@@ -8395,11 +8395,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 299167,
-              "title": "Dutton Ranch",
-              "release_date": "2026-05-15",
-              "poster_path": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-              "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg"
+              "tmdb_id": 229544,
+              "title": "Among Us",
+              "release_date": "2026-06-05",
+              "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+              "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg"
             },
             {
               "media_type": "movie",
@@ -8411,11 +8411,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 262388,
-              "title": "M.I.A.",
-              "release_date": "2026-05-07",
-              "poster_path": "/szRt55O3qiw1qCSbDyrQOI2tcaI.jpg",
-              "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg"
+              "tmdb_id": 299167,
+              "title": "Dutton Ranch",
+              "release_date": "2026-05-15",
+              "poster_path": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+              "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg"
             }
           ]
         },
@@ -8437,7 +8437,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8603,7 +8603,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8743,11 +8743,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 229544,
-              "title": "Among Us",
-              "release_date": "2026-06-05",
-              "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
-              "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg"
+              "tmdb_id": 8840,
+              "title": "Fightland",
+              "release_date": "2026-07-31",
+              "poster_path": "/dPHG2GEIFHkjMtswYltBAEU4UK4.jpg",
+              "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
             }
           ]
         },
@@ -8769,7 +8769,7 @@
               "title": "The Jigsaw Puzzle Murder",
               "release_date": "2026-11-12",
               "poster_path": "/qRlAfJ2wyxEp6MQkX47fhet5Ls9.jpg",
-              "backdrop_path": "/gLd9r8JtcJDMuUopR8ciy6yHiI5.jpg"
+              "backdrop_path": "/pA12JxsM7KppNLeQq5CU7G2aU7L.jpg"
             },
             {
               "media_type": "movie",
@@ -8869,11 +8869,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1279064,
-              "title": "Thereafter",
-              "release_date": "2025-11-13",
-              "poster_path": "/uV3DDJEc4AQlL1Aq7Olc12JA6x2.jpg",
-              "backdrop_path": "/joqAJMJQD0z7VZskHIVvxamRSXf.jpg"
+              "tmdb_id": 1103437,
+              "title": "Please Don't Feed the Children",
+              "release_date": "2025-11-27",
+              "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
+              "backdrop_path": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8885,11 +8885,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1103437,
-              "title": "Please Don't Feed the Children",
-              "release_date": "2025-11-27",
-              "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
-              "backdrop_path": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg"
+              "tmdb_id": 1279064,
+              "title": "Thereafter",
+              "release_date": "2025-11-13",
+              "poster_path": "/uV3DDJEc4AQlL1Aq7Olc12JA6x2.jpg",
+              "backdrop_path": "/joqAJMJQD0z7VZskHIVvxamRSXf.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8909,11 +8909,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 229544,
-              "title": "Among Us",
-              "release_date": "2026-06-05",
-              "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
-              "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg"
+              "tmdb_id": 8840,
+              "title": "Fightland",
+              "release_date": "2026-07-31",
+              "poster_path": "/dPHG2GEIFHkjMtswYltBAEU4UK4.jpg",
+              "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
             }
           ]
         }

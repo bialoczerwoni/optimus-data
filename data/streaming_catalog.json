@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-27T19:28:29Z",
+  "generated_at": "2026-11-28T18:14:35Z",
   "source": {
     "top10": "flixpatrol",
     "recently_added": "tmdb_discover"
@@ -16,11 +16,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1824177,
-              "title": "Nate Bargatze: Good for Nathan",
-              "release_date": "2026-11-24",
-              "poster_path": "/aqm45GsPV9G2tKJJivOaNOPYxIi.jpg",
-              "backdrop_path": "/d7iRfSCWnJZpB05wLEvedMMNDzA.jpg"
+              "tmdb_id": 1811599,
+              "title": "Tyson Fury",
+              "release_date": "2026-11-27",
+              "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+              "backdrop_path": "/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -32,11 +32,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -48,11 +48,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1599329,
-              "title": "All for Christmas",
+              "tmdb_id": 1824177,
+              "title": "Nate Bargatze: Good for Nathan",
               "release_date": "2026-11-24",
-              "poster_path": "/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
-              "backdrop_path": "/umIrgCdfDgZXXlzMCkLk38CURs.jpg"
+              "poster_path": "/aqm45GsPV9G2tKJJivOaNOPYxIi.jpg",
+              "backdrop_path": "/d7iRfSCWnJZpB05wLEvedMMNDzA.jpg"
             },
             {
               "media_type": "tvshow",
@@ -64,11 +64,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1829270,
-              "title": "Chiara Ferragni: Front Facing",
-              "release_date": "2026-11-23",
-              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
-              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -80,11 +80,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1599329,
+              "title": "All for Christmas",
+              "release_date": "2026-11-24",
+              "poster_path": "/h0IsIi6QxeFfsobZHABfyP3krHV.jpg",
+              "backdrop_path": "/umIrgCdfDgZXXlzMCkLk38CURs.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1829270,
+              "title": "Chiara Ferragni: Front Facing",
+              "release_date": "2026-11-23",
+              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -96,11 +112,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1551025,
-              "title": "Guarding Stars",
-              "release_date": "2026-11-18",
-              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -112,11 +128,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1827471,
-              "title": "Mike Ward: Modest",
-              "release_date": "2026-11-17",
-              "poster_path": "/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
-              "backdrop_path": "/uCMyoi0t8c49qXVyG3tRXCHujfn.jpg"
+              "tmdb_id": 1551025,
+              "title": "Guarding Stars",
+              "release_date": "2026-11-18",
+              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -128,11 +144,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1791730,
-              "title": "Primetime Preacher$",
-              "release_date": "2026-11-14",
-              "poster_path": "/pnMVyfJevpBCpElzKglYb8pD3hf.jpg",
-              "backdrop_path": "/kWuGqljCzwqRm36qDXU85Yh6VhM.jpg"
+              "tmdb_id": 1827471,
+              "title": "Mike Ward: Modest",
+              "release_date": "2026-11-17",
+              "poster_path": "/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+              "backdrop_path": "/uCMyoi0t8c49qXVyG3tRXCHujfn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -144,11 +160,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1823907,
-              "title": "Russell Brand: Open Secret",
-              "release_date": "2026-11-13",
-              "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
-              "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg"
+              "tmdb_id": 1791730,
+              "title": "Primetime Preacher$",
+              "release_date": "2026-11-14",
+              "poster_path": "/pnMVyfJevpBCpElzKglYb8pD3hf.jpg",
+              "backdrop_path": "/kWuGqljCzwqRm36qDXU85Yh6VhM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -157,22 +173,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1543469,
-              "title": "Heartland",
-              "release_date": "2026-11-13",
-              "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-              "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -201,7 +201,7 @@
               "tmdb_id": 1599329,
               "title": "All for Christmas",
               "release_date": "2026-11-24",
-              "poster_path": "/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+              "poster_path": "/h0IsIi6QxeFfsobZHABfyP3krHV.jpg",
               "backdrop_path": "/umIrgCdfDgZXXlzMCkLk38CURs.jpg"
             },
             {
@@ -250,15 +250,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -270,11 +270,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -286,11 +286,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -302,11 +302,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -318,11 +318,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -334,11 +334,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -348,11 +348,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1811599,
+              "title": "Tyson Fury",
+              "release_date": "2026-11-27",
+              "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+              "backdrop_path": "/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -364,11 +364,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -380,11 +380,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1551025,
-              "title": "Guarding Stars",
-              "release_date": "2026-11-18",
-              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -396,11 +396,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1823907,
-              "title": "Russell Brand: Open Secret",
-              "release_date": "2026-11-13",
-              "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
-              "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg"
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -412,11 +412,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1543469,
-              "title": "Heartland",
+              "tmdb_id": 1551025,
+              "title": "Guarding Stars",
+              "release_date": "2026-11-18",
+              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1823907,
+              "title": "Russell Brand: Open Secret",
               "release_date": "2026-11-13",
-              "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-              "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
+              "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+              "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg"
             },
             {
               "media_type": "tvshow",
@@ -428,11 +444,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1757174,
-              "title": "The Christmas Switch",
-              "release_date": "2026-11-12",
-              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
-              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
+              "tmdb_id": 1543469,
+              "title": "Heartland",
+              "release_date": "2026-11-13",
+              "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+              "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
             },
             {
               "media_type": "tvshow",
@@ -444,11 +460,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
+              "tmdb_id": 1757174,
+              "title": "The Christmas Switch",
               "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
             },
             {
               "media_type": "tvshow",
@@ -460,11 +476,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1666787,
-              "title": "Avedon",
-              "release_date": "2026-11-06",
-              "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-              "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -476,11 +492,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1760311,
-              "title": "Barbie in the Nutcracker",
-              "release_date": "2026-10-31",
-              "poster_path": "/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
-              "backdrop_path": "/czsbtCblVWyJD2ZsR3vVbJpBe72.jpg"
+              "tmdb_id": 1666787,
+              "title": "Avedon",
+              "release_date": "2026-11-06",
+              "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+              "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -489,22 +505,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1571955,
-              "title": "Collision Course",
-              "release_date": "2026-10-30",
-              "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-              "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -582,15 +582,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -602,11 +602,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -618,11 +618,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -634,11 +634,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -650,11 +650,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -666,11 +666,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -684,7 +684,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -752,11 +752,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -768,11 +768,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -784,11 +784,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -800,11 +800,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -816,11 +816,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -832,11 +832,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -854,11 +854,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 338930,
+              "title": "Always on Call",
+              "release_date": "2026-11-26",
+              "poster_path": "/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
+              "backdrop_path": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg"
             },
             {
               "media_type": "movie",
@@ -870,11 +870,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 326247,
+              "title": "Fool Night",
+              "release_date": "2026-11-26",
+              "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+              "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg"
             },
             {
               "media_type": "movie",
@@ -886,11 +886,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 313701,
+              "title": "A Filipino Christmas",
+              "release_date": "2026-11-26",
+              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
             },
             {
               "media_type": "movie",
@@ -902,11 +902,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 302837,
+              "title": "Toos: The Van der Valk Kidnapping",
+              "release_date": "2026-11-26",
+              "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+              "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
             },
             {
               "media_type": "movie",
@@ -914,15 +914,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
-              "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -934,11 +934,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -950,11 +950,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318420,
-              "title": "Valentina and the 12 Signs",
-              "release_date": "2026-11-18",
-              "poster_path": "/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-              "backdrop_path": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -966,11 +966,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341602,
-              "title": "Alan's Universe",
-              "release_date": "2026-11-14",
-              "poster_path": "/sjDSfy47Hafgt8qxj9ebfJtl5AG.jpg",
-              "backdrop_path": "/f5hgXsAWdYKmAbQJPhK6boAyxJR.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -982,11 +982,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341603,
-              "title": "Stars and Vows: Anele & Buzza",
-              "release_date": "2026-11-13",
-              "poster_path": "/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
-              "backdrop_path": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg"
+              "tmdb_id": 340280,
+              "title": "Gordon",
+              "release_date": "2026-11-18",
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -998,11 +998,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303182,
-              "title": "Murder in Galicia",
-              "release_date": "2026-11-13",
-              "poster_path": "/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-              "backdrop_path": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg"
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
+              "release_date": "2026-11-18",
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -1012,11 +1012,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1811599,
+              "title": "Tyson Fury",
+              "release_date": "2026-11-27",
+              "poster_path": "/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+              "backdrop_path": "/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1028,11 +1028,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1041,6 +1041,38 @@
               "release_date": "2026-11-26",
               "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
               "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 313701,
+              "title": "A Filipino Christmas",
+              "release_date": "2026-11-26",
+              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 302837,
+              "title": "Toos: The Van der Valk Kidnapping",
+              "release_date": "2026-11-26",
+              "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+              "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
             },
             {
               "media_type": "movie",
@@ -1052,11 +1084,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 313701,
-              "title": "A Filipino Christmas",
-              "release_date": "2026-11-26",
-              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
-              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -1068,11 +1100,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 302837,
-              "title": "Toos: The Van der Valk Kidnapping",
-              "release_date": "2026-11-26",
-              "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
-              "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -1084,11 +1116,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -1100,11 +1132,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -1116,22 +1148,6 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
-              "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
-            },
-            {
-              "media_type": "tvshow",
               "tmdb_id": 340280,
               "title": "Gordon",
               "release_date": "2026-11-18",
@@ -1140,11 +1156,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1559980,
-              "title": "The Gospel of Christmas",
-              "release_date": "2026-11-11",
-              "poster_path": "/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
-              "backdrop_path": "/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1153,22 +1169,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1794569,
-              "title": "Unprotected: Murder in Galicia",
-              "release_date": "2026-11-06",
-              "poster_path": "/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
-              "backdrop_path": "/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -1178,11 +1178,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1194,11 +1194,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1584779,
-              "title": "The Body in the Locker",
-              "release_date": "2026-04-13",
-              "poster_path": "/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
-              "backdrop_path": "/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg"
+              "tmdb_id": 1786829,
+              "title": "An Unexpected Christmas Plan",
+              "release_date": "2026-11-25",
+              "poster_path": "/k7T7oASsetNEfjDac9IYfaEEJOd.jpg",
+              "backdrop_path": "/jIkHqDc4jWKfDaf1T6YHmNqhKoG.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1210,11 +1210,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1801870,
-              "title": "Second Chance Holiday",
-              "release_date": "2026-11-17",
-              "poster_path": "/lSDX9TKJ0y4Jn5CDR0qLral5G2Z.jpg",
-              "backdrop_path": "/ocYYXEi2THSMFG25QR2SLtVH2jb.jpg"
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1226,11 +1226,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1771047,
-              "title": "A Match for Mr. Christmas",
-              "release_date": "2026-11-18",
-              "poster_path": "/2dSl2lGLY4xK26uke4Ofh1PFuQ1.jpg",
-              "backdrop_path": "/vw1jNsQ8OpxGywlsSNqwg8Tcldd.jpg"
+              "tmdb_id": 1584779,
+              "title": "The Body in the Locker",
+              "release_date": "2026-04-13",
+              "poster_path": "/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+              "backdrop_path": "/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1242,11 +1242,27 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1823907,
-              "title": "Russell Brand: Open Secret",
-              "release_date": "2026-11-13",
-              "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
-              "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg"
+              "tmdb_id": 1801870,
+              "title": "Second Chance Holiday",
+              "release_date": "2026-11-17",
+              "poster_path": "/lSDX9TKJ0y4Jn5CDR0qLral5G2Z.jpg",
+              "backdrop_path": "/ocYYXEi2THSMFG25QR2SLtVH2jb.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1771047,
+              "title": "A Match for Mr. Christmas",
+              "release_date": "2026-11-18",
+              "poster_path": "/2dSl2lGLY4xK26uke4Ofh1PFuQ1.jpg",
+              "backdrop_path": "/vw1jNsQ8OpxGywlsSNqwg8Tcldd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1258,11 +1274,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1543469,
-              "title": "Heartland",
+              "tmdb_id": 1823907,
+              "title": "Russell Brand: Open Secret",
               "release_date": "2026-11-13",
-              "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-              "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
+              "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+              "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1274,11 +1290,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
-              "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "tmdb_id": 1543469,
+              "title": "Heartland",
+              "release_date": "2026-11-13",
+              "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+              "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1290,11 +1306,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1800250,
-              "title": "The Sweetest Christmas Date",
-              "release_date": "2026-11-10",
-              "poster_path": "/pnO8USzjsQLcyJiZuBAu1UYYYqE.jpg",
-              "backdrop_path": "/jQsvmKFWQcWkgPqtY5bzzuMzpic.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1306,11 +1322,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1666787,
-              "title": "Avedon",
-              "release_date": "2026-05-17",
-              "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-              "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg"
+              "tmdb_id": 1800250,
+              "title": "The Sweetest Christmas Date",
+              "release_date": "2026-11-10",
+              "poster_path": "/pnO8USzjsQLcyJiZuBAu1UYYYqE.jpg",
+              "backdrop_path": "/jQsvmKFWQcWkgPqtY5bzzuMzpic.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1319,22 +1335,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1816668,
-              "title": "Ninho: Fame Ain\u2019t Worth It",
-              "release_date": "2026-11-04",
-              "poster_path": "/xy02UZTSEJWXeJXG4XGb4aWDxdP.jpg",
-              "backdrop_path": "/vwGjInWZImDB2AQnnrIt9775q6L.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -1360,11 +1360,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
-              "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "tmdb_id": 1506401,
+              "title": "The Child",
+              "release_date": "2026-11-13",
+              "poster_path": "/OnWBxkc0QVVhrFbIrfSQsZfuyr.jpg",
+              "backdrop_path": "/kkierrbus8z4QpsexmSg8QSKqak.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1376,11 +1376,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1794569,
-              "title": "Unprotected: Murder in Galicia",
-              "release_date": "2026-11-06",
-              "poster_path": "/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
-              "backdrop_path": "/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1392,11 +1392,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1666787,
-              "title": "Avedon",
-              "release_date": "2026-11-11",
-              "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-              "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg"
+              "tmdb_id": 1794569,
+              "title": "Unprotected: Murder in Galicia",
+              "release_date": "2026-11-06",
+              "poster_path": "/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
+              "backdrop_path": "/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1405,6 +1405,22 @@
               "release_date": "2026-11-26",
               "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
               "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1666787,
+              "title": "Avedon",
+              "release_date": "2026-11-11",
+              "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+              "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -1485,22 +1501,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1389172,
-              "title": "Reporting Live",
-              "release_date": "2026-10-09",
-              "poster_path": "/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
-              "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -1510,11 +1510,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1829270,
-              "title": "Chiara Ferragni: Front Facing",
-              "release_date": "2026-11-23",
-              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
-              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1526,11 +1526,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1829270,
+              "title": "Chiara Ferragni: Front Facing",
+              "release_date": "2026-11-23",
+              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1539,6 +1539,22 @@
               "release_date": "2026-11-26",
               "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
               "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 313701,
+              "title": "A Filipino Christmas",
+              "release_date": "2026-11-26",
+              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
             },
             {
               "media_type": "movie",
@@ -1562,15 +1578,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -1582,11 +1598,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -1598,11 +1614,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -1614,11 +1630,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -1630,11 +1646,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -1646,27 +1662,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1752355,
-              "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
-              "release_date": "2026-10-02",
-              "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
-              "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 318420,
-              "title": "Valentina and the 12 Signs",
-              "release_date": "2026-11-18",
-              "poster_path": "/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-              "backdrop_path": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -1680,7 +1680,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1748,11 +1748,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -1764,11 +1764,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -1780,11 +1780,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -1796,11 +1796,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -1812,11 +1812,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -1828,11 +1828,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -1842,11 +1842,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1858,11 +1858,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1757174,
-              "title": "The Christmas Switch",
-              "release_date": "2026-11-12",
-              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
-              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1874,11 +1874,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
+              "tmdb_id": 1757174,
+              "title": "The Christmas Switch",
               "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1890,11 +1890,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1236045,
-              "title": "Animals",
-              "release_date": "2026-10-09",
-              "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-              "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1906,11 +1906,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1752355,
-              "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
-              "release_date": "2026-10-02",
-              "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
-              "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg"
+              "tmdb_id": 1236045,
+              "title": "Animals",
+              "release_date": "2026-10-09",
+              "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+              "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1922,11 +1922,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1492640,
-              "title": "UNABOMBER",
-              "release_date": "2026-09-25",
-              "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-              "backdrop_path": "/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg"
+              "tmdb_id": 1752355,
+              "title": "Schumacher \u201994 \u2013 The Birth of a Legend",
+              "release_date": "2026-10-02",
+              "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+              "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1938,11 +1938,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1483525,
-              "title": "Possible Love",
-              "release_date": "2026-11-06",
-              "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-              "backdrop_path": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg"
+              "tmdb_id": 1492640,
+              "title": "UNABOMBER",
+              "release_date": "2026-09-25",
+              "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+              "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1954,11 +1954,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1558568,
-              "title": "Go Team!",
-              "release_date": "2026-09-11",
-              "poster_path": "/brPyXyvpYI87ybV3LXtaeLijVnw.jpg",
-              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
+              "tmdb_id": 1483525,
+              "title": "Possible Love",
+              "release_date": "2026-11-06",
+              "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+              "backdrop_path": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1970,11 +1970,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/bryabj342aiJaPirbcxMdS6Tde6.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+              "tmdb_id": 1558568,
+              "title": "Go Team!",
+              "release_date": "2026-09-11",
+              "poster_path": "/brPyXyvpYI87ybV3LXtaeLijVnw.jpg",
+              "backdrop_path": "/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -1986,11 +1986,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1760262,
-              "title": "Instadocs: The Decoy Plane",
-              "release_date": "2026-09-05",
-              "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-              "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg"
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/bryabj342aiJaPirbcxMdS6Tde6.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2008,11 +2008,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2024,11 +2024,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1616687,
-              "title": "Never Surrender",
-              "release_date": "2026-11-12",
-              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2040,11 +2040,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1236045,
-              "title": "Animals",
-              "release_date": "2026-10-09",
-              "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-              "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg"
+              "tmdb_id": 1616687,
+              "title": "Never Surrender",
+              "release_date": "2026-11-12",
+              "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2056,11 +2056,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1483525,
-              "title": "Possible Love",
-              "release_date": "2026-11-06",
-              "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
-              "backdrop_path": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg"
+              "tmdb_id": 1236045,
+              "title": "Animals",
+              "release_date": "2026-10-09",
+              "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+              "backdrop_path": "/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2072,11 +2072,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/bryabj342aiJaPirbcxMdS6Tde6.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
+              "tmdb_id": 1483525,
+              "title": "Possible Love",
+              "release_date": "2026-11-06",
+              "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+              "backdrop_path": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2088,11 +2088,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1762763,
-              "title": "Famous Last Words: Gloria Steinem",
-              "release_date": "2026-09-04",
-              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
-              "backdrop_path": "/pponILTfUrVS5mR7fDibXDoJxHs.jpg"
+              "tmdb_id": 1522689,
+              "title": "Why Did I Get Married Again?",
+              "release_date": "2026-09-09",
+              "poster_path": "/bryabj342aiJaPirbcxMdS6Tde6.jpg",
+              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2104,11 +2104,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 860508,
-              "title": "The Whisper Man",
-              "release_date": "2026-08-28",
-              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
+              "tmdb_id": 1762763,
+              "title": "Famous Last Words: Gloria Steinem",
+              "release_date": "2026-09-04",
+              "poster_path": "/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
+              "backdrop_path": "/pponILTfUrVS5mR7fDibXDoJxHs.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2120,11 +2120,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1504358,
-              "title": "Don't Say Good Luck",
-              "release_date": "2026-08-14",
-              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
+              "tmdb_id": 860508,
+              "title": "The Whisper Man",
+              "release_date": "2026-08-28",
+              "poster_path": "/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+              "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2136,11 +2136,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679730,
-              "title": "THE RIBBON HERO",
-              "release_date": "2026-08-08",
-              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
+              "tmdb_id": 1504358,
+              "title": "Don't Say Good Luck",
+              "release_date": "2026-08-14",
+              "poster_path": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+              "backdrop_path": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2152,11 +2152,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1284041,
-              "title": "The Last House",
-              "release_date": "2026-08-07",
-              "poster_path": "/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
-              "backdrop_path": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
+              "tmdb_id": 1679730,
+              "title": "THE RIBBON HERO",
+              "release_date": "2026-08-08",
+              "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+              "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2182,11 +2182,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 338930,
+              "title": "Always on Call",
+              "release_date": "2026-11-26",
+              "poster_path": "/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
+              "backdrop_path": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg"
             },
             {
               "media_type": "movie",
@@ -2194,15 +2194,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 326247,
+              "title": "Fool Night",
+              "release_date": "2026-11-26",
+              "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+              "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg"
             },
             {
               "media_type": "movie",
@@ -2214,11 +2214,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 313701,
+              "title": "A Filipino Christmas",
+              "release_date": "2026-11-26",
+              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
             },
             {
               "media_type": "movie",
@@ -2230,11 +2230,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 302837,
+              "title": "Toos: The Van der Valk Kidnapping",
+              "release_date": "2026-11-26",
+              "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+              "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
             },
             {
               "media_type": "movie",
@@ -2246,11 +2246,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
-              "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -2262,11 +2262,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -2278,11 +2278,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318420,
-              "title": "Valentina and the 12 Signs",
-              "release_date": "2026-11-18",
-              "poster_path": "/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-              "backdrop_path": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -2294,11 +2294,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341602,
-              "title": "Alan's Universe",
-              "release_date": "2026-11-14",
-              "poster_path": "/sjDSfy47Hafgt8qxj9ebfJtl5AG.jpg",
-              "backdrop_path": "/f5hgXsAWdYKmAbQJPhK6boAyxJR.jpg"
+              "tmdb_id": 340280,
+              "title": "Gordon",
+              "release_date": "2026-11-18",
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -2310,11 +2310,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341603,
-              "title": "Stars and Vows: Anele & Buzza",
-              "release_date": "2026-11-13",
-              "poster_path": "/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
-              "backdrop_path": "/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg"
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
+              "release_date": "2026-11-18",
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             },
             {
               "media_type": "movie",
@@ -2326,11 +2326,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303182,
-              "title": "Murder in Galicia",
-              "release_date": "2026-11-13",
-              "poster_path": "/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-              "backdrop_path": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg"
+              "tmdb_id": 332839,
+              "title": "The Law of Beasts",
+              "release_date": "2026-11-18",
+              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
+              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -2344,7 +2344,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2506,11 +2506,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1802703,
-              "title": "Rob Lowe: The Outsider",
-              "release_date": "2026-11-24",
-              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
-              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2522,11 +2522,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1829270,
-              "title": "Chiara Ferragni: Front Facing",
-              "release_date": "2026-11-23",
-              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
-              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
+              "tmdb_id": 1802703,
+              "title": "Rob Lowe: The Outsider",
+              "release_date": "2026-11-24",
+              "poster_path": "/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+              "backdrop_path": "/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2538,11 +2538,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1595124,
-              "title": "Steps",
-              "release_date": "2026-11-20",
-              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+              "tmdb_id": 1829270,
+              "title": "Chiara Ferragni: Front Facing",
+              "release_date": "2026-11-23",
+              "poster_path": "/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+              "backdrop_path": "/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2554,11 +2554,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1551025,
-              "title": "Guarding Stars",
-              "release_date": "2026-11-18",
-              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+              "tmdb_id": 1595124,
+              "title": "Steps",
+              "release_date": "2026-11-20",
+              "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+              "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2567,6 +2567,22 @@
               "release_date": "2026-11-26",
               "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
               "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1551025,
+              "title": "Guarding Stars",
+              "release_date": "2026-11-18",
+              "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+              "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -2618,11 +2634,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1757174,
-              "title": "The Christmas Switch",
-              "release_date": "2026-11-12",
-              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
-              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
+              "tmdb_id": 1506401,
+              "title": "The Child",
+              "release_date": "2026-11-27",
+              "poster_path": "/OnWBxkc0QVVhrFbIrfSQsZfuyr.jpg",
+              "backdrop_path": "/kkierrbus8z4QpsexmSg8QSKqak.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2634,11 +2650,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1518204,
-              "title": "Allen",
+              "tmdb_id": 1757174,
+              "title": "The Christmas Switch",
               "release_date": "2026-11-12",
-              "poster_path": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-              "backdrop_path": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg"
+              "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+              "backdrop_path": "/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2647,22 +2663,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1664682,
-              "title": "The Unthinkable Daughter",
-              "release_date": "2026-11-11",
-              "poster_path": "/rlgUsa37CtX3zHuwXtfGOnHoRkj.jpg",
-              "backdrop_path": "/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -2708,7 +2708,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2744,11 +2744,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -2760,11 +2760,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -2776,11 +2776,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -2792,11 +2792,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -2808,11 +2808,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -2824,11 +2824,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         },
@@ -2874,7 +2874,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2910,11 +2910,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -2926,11 +2926,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -2942,11 +2942,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -2955,6 +2955,22 @@
               "release_date": "2026-10-02",
               "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
               "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1269325,
+              "title": "Drishyam: The Conclusion",
+              "release_date": "2026-11-27",
+              "poster_path": "/6IEboqn0dKnUbu1AlWPuXLzgEtu.jpg",
+              "backdrop_path": "/slSC0xYHynkHAwIdLPqfW9Blcow.jpg"
             },
             {
               "media_type": "tvshow",
@@ -2979,22 +2995,6 @@
               "release_date": "2026-11-18",
               "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
               "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1522689,
-              "title": "Why Did I Get Married Again?",
-              "release_date": "2026-09-09",
-              "poster_path": "/bryabj342aiJaPirbcxMdS6Tde6.jpg",
-              "backdrop_path": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
             }
           ]
         },
@@ -3002,6 +3002,22 @@
           "top_movies": [],
           "top_shows": [],
           "recently_added": [
+            {
+              "media_type": "movie",
+              "tmdb_id": 1480665,
+              "title": "The Hunchback, Soul of Paris",
+              "release_date": "2026-11-27",
+              "poster_path": "/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg",
+              "backdrop_path": "/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 338930,
+              "title": "Always on Call",
+              "release_date": "2026-11-26",
+              "poster_path": "/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
+              "backdrop_path": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg"
+            },
             {
               "media_type": "movie",
               "tmdb_id": 1551025,
@@ -3012,11 +3028,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310209,
-              "title": "Nine to Six",
-              "release_date": "2026-11-25",
-              "poster_path": "/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
-              "backdrop_path": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg"
+              "tmdb_id": 326247,
+              "title": "Fool Night",
+              "release_date": "2026-11-26",
+              "poster_path": "/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+              "backdrop_path": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg"
             },
             {
               "media_type": "movie",
@@ -3028,11 +3044,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 313701,
+              "title": "A Filipino Christmas",
+              "release_date": "2026-11-26",
+              "poster_path": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+              "backdrop_path": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg"
             },
             {
               "media_type": "movie",
@@ -3040,15 +3056,15 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341297,
-              "title": "The Detox Project",
-              "release_date": "2026-11-20",
-              "poster_path": "/xA7HNek9f6PXOk8J1pCBaLX1qJR.jpg",
-              "backdrop_path": "/v8kidsoOnmfZlRhylRhdCz11Czk.jpg"
+              "tmdb_id": 302837,
+              "title": "Toos: The Van der Valk Kidnapping",
+              "release_date": "2026-11-26",
+              "poster_path": "/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+              "backdrop_path": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg"
             },
             {
               "media_type": "movie",
@@ -3060,11 +3076,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -3076,11 +3092,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 310209,
+              "title": "Nine to Six",
+              "release_date": "2026-11-25",
+              "poster_path": "/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+              "backdrop_path": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg"
             },
             {
               "media_type": "movie",
@@ -3092,11 +3108,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -3108,11 +3124,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
-              "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "tmdb_id": 341297,
+              "title": "The Detox Project",
+              "release_date": "2026-11-20",
+              "poster_path": "/xA7HNek9f6PXOk8J1pCBaLX1qJR.jpg",
+              "backdrop_path": "/v8kidsoOnmfZlRhylRhdCz11Czk.jpg"
             },
             {
               "media_type": "movie",
@@ -3124,11 +3140,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
-              "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -3140,27 +3156,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 318420,
-              "title": "Valentina and the 12 Signs",
-              "release_date": "2026-11-18",
-              "poster_path": "/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-              "backdrop_path": "/wf8UcYFLgo6QYi49O13lMMaZrod.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1795934,
-              "title": "Theo Von: I'm Doing Fine",
-              "release_date": "2026-10-20",
-              "poster_path": "/vsi8ZKYKXmoQDFuZ9HJu92jrQei.jpg",
-              "backdrop_path": "/15VQXwZNuWgNION6MKZ4CZzUlga.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 341602,
-              "title": "Alan's Universe",
-              "release_date": "2026-11-14",
-              "poster_path": "/sjDSfy47Hafgt8qxj9ebfJtl5AG.jpg",
-              "backdrop_path": "/f5hgXsAWdYKmAbQJPhK6boAyxJR.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             }
           ]
         },
@@ -3206,7 +3206,7 @@
               "title": "Never Surrender",
               "release_date": "2026-11-12",
               "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-              "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+              "backdrop_path": "/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg"
             },
             {
               "media_type": "tvshow",
@@ -3242,11 +3242,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340615,
-              "title": "The Trials of Karen Read",
-              "release_date": "2026-11-23",
-              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
-              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+              "tmdb_id": 343634,
+              "title": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+              "release_date": "2026-11-25",
+              "poster_path": "/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg",
+              "backdrop_path": "/ytrFcr88F7HgHmLWoFySFbNY5Bs.jpg"
             },
             {
               "media_type": "movie",
@@ -3258,11 +3258,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 300523,
-              "title": "The Blue Road",
-              "release_date": "2026-11-20",
-              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
+              "tmdb_id": 340615,
+              "title": "The Trials of Karen Read",
+              "release_date": "2026-11-23",
+              "poster_path": "/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+              "backdrop_path": "/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
             },
             {
               "media_type": "movie",
@@ -3274,11 +3274,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 308007,
-              "title": "The Altruists",
-              "release_date": "2026-11-19",
-              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
+              "tmdb_id": 300523,
+              "title": "The Blue Road",
+              "release_date": "2026-11-20",
+              "poster_path": "/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+              "backdrop_path": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg"
             },
             {
               "media_type": "movie",
@@ -3290,11 +3290,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340280,
-              "title": "Gordon",
-              "release_date": "2026-11-18",
-              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
+              "tmdb_id": 308007,
+              "title": "The Altruists",
+              "release_date": "2026-11-19",
+              "poster_path": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+              "backdrop_path": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg"
             },
             {
               "media_type": "movie",
@@ -3306,11 +3306,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 336592,
-              "title": "Win the Mall",
+              "tmdb_id": 340280,
+              "title": "Gordon",
               "release_date": "2026-11-18",
-              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
-              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
+              "poster_path": "/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+              "backdrop_path": "/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg"
             },
             {
               "media_type": "movie",
@@ -3322,11 +3322,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332839,
-              "title": "The Law of Beasts",
+              "tmdb_id": 336592,
+              "title": "Win the Mall",
               "release_date": "2026-11-18",
-              "poster_path": "/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-              "backdrop_path": "/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg"
+              "poster_path": "/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+              "backdrop_path": "/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg"
             }
           ]
         }
@@ -3702,11 +3702,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 310209,
-              "title": "Nine to Six",
-              "release_date": "2026-11-25",
-              "poster_path": "/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
-              "backdrop_path": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg"
+              "tmdb_id": 341492,
+              "title": "Alan Carr's Great Big Bucket List",
+              "release_date": "2026-11-27",
+              "poster_path": "/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg",
+              "backdrop_path": "/9GxDqW5YV23UnUeB9MYz3rueVW.jpg"
             },
             {
               "media_type": "movie",
@@ -3718,11 +3718,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 171802,
-              "title": "Blade Runner 2099",
-              "release_date": "2026-11-24",
-              "poster_path": "/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-              "backdrop_path": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg"
+              "tmdb_id": 310209,
+              "title": "Nine to Six",
+              "release_date": "2026-11-25",
+              "poster_path": "/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+              "backdrop_path": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg"
             },
             {
               "media_type": "movie",
@@ -3734,11 +3734,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 342696,
-              "title": "Plein",
-              "release_date": "2026-11-20",
-              "poster_path": "/ejdbv5HCqwdLt0nOnsffOOGTjZO.jpg",
-              "backdrop_path": "/sKtk0II2bGF5YXR0u7UfGZf4dix.jpg"
+              "tmdb_id": 171802,
+              "title": "Blade Runner 2099",
+              "release_date": "2026-11-24",
+              "poster_path": "/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
+              "backdrop_path": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg"
             },
             {
               "media_type": "movie",
@@ -3750,11 +3750,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338549,
-              "title": "Mascarade",
+              "tmdb_id": 342696,
+              "title": "Plein",
               "release_date": "2026-11-20",
-              "poster_path": "/gdDUz1FqDDN2criezLPyQ3j0qdu.jpg",
-              "backdrop_path": "/1J4KaCuH7w0xYiEdXz9P8ePxO89.jpg"
+              "poster_path": "/ejdbv5HCqwdLt0nOnsffOOGTjZO.jpg",
+              "backdrop_path": "/sKtk0II2bGF5YXR0u7UfGZf4dix.jpg"
             },
             {
               "media_type": "movie",
@@ -3766,11 +3766,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 314131,
-              "title": "MELANIA the Series",
+              "tmdb_id": 338549,
+              "title": "Mascarade",
               "release_date": "2026-11-20",
-              "poster_path": "/75uNmW51SXsljGTFpNuH464eW4r.jpg",
-              "backdrop_path": "/ithzPRYsTWy5umOK9rSbTAiDGat.jpg"
+              "poster_path": "/gdDUz1FqDDN2criezLPyQ3j0qdu.jpg",
+              "backdrop_path": "/1J4KaCuH7w0xYiEdXz9P8ePxO89.jpg"
             },
             {
               "media_type": "movie",
@@ -3782,11 +3782,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338547,
-              "title": "Friz i Wersow. W drodze",
-              "release_date": "2026-11-18",
-              "poster_path": "/a8kD3PbjgshEpcOjhXTkwahL9Dn.jpg",
-              "backdrop_path": "/8VBfz1ufyA0ausZI4nXfRBJJp5S.jpg"
+              "tmdb_id": 314131,
+              "title": "MELANIA the Series",
+              "release_date": "2026-11-20",
+              "poster_path": "/75uNmW51SXsljGTFpNuH464eW4r.jpg",
+              "backdrop_path": "/ithzPRYsTWy5umOK9rSbTAiDGat.jpg"
             },
             {
               "media_type": "movie",
@@ -3798,11 +3798,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 332683,
-              "title": "Rock, Paper, Landmines",
-              "release_date": "2026-11-13",
-              "poster_path": "/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg",
-              "backdrop_path": "/4Htao8kvzIdGVImpD614CCQgjDc.jpg"
+              "tmdb_id": 338547,
+              "title": "Friz i Wersow. W drodze",
+              "release_date": "2026-11-18",
+              "poster_path": "/a8kD3PbjgshEpcOjhXTkwahL9Dn.jpg",
+              "backdrop_path": "/8VBfz1ufyA0ausZI4nXfRBJJp5S.jpg"
             },
             {
               "media_type": "movie",
@@ -3814,11 +3814,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 328010,
-              "title": "Devils' Crest",
-              "release_date": "2026-11-06",
-              "poster_path": "/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
-              "backdrop_path": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg"
+              "tmdb_id": 332683,
+              "title": "Rock, Paper, Landmines",
+              "release_date": "2026-11-13",
+              "poster_path": "/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg",
+              "backdrop_path": "/4Htao8kvzIdGVImpD614CCQgjDc.jpg"
             },
             {
               "media_type": "movie",
@@ -3830,11 +3830,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 303044,
-              "title": "Campus Drivers",
+              "tmdb_id": 328010,
+              "title": "Devils' Crest",
               "release_date": "2026-11-06",
-              "poster_path": "/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg",
-              "backdrop_path": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg"
+              "poster_path": "/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
+              "backdrop_path": "/fA6eLsm6xEBK90IK3UNWoVPZBn7.jpg"
             },
             {
               "media_type": "movie",
@@ -3846,11 +3846,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 258989,
-              "title": "The Greatest",
-              "release_date": "2026-11-04",
-              "poster_path": "/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-              "backdrop_path": "/baMHKUmvzRFp34hZ21TYPLw2HG4.jpg"
+              "tmdb_id": 303044,
+              "title": "Campus Drivers",
+              "release_date": "2026-11-06",
+              "poster_path": "/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg",
+              "backdrop_path": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg"
             }
           ]
         },
@@ -4159,11 +4159,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 340419,
+              "title": "Cars That Changed History",
+              "release_date": "2026-10-29",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "movie",
@@ -4175,11 +4175,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340419,
-              "title": "Cars That Changed History",
-              "release_date": "2026-10-29",
-              "poster_path": "",
-              "backdrop_path": ""
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -4191,11 +4191,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             },
             {
               "media_type": "movie",
@@ -4207,11 +4207,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275139,
-              "title": "Phony",
-              "release_date": "2026-10-20",
-              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
+              "tmdb_id": 339922,
+              "title": "Monsters: The Truth Behind the Myths",
+              "release_date": "2026-10-18",
+              "poster_path": "/zSM03kjSj6wymR1lIosv1O4B2co.jpg",
+              "backdrop_path": "/cLXtP7WYnVay5D7htYPvpIsSTmz.jpg"
             },
             {
               "media_type": "movie",
@@ -4223,11 +4223,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 339922,
-              "title": "Monsters: The Truth Behind the Myths",
-              "release_date": "2026-10-18",
-              "poster_path": "/zSM03kjSj6wymR1lIosv1O4B2co.jpg",
-              "backdrop_path": "/cLXtP7WYnVay5D7htYPvpIsSTmz.jpg"
+              "tmdb_id": 329896,
+              "title": "Locker Diaries: Coven Academy",
+              "release_date": "2026-10-17",
+              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
+              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
             },
             {
               "media_type": "movie",
@@ -4239,11 +4239,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329896,
-              "title": "Locker Diaries: Coven Academy",
-              "release_date": "2026-10-17",
-              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
-              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
+              "tmdb_id": 340728,
+              "title": "MEGASTORM",
+              "release_date": "2026-10-13",
+              "poster_path": "/yp9acWngjqc90mevHPG97kb5T1o.jpg",
+              "backdrop_path": "/uzPfZrkwHvJ8g7Jxhxwg4hiKkql.jpg"
             }
           ]
         },
@@ -4357,11 +4357,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -4373,11 +4373,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -4389,11 +4389,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             },
             {
               "media_type": "movie",
@@ -4405,11 +4405,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275139,
-              "title": "Phony",
-              "release_date": "2026-10-20",
-              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
+              "tmdb_id": 329896,
+              "title": "Locker Diaries: Coven Academy",
+              "release_date": "2026-10-17",
+              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
+              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
             }
           ]
         },
@@ -4419,11 +4419,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-09",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1715686,
+              "title": "Mickey's Home Alone",
+              "release_date": "2026-11-27",
+              "poster_path": "/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+              "backdrop_path": "/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4435,11 +4435,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-09",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4451,11 +4451,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 675871,
-              "title": "Super Troopers 3",
-              "release_date": "2026-08-07",
-              "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-              "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4467,11 +4467,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1307118,
-              "title": "Soulm8te",
-              "release_date": "2026-08-01",
-              "poster_path": "/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
-              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
+              "tmdb_id": 675871,
+              "title": "Super Troopers 3",
+              "release_date": "2026-08-07",
+              "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+              "backdrop_path": "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4483,11 +4483,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-17",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1307118,
+              "title": "Soulm8te",
+              "release_date": "2026-08-01",
+              "poster_path": "/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg",
+              "backdrop_path": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4499,11 +4499,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1108427,
-              "title": "Moana",
-              "release_date": "2026-07-10",
-              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-17",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4515,11 +4515,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1725116,
-              "title": "Simpsley",
-              "release_date": "2026-07-03",
-              "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-              "backdrop_path": "/xA2uHYgb5RCVPdFe1acQqOB3EhD.jpg"
+              "tmdb_id": 1108427,
+              "title": "Moana",
+              "release_date": "2026-07-10",
+              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4531,27 +4531,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716513,
-              "title": "Extreme Makeover: Homer Edition",
-              "release_date": "2026-06-17",
-              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
-            },
-            {
-              "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
-            },
-            {
-              "media_type": "movie",
-              "tmdb_id": 1084244,
-              "title": "Toy Story 5",
-              "release_date": "2026-06-19",
-              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+              "tmdb_id": 1725116,
+              "title": "Simpsley",
+              "release_date": "2026-07-03",
+              "poster_path": "/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+              "backdrop_path": "/xA2uHYgb5RCVPdFe1acQqOB3EhD.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4563,11 +4547,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728564,
-              "title": "The Magic Behind Island Tower At Disney\u2019s Polynesian Villas & Bungalows",
-              "release_date": "2026-06-10",
-              "poster_path": "/hicwReMlN8DqLedzejfF7s5XqpY.jpg",
-              "backdrop_path": ""
+              "tmdb_id": 1716513,
+              "title": "Extreme Makeover: Homer Edition",
+              "release_date": "2026-06-17",
+              "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+              "backdrop_path": "/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg"
             },
             {
               "media_type": "tvshow",
@@ -4576,6 +4560,22 @@
               "release_date": "2026-10-22",
               "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
               "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+            },
+            {
+              "media_type": "movie",
+              "tmdb_id": 1084244,
+              "title": "Toy Story 5",
+              "release_date": "2026-06-19",
+              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             }
           ]
         },
@@ -4705,11 +4705,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -4721,11 +4721,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -4737,11 +4737,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             }
           ]
         },
@@ -5037,11 +5037,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -5053,11 +5053,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -5069,11 +5069,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             }
           ]
         },
@@ -5083,11 +5083,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1826442,
-              "title": "Expedition: Saving Our Seas",
-              "release_date": "2026-11-14",
-              "poster_path": "/gvDT4GGE04bknYuT4dcni9TrLi4.jpg",
-              "backdrop_path": "/hObUQ27znUjR5muP8rXR19lCuyF.jpg"
+              "tmdb_id": 1715686,
+              "title": "Mickey's Home Alone",
+              "release_date": "2026-11-26",
+              "poster_path": "/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+              "backdrop_path": "/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5099,11 +5099,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1716604,
-              "title": "A Proud Family Wizmas",
+              "tmdb_id": 1826442,
+              "title": "Expedition: Saving Our Seas",
               "release_date": "2026-11-14",
-              "poster_path": "/11wLgcyi1712tk891oqT1SblmAY.jpg",
-              "backdrop_path": "/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg"
+              "poster_path": "/gvDT4GGE04bknYuT4dcni9TrLi4.jpg",
+              "backdrop_path": "/hObUQ27znUjR5muP8rXR19lCuyF.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5115,11 +5115,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1750432,
-              "title": "Spidey and the Avengers: Halloween Team-Up!",
-              "release_date": "2026-09-25",
-              "poster_path": "/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-              "backdrop_path": "/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg"
+              "tmdb_id": 1716604,
+              "title": "A Proud Family Wizmas",
+              "release_date": "2026-11-14",
+              "poster_path": "/11wLgcyi1712tk891oqT1SblmAY.jpg",
+              "backdrop_path": "/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5131,11 +5131,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1770842,
-              "title": "Max vs 100",
-              "release_date": "2026-09-16",
-              "poster_path": "/mHbOZIrkSkoxpKLGfk1577GjRPb.jpg",
-              "backdrop_path": "/7PLe3tUKYxm8HlnME3LQbF8Wab4.jpg"
+              "tmdb_id": 1750432,
+              "title": "Spidey and the Avengers: Halloween Team-Up!",
+              "release_date": "2026-09-25",
+              "poster_path": "/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+              "backdrop_path": "/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5147,11 +5147,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-10",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1770842,
+              "title": "Max vs 100",
+              "release_date": "2026-09-16",
+              "poster_path": "/mHbOZIrkSkoxpKLGfk1577GjRPb.jpg",
+              "backdrop_path": "/7PLe3tUKYxm8HlnME3LQbF8Wab4.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5163,11 +5163,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1731694,
-              "title": "LEGO Star Wars: The Mandalorian",
-              "release_date": "2026-09-02",
-              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-10",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5179,11 +5179,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1729723,
-              "title": "Yellow Mirror",
-              "release_date": "2026-08-26",
-              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
+              "tmdb_id": 1731694,
+              "title": "LEGO Star Wars: The Mandalorian",
+              "release_date": "2026-09-02",
+              "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+              "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5195,11 +5195,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732625,
-              "title": "LEGO Disney Princess: Magical Mayhem",
-              "release_date": "2026-08-21",
-              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
+              "tmdb_id": 1729723,
+              "title": "Yellow Mirror",
+              "release_date": "2026-08-26",
+              "poster_path": "/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
+              "backdrop_path": "/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5211,11 +5211,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5227,11 +5227,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728113,
-              "title": "KATSEYE: Wild Hearts",
-              "release_date": "2026-08-12",
-              "poster_path": "/vuqQhyka0VOFWGpTsO9d6H1VRFl.jpg",
-              "backdrop_path": "/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5405,7 +5405,7 @@
               "title": "Dragon Ball Super: Beerus",
               "release_date": "2026-10-11",
               "poster_path": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-              "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg"
+              "backdrop_path": "/kIDWT8gOEu6AufLKvT3Zq0gRodh.jpg"
             }
           ]
         },
@@ -5581,11 +5581,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1825023,
-              "title": "Che bella giornata!",
-              "release_date": "2026-11-15",
-              "poster_path": "",
-              "backdrop_path": ""
+              "tmdb_id": 1715686,
+              "title": "Mickey's Home Alone",
+              "release_date": "2026-11-27",
+              "poster_path": "/tqep7mO0VRatflWDmYLTh8iYawy.jpg",
+              "backdrop_path": "/2VWwc7jnjy6jQcmg0ALEWba8zkd.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5597,11 +5597,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1447853,
-              "title": "Oasis: Don't Look Back in Anger",
-              "release_date": "2026-09-10",
-              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
+              "tmdb_id": 1825023,
+              "title": "Che bella giornata!",
+              "release_date": "2026-11-15",
+              "poster_path": "",
+              "backdrop_path": ""
             },
             {
               "media_type": "tvshow",
@@ -5613,11 +5613,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1732625,
-              "title": "LEGO Disney Princess: Magical Mayhem",
-              "release_date": "2026-08-21",
-              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
+              "tmdb_id": 1447853,
+              "title": "Oasis: Don't Look Back in Anger",
+              "release_date": "2026-09-10",
+              "poster_path": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+              "backdrop_path": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5629,11 +5629,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1493400,
-              "title": "Camp Rock 3",
-              "release_date": "2026-08-14",
-              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
+              "tmdb_id": 1732625,
+              "title": "LEGO Disney Princess: Magical Mayhem",
+              "release_date": "2026-08-21",
+              "poster_path": "/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+              "backdrop_path": "/kBrBcgdite6vpa6VkYEcjZuof7z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5645,11 +5645,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1728954,
-              "title": "My Grandfather Charles Manson",
-              "release_date": "2026-07-22",
-              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
-              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
+              "tmdb_id": 1493400,
+              "title": "Camp Rock 3",
+              "release_date": "2026-08-14",
+              "poster_path": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+              "backdrop_path": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5661,11 +5661,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1318621,
-              "title": "Descendants: Wicked Wonderland",
-              "release_date": "2026-07-17",
-              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
+              "tmdb_id": 1728954,
+              "title": "My Grandfather Charles Manson",
+              "release_date": "2026-07-22",
+              "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+              "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5677,11 +5677,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1108427,
-              "title": "Moana",
-              "release_date": "2026-08-19",
-              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+              "tmdb_id": 1318621,
+              "title": "Descendants: Wicked Wonderland",
+              "release_date": "2026-07-17",
+              "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+              "backdrop_path": "/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5693,11 +5693,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1084244,
-              "title": "Toy Story 5",
-              "release_date": "2026-06-18",
-              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+              "tmdb_id": 1108427,
+              "title": "Moana",
+              "release_date": "2026-08-19",
+              "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+              "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5709,11 +5709,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1703943,
-              "title": "Marra Stadi San Siro 2025",
-              "release_date": "2026-05-29",
-              "poster_path": "/5tWHQyBOQeSuCT81CXy7fGZxieG.jpg",
-              "backdrop_path": "/2qo7a9Xo5gPK8uR0y9yJYFRts1Y.jpg"
+              "tmdb_id": 1084244,
+              "title": "Toy Story 5",
+              "release_date": "2026-06-18",
+              "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+              "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5725,11 +5725,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1679085,
-              "title": "KING MARRACASH",
-              "release_date": "2026-05-25",
-              "poster_path": "/fu4qJ18VpxvFjY1abZ13xlVS2id.jpg",
-              "backdrop_path": "/k00UQmxsI0HHTXl4ptwguXq4Ghb.jpg"
+              "tmdb_id": 1703943,
+              "title": "Marra Stadi San Siro 2025",
+              "release_date": "2026-05-29",
+              "poster_path": "/5tWHQyBOQeSuCT81CXy7fGZxieG.jpg",
+              "backdrop_path": "/2qo7a9Xo5gPK8uR0y9yJYFRts1Y.jpg"
             },
             {
               "media_type": "tvshow",
@@ -5737,7 +5737,7 @@
               "title": "Dragon Ball Super: Beerus",
               "release_date": "2026-10-11",
               "poster_path": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-              "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg"
+              "backdrop_path": "/kIDWT8gOEu6AufLKvT3Zq0gRodh.jpg"
             }
           ]
         },
@@ -6665,11 +6665,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -6681,11 +6681,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -6697,11 +6697,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             },
             {
               "media_type": "movie",
@@ -6713,11 +6713,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275139,
-              "title": "Phony",
-              "release_date": "2026-10-20",
-              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
+              "tmdb_id": 329896,
+              "title": "Locker Diaries: Coven Academy",
+              "release_date": "2026-10-17",
+              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
+              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
             },
             {
               "media_type": "movie",
@@ -6729,11 +6729,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 329896,
-              "title": "Locker Diaries: Coven Academy",
-              "release_date": "2026-10-17",
-              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
-              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
+              "tmdb_id": 340473,
+              "title": "PodDelas no Walt Disney World Resort",
+              "release_date": "2026-10-13",
+              "poster_path": "/yUb0QzN3cemvIhiBOiXvWETvG17.jpg",
+              "backdrop_path": "/daYLaPZKzCkVn1KCqUXpVM0q6Jw.jpg"
             }
           ]
         },
@@ -6831,11 +6831,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -6847,11 +6847,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -6863,11 +6863,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 339525,
+              "title": "Relatos de la noche: Brujas",
+              "release_date": "2026-10-21",
+              "poster_path": "/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
+              "backdrop_path": "/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg"
             },
             {
               "media_type": "movie",
@@ -6879,11 +6879,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 339525,
-              "title": "Relatos de la noche: Brujas",
-              "release_date": "2026-10-21",
-              "poster_path": "/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
-              "backdrop_path": "/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             },
             {
               "media_type": "movie",
@@ -6895,11 +6895,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275139,
-              "title": "Phony",
-              "release_date": "2026-10-20",
-              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
+              "tmdb_id": 329896,
+              "title": "Locker Diaries: Coven Academy",
+              "release_date": "2026-10-17",
+              "poster_path": "/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
+              "backdrop_path": "/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg"
             }
           ]
         },
@@ -6981,11 +6981,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341667,
-              "title": "Lilas Dreams & Memories",
-              "release_date": "2026-11-07",
-              "poster_path": "/bJiiC6sbazrnlZJNnewOjg1ofQP.jpg",
-              "backdrop_path": "/xF7RjkwoJlSF77TEL5fk0FA9R0A.jpg"
+              "tmdb_id": 340053,
+              "title": "Get Huge: Looksmaxxing to Death",
+              "release_date": "2026-11-10",
+              "poster_path": "/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg",
+              "backdrop_path": "/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg"
             },
             {
               "media_type": "movie",
@@ -6997,11 +6997,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 279246,
-              "title": "The Remarried Empress",
-              "release_date": "2026-11-03",
-              "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-              "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
+              "tmdb_id": 341667,
+              "title": "Lilas Dreams & Memories",
+              "release_date": "2026-11-07",
+              "poster_path": "/bJiiC6sbazrnlZJNnewOjg1ofQP.jpg",
+              "backdrop_path": "/xF7RjkwoJlSF77TEL5fk0FA9R0A.jpg"
             },
             {
               "media_type": "movie",
@@ -7013,11 +7013,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334708,
-              "title": "Desperately Devoted",
-              "release_date": "2026-11-02",
-              "poster_path": "/oxYZkiHFTSvSecYcJU03tTJ1uuD.jpg",
-              "backdrop_path": "/7NZgezdhx8PJN6eqG8QA4Rpel0T.jpg"
+              "tmdb_id": 279246,
+              "title": "The Remarried Empress",
+              "release_date": "2026-11-03",
+              "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+              "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
             },
             {
               "media_type": "movie",
@@ -7029,11 +7029,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334708,
+              "title": "Desperately Devoted",
+              "release_date": "2026-11-02",
+              "poster_path": "/oxYZkiHFTSvSecYcJU03tTJ1uuD.jpg",
+              "backdrop_path": "/7NZgezdhx8PJN6eqG8QA4Rpel0T.jpg"
             },
             {
               "media_type": "movie",
@@ -7163,11 +7163,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 307478,
-              "title": "The Perfect Lie",
-              "release_date": "2026-10-30",
-              "poster_path": "/frvRrn3QclVP76RkBBKEmwcXEaV.jpg",
-              "backdrop_path": "/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg"
+              "tmdb_id": 334887,
+              "title": "The Mob",
+              "release_date": "2026-10-26",
+              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
             },
             {
               "media_type": "movie",
@@ -7179,11 +7179,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334887,
-              "title": "The Mob",
-              "release_date": "2026-10-26",
-              "poster_path": "/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-              "backdrop_path": "/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg"
+              "tmdb_id": 316702,
+              "title": "Final Table",
+              "release_date": "2026-10-24",
+              "poster_path": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+              "backdrop_path": "/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg"
             },
             {
               "media_type": "movie",
@@ -7195,11 +7195,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 316702,
-              "title": "Final Table",
-              "release_date": "2026-10-24",
-              "poster_path": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
-              "backdrop_path": "/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg"
+              "tmdb_id": 337609,
+              "title": "Swipe Right on the Devil",
+              "release_date": "2026-10-22",
+              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
             },
             {
               "media_type": "movie",
@@ -7211,11 +7211,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 337609,
-              "title": "Swipe Right on the Devil",
-              "release_date": "2026-10-22",
-              "poster_path": "/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-              "backdrop_path": "/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+              "tmdb_id": 275139,
+              "title": "Phony",
+              "release_date": "2026-10-20",
+              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
             },
             {
               "media_type": "movie",
@@ -7227,11 +7227,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 275139,
-              "title": "Phony",
-              "release_date": "2026-10-20",
-              "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-              "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg"
+              "tmdb_id": 213375,
+              "title": "VisionQuest",
+              "release_date": "2026-10-13",
+              "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+              "backdrop_path": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
             }
           ]
         },
@@ -7276,11 +7276,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 338502,
-              "title": "Mr & Mrs Office",
+              "tmdb_id": 288120,
+              "title": "Vienna Game",
               "release_date": "2026-11-18",
-              "poster_path": "/demMPIRzA47Px0NaNW0b1F9yxMq.jpg",
-              "backdrop_path": "/pIGIxY4n2xl80wHv6kdyuRIhO3t.jpg"
+              "poster_path": "/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+              "backdrop_path": "/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg"
             },
             {
               "media_type": "movie",
@@ -7292,11 +7292,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 288120,
-              "title": "Vienna Game",
-              "release_date": "2026-11-18",
-              "poster_path": "/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
-              "backdrop_path": "/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg"
+              "tmdb_id": 339503,
+              "title": "The Circle",
+              "release_date": "2026-11-17",
+              "poster_path": "/2y0LB12EE1QMu6nuFVgGjj6dVAb.jpg",
+              "backdrop_path": "/aNaj93R2XE6FAmFbtYcG85aEWqS.jpg"
             },
             {
               "media_type": "movie",
@@ -7308,11 +7308,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 339503,
-              "title": "The Circle",
-              "release_date": "2026-11-17",
-              "poster_path": "/2y0LB12EE1QMu6nuFVgGjj6dVAb.jpg",
-              "backdrop_path": "/aNaj93R2XE6FAmFbtYcG85aEWqS.jpg"
+              "tmdb_id": 320507,
+              "title": "The Secret Lives of Mormon Wives: Orange County",
+              "release_date": "2026-11-12",
+              "poster_path": "/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
+              "backdrop_path": "/ztlemjhfgbj6wtYosghkUjBOj8o.jpg"
             },
             {
               "media_type": "movie",
@@ -7324,11 +7324,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 334412,
-              "title": "Student of the Year: After Dark",
-              "release_date": "2026-11-13",
-              "poster_path": "/qhIGdVcH2eSIRckuPTrjryJJxvv.jpg",
-              "backdrop_path": "/kaugQAtftkyTmZe9DxZOu01AIA3.jpg"
+              "tmdb_id": 340321,
+              "title": "Style Wars",
+              "release_date": "2026-11-11",
+              "poster_path": "/huoiVrSJAd5TqqRYKCCMVbyvxQe.jpg",
+              "backdrop_path": "/1TGswrKv75QTlwP0Q3pj9tBm4tm.jpg"
             },
             {
               "media_type": "movie",
@@ -7340,11 +7340,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341828,
-              "title": "Pushpaka Vimanam",
-              "release_date": "2026-11-12",
-              "poster_path": "/tEFSs0djTqmJdAQDLUClC9InWxd.jpg",
-              "backdrop_path": "/8ENGGYTSdF5t42BHzOrl57mlCnF.jpg"
+              "tmdb_id": 341780,
+              "title": "Deadly Women 2.0",
+              "release_date": "2026-11-10",
+              "poster_path": "/kpDNvCWvWGnaCE5yYLpuIJ1OUQD.jpg",
+              "backdrop_path": "/rjnc9guLqVYrTf3BDyoiO8JjrUe.jpg"
             },
             {
               "media_type": "movie",
@@ -7356,11 +7356,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 320507,
-              "title": "The Secret Lives of Mormon Wives: Orange County",
-              "release_date": "2026-11-12",
-              "poster_path": "/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
-              "backdrop_path": "/ztlemjhfgbj6wtYosghkUjBOj8o.jpg"
+              "tmdb_id": 340053,
+              "title": "Get Huge: Looksmaxxing to Death",
+              "release_date": "2026-11-10",
+              "poster_path": "/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg",
+              "backdrop_path": "/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg"
             },
             {
               "media_type": "movie",
@@ -7372,11 +7372,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340321,
-              "title": "Style Wars",
-              "release_date": "2026-11-11",
-              "poster_path": "/huoiVrSJAd5TqqRYKCCMVbyvxQe.jpg",
-              "backdrop_path": "/1TGswrKv75QTlwP0Q3pj9tBm4tm.jpg"
+              "tmdb_id": 341813,
+              "title": "The Well",
+              "release_date": "2026-11-09",
+              "poster_path": "/kJxlDirpnTUnmVpqGAgl0dxM4VQ.jpg",
+              "backdrop_path": "/xOKoP5TLVGm7nAQPYIDCIyMr73I.jpg"
             },
             {
               "media_type": "movie",
@@ -7388,11 +7388,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 341780,
-              "title": "Deadly Women 2.0",
-              "release_date": "2026-11-10",
-              "poster_path": "/kpDNvCWvWGnaCE5yYLpuIJ1OUQD.jpg",
-              "backdrop_path": "/rjnc9guLqVYrTf3BDyoiO8JjrUe.jpg"
+              "tmdb_id": 279246,
+              "title": "The Remarried Empress",
+              "release_date": "2026-11-03",
+              "poster_path": "/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+              "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
             },
             {
               "media_type": "movie",
@@ -7404,11 +7404,11 @@
             },
             {
               "media_type": "tvshow",
-              "tmdb_id": 340053,
-              "title": "Get Huge: Looksmaxxing to Death",
-              "release_date": "2026-11-10",
-              "poster_path": "/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg",
-              "backdrop_path": "/ddJt3lGs2vMzvXY4Nb7xbvTfJ3Q.jpg"
+              "tmdb_id": 334708,
+              "title": "Desperately Devoted",
+              "release_date": "2026-11-02",
+              "poster_path": "/oxYZkiHFTSvSecYcJU03tTJ1uuD.jpg",
+              "backdrop_path": "/7NZgezdhx8PJN6eqG8QA4Rpel0T.jpg"
             }
           ]
         }
@@ -7595,11 +7595,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 980431,
-              "title": "Avatar Aang: The Last Airbender",
-              "release_date": "2026-07-25",
-              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
+              "tmdb_id": 1723884,
+              "title": "SpongeBob SquarePants: Merry Christmas, Mr. Plankton",
+              "release_date": "2026-11-26",
+              "poster_path": "/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+              "backdrop_path": "/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7611,11 +7611,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1321008,
-              "title": "Black Box",
-              "release_date": "2026-07-06",
-              "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
-              "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg"
+              "tmdb_id": 980431,
+              "title": "Avatar Aang: The Last Airbender",
+              "release_date": "2026-07-25",
+              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7627,11 +7627,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1575438,
-              "title": "Finnegan's Foursome",
-              "release_date": "2026-07-17",
-              "poster_path": "/bmFdsOFHipMvqult9MNnUhrwaFS.jpg",
-              "backdrop_path": "/iSAWSBZYJS6th4E6W1AbcYtCL1W.jpg"
+              "tmdb_id": 1321008,
+              "title": "Black Box",
+              "release_date": "2026-07-06",
+              "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
+              "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7643,11 +7643,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1245859,
-              "title": "Savage House",
-              "release_date": "2026-06-05",
-              "poster_path": "/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
-              "backdrop_path": "/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg"
+              "tmdb_id": 1575438,
+              "title": "Finnegan's Foursome",
+              "release_date": "2026-07-17",
+              "poster_path": "/bmFdsOFHipMvqult9MNnUhrwaFS.jpg",
+              "backdrop_path": "/iSAWSBZYJS6th4E6W1AbcYtCL1W.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7659,11 +7659,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1703333,
-              "title": "Richard Madeley: Inside the World's Mega Prison",
-              "release_date": "2026-05-27",
-              "poster_path": "/sXIpkFAcPIxEOeeEkg9eqCKTHJG.jpg",
-              "backdrop_path": "/kxP33A5pb7x4RWxb3CfmrMVeYlZ.jpg"
+              "tmdb_id": 1245859,
+              "title": "Savage House",
+              "release_date": "2026-06-05",
+              "poster_path": "/uF2qGFP5uL7UWk9h1xDZpWV2P8t.jpg",
+              "backdrop_path": "/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7675,11 +7675,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1409853,
-              "title": "Neglected",
-              "release_date": "2026-05-11",
-              "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
-              "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg"
+              "tmdb_id": 1273221,
+              "title": "Scary Movie",
+              "release_date": "2026-06-05",
+              "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+              "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7691,11 +7691,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1339210,
-              "title": "Affection",
-              "release_date": "2026-06-08",
-              "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
-              "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg"
+              "tmdb_id": 1703333,
+              "title": "Richard Madeley: Inside the World's Mega Prison",
+              "release_date": "2026-05-27",
+              "poster_path": "/sXIpkFAcPIxEOeeEkg9eqCKTHJG.jpg",
+              "backdrop_path": "/kxP33A5pb7x4RWxb3CfmrMVeYlZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7707,11 +7707,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1444249,
-              "title": "The Highest Stakes",
-              "release_date": "2026-05-12",
-              "poster_path": "/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
-              "backdrop_path": "/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg"
+              "tmdb_id": 1409853,
+              "title": "Neglected",
+              "release_date": "2026-05-11",
+              "poster_path": "/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+              "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7723,11 +7723,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1440049,
-              "title": "Preschool",
-              "release_date": "2026-04-06",
-              "poster_path": "/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-              "backdrop_path": "/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg"
+              "tmdb_id": 1339210,
+              "title": "Affection",
+              "release_date": "2026-06-08",
+              "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+              "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7739,11 +7739,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1327690,
-              "title": "One Mile: Chapter Two",
-              "release_date": "2026-03-09",
-              "poster_path": "/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-              "backdrop_path": "/jxQIjkJBTyZSxN3yyilpR0ns6HA.jpg"
+              "tmdb_id": 1515899,
+              "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+              "release_date": "2026-05-08",
+              "poster_path": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+              "backdrop_path": "/vTk6KQRLomlkMG5xqQIrzvyQB8z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7927,11 +7927,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 1204680,
-              "title": "Coyote vs. Acme",
-              "release_date": "2026-08-21",
-              "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-              "backdrop_path": "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
+              "tmdb_id": 1723884,
+              "title": "SpongeBob SquarePants: Merry Christmas, Mr. Plankton",
+              "release_date": "2026-11-26",
+              "poster_path": "/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+              "backdrop_path": "/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7943,11 +7943,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 980431,
-              "title": "Avatar Aang: The Last Airbender",
-              "release_date": "2026-07-25",
-              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
+              "tmdb_id": 1204680,
+              "title": "Coyote vs. Acme",
+              "release_date": "2026-08-21",
+              "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+              "backdrop_path": "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7959,11 +7959,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1321008,
-              "title": "Black Box",
-              "release_date": "2026-07-06",
-              "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
-              "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg"
+              "tmdb_id": 980431,
+              "title": "Avatar Aang: The Last Airbender",
+              "release_date": "2026-07-25",
+              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7975,11 +7975,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1368314,
-              "title": "Passenger",
-              "release_date": "2026-05-22",
-              "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-              "backdrop_path": "/iyW6c3kvzFo37Gi0BJgr5EBh8a.jpg"
+              "tmdb_id": 1321008,
+              "title": "Black Box",
+              "release_date": "2026-07-06",
+              "poster_path": "/x6dsUKxz8O5rD3lzayJgvFpW58s.jpg",
+              "backdrop_path": "/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg"
             },
             {
               "media_type": "tvshow",
@@ -7991,11 +7991,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1339210,
-              "title": "Affection",
-              "release_date": "2026-06-08",
-              "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
-              "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg"
+              "tmdb_id": 1273221,
+              "title": "Scary Movie",
+              "release_date": "2026-06-05",
+              "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+              "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8007,11 +8007,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1515899,
-              "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-              "release_date": "2026-05-08",
-              "poster_path": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
-              "backdrop_path": "/vTk6KQRLomlkMG5xqQIrzvyQB8z.jpg"
+              "tmdb_id": 1368314,
+              "title": "Passenger",
+              "release_date": "2026-05-22",
+              "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+              "backdrop_path": "/iyW6c3kvzFo37Gi0BJgr5EBh8a.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8023,11 +8023,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1159559,
-              "title": "Scream 7",
-              "release_date": "2026-02-27",
-              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
+              "tmdb_id": 1339210,
+              "title": "Affection",
+              "release_date": "2026-06-08",
+              "poster_path": "/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+              "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8039,11 +8039,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1315303,
-              "title": "Primate",
-              "release_date": "2026-01-30",
-              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-              "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg"
+              "tmdb_id": 1515899,
+              "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+              "release_date": "2026-05-08",
+              "poster_path": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+              "backdrop_path": "/vTk6KQRLomlkMG5xqQIrzvyQB8z.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8055,11 +8055,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 991494,
-              "title": "The SpongeBob Movie: Search for SquarePants",
-              "release_date": "2025-12-20",
-              "poster_path": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-              "backdrop_path": "/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg"
+              "tmdb_id": 1159559,
+              "title": "Scream 7",
+              "release_date": "2026-02-27",
+              "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+              "backdrop_path": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8071,11 +8071,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1257009,
-              "title": "Primitive War",
-              "release_date": "2025-11-28",
-              "poster_path": "/noujgznyJIaurEinZhcSVzTmkLo.jpg",
-              "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg"
+              "tmdb_id": 1315303,
+              "title": "Primate",
+              "release_date": "2026-01-30",
+              "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+              "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8259,11 +8259,11 @@
           "recently_added": [
             {
               "media_type": "movie",
-              "tmdb_id": 980431,
-              "title": "Avatar Aang: The Last Airbender",
-              "release_date": "2026-07-25",
-              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
+              "tmdb_id": 1723884,
+              "title": "SpongeBob SquarePants: Merry Christmas, Mr. Plankton",
+              "release_date": "2026-11-27",
+              "poster_path": "/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+              "backdrop_path": "/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8275,11 +8275,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1354518,
-              "title": "100 Nights of Hero",
-              "release_date": "2026-11-27",
-              "poster_path": "/u2lCBD7ZjcBsCLnDgWVDP9TsghG.jpg",
-              "backdrop_path": "/skmFqH67nh8zJacf7WcR204Kgvl.jpg"
+              "tmdb_id": 980431,
+              "title": "Avatar Aang: The Last Airbender",
+              "release_date": "2026-07-25",
+              "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+              "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8291,11 +8291,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1161617,
-              "title": "Code 3",
-              "release_date": "2026-01-22",
-              "poster_path": "/4PeJrEYkngzkksUCGHr1b6bEAa0.jpg",
-              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
+              "tmdb_id": 1354518,
+              "title": "100 Nights of Hero",
+              "release_date": "2026-11-27",
+              "poster_path": "/u2lCBD7ZjcBsCLnDgWVDP9TsghG.jpg",
+              "backdrop_path": "/skmFqH67nh8zJacf7WcR204Kgvl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8307,11 +8307,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1062907,
-              "title": "Guns & Moses",
-              "release_date": "2026-03-27",
-              "poster_path": "/xT88rTDQzZ1TOsiSpSY2jbvXVGM.jpg",
-              "backdrop_path": "/bKZqIALkgdmFa28XBx1AzT7Qsyq.jpg"
+              "tmdb_id": 1161617,
+              "title": "Code 3",
+              "release_date": "2026-01-22",
+              "poster_path": "/4PeJrEYkngzkksUCGHr1b6bEAa0.jpg",
+              "backdrop_path": "/b4uAD5kqB3cJ9Wdka5qlod5BHwW.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8323,11 +8323,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1215798,
-              "title": "The Cut",
-              "release_date": "2025-12-12",
-              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
-              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
+              "tmdb_id": 1062907,
+              "title": "Guns & Moses",
+              "release_date": "2026-03-27",
+              "poster_path": "/xT88rTDQzZ1TOsiSpSY2jbvXVGM.jpg",
+              "backdrop_path": "/bKZqIALkgdmFa28XBx1AzT7Qsyq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8339,11 +8339,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1512623,
-              "title": "Risqu\u00e9",
-              "release_date": "2026-02-22",
-              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
+              "tmdb_id": 1215798,
+              "title": "The Cut",
+              "release_date": "2025-12-12",
+              "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+              "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8355,11 +8355,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 575265,
-              "title": "Mission: Impossible - The Final Reckoning",
-              "release_date": "2025-05-21",
-              "poster_path": "/iKPsC9EFUafRP9SrUznI61getVP.jpg",
-              "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg"
+              "tmdb_id": 1512623,
+              "title": "Risqu\u00e9",
+              "release_date": "2026-02-22",
+              "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+              "backdrop_path": "/6hFRPU5ww5qThSkbhVoDZLvDTHl.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8371,11 +8371,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1232933,
-              "title": "Fear Below",
-              "release_date": "2026-01-29",
-              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
-              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
+              "tmdb_id": 575265,
+              "title": "Mission: Impossible - The Final Reckoning",
+              "release_date": "2025-05-21",
+              "poster_path": "/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+              "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8387,11 +8387,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1195506,
-              "title": "Novocaine",
-              "release_date": "2025-03-26",
-              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
+              "tmdb_id": 1232933,
+              "title": "Fear Below",
+              "release_date": "2026-01-29",
+              "poster_path": "/f90xO280gGQArVP2GU4IshAClt.jpg",
+              "backdrop_path": "/hr3yzjzfsiNxWqlDgRTSHgYB7fz.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8403,11 +8403,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1302916,
-              "title": "Heart Eyes",
-              "release_date": "2025-02-06",
-              "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
-              "backdrop_path": "/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg"
+              "tmdb_id": 1195506,
+              "title": "Novocaine",
+              "release_date": "2025-03-26",
+              "poster_path": "/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+              "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8853,11 +8853,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 1103437,
-              "title": "Please Don't Feed the Children",
-              "release_date": "2025-11-27",
-              "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
-              "backdrop_path": "/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg"
+              "tmdb_id": 361743,
+              "title": "Top Gun: Maverick",
+              "release_date": "2022-05-21",
+              "poster_path": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+              "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8869,11 +8869,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 361743,
-              "title": "Top Gun: Maverick",
-              "release_date": "2022-05-21",
-              "poster_path": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
-              "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
+              "tmdb_id": 454626,
+              "title": "Sonic the Hedgehog",
+              "release_date": "2020-02-14",
+              "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+              "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8885,11 +8885,11 @@
             },
             {
               "media_type": "movie",
-              "tmdb_id": 454626,
-              "title": "Sonic the Hedgehog",
-              "release_date": "2020-02-14",
-              "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
-              "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
+              "tmdb_id": 744,
+              "title": "Top Gun",
+              "release_date": "1986-08-06",
+              "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+              "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
             },
             {
               "media_type": "tvshow",
@@ -8900,20 +8900,20 @@
               "backdrop_path": "/8Ye9jv4Ibo5xK6GgWihsec8M94A.jpg"
             },
             {
-              "media_type": "movie",
-              "tmdb_id": 744,
-              "title": "Top Gun",
-              "release_date": "1986-08-06",
-              "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-              "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
-            },
-            {
               "media_type": "tvshow",
               "tmdb_id": 8840,
               "title": "Fightland",
               "release_date": "2026-07-31",
               "poster_path": "/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
               "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg"
+            },
+            {
+              "media_type": "tvshow",
+              "tmdb_id": 229544,
+              "title": "Among Us",
+              "release_date": "2026-06-05",
+              "poster_path": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
+              "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg"
             }
           ]
         }
